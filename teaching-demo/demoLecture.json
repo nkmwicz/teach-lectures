@@ -1,31 +1,36 @@
-[{
-    "number": 1.0,
-    "intro": true,
-    "title": "Teaching Demo:",
-    "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
-    "byLine": "Nathan Michalewicz"
-  },
-  {
-    "number": 1.1,
-    "split": true,
-    "title": "Title",
-    "subTitle": "Sub-title",
-    "text": [{
-        "text": "Stuff goes here.",
-        "color": "black"
-      },
-      {
-        "text": "Stuff goes here.",
-        "color": "black"
-      },
-      {
-        "text": "Stuff goes here.",
-        "color": "black"
+{
+  "images": [
+
+  ],
+  "slides": [{
+      "number": 1.0,
+      "intro": true,
+      "title": "Teaching Demo:",
+      "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
+      "byLine": "Nathan Michalewicz"
+    },
+    {
+      "number": 1.1,
+      "split": true,
+      "title": "Title",
+      "subTitle": "Sub-title",
+      "text": [{
+          "text": "Stuff goes here.",
+          "color": "black"
+        },
+        {
+          "text": "Stuff goes here.",
+          "color": "black"
+        },
+        {
+          "text": "Stuff goes here.",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "",
+        "description": "Something."
       }
-    ],
-    "image": {
-      "image": "",
-      "description": "Something."
     }
-  }
-]
+  ]
+}

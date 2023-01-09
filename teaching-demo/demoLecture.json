@@ -1,6 +1,6 @@
 {
   "images": [
-
+    "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg"
   ],
   "slides": [{
       "number": 1.0,
@@ -28,7 +28,7 @@
         }
       ],
       "image": {
-        "image": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg",
         "description": "Something."
       }
     }

@@ -13,7 +13,7 @@
     {
       "number": 1.1,
       "slide": true,
-      "split": "centered",
+      "centered": true,
       "title": "My Teaching Style",
       "text": [{
           "text": "Stuff goes here.",

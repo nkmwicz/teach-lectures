@@ -3,7 +3,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg"
   ],
   "slides": [{
-      "number": 1.0,
+      "number": 0.0,
+      "slide": true,
       "intro": true,
       "title": "Teaching Demo:",
       "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
@@ -11,9 +12,9 @@
     },
     {
       "number": 1.1,
-      "split": true,
-      "title": "Title",
-      "subTitle": "Sub-title",
+      "slide": true,
+      "split": "centered",
+      "title": "My Teaching Style",
       "text": [{
           "text": "Stuff goes here.",
           "color": "black"
@@ -27,10 +28,23 @@
           "color": "black"
         }
       ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg",
-        "description": "Something."
-      }
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "centered": true,
+      "title": "This Lecture",
+      "text": [{
+        "text": [{
+            "text": "Focus:",
+            "color": "black"
+          },
+          [{
+            "text": "The Geopolitical changes in the Sixteenth Century",
+            "color": "black"
+          }]
+        ]
+      }]
     }
   ]
 }

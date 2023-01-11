@@ -35,13 +35,22 @@
       "centered": true,
       "title": "This Lecture",
       "text": [{
-        "text": "Focus:",
-        "color": "black",
-        "children": [{
-          "text": "The Geopolitical changes in the Sixteenth Century",
-          "color": "black"
-        }]
-      }]
+          "text": "Focus:",
+          "color": "black",
+          "children": [{
+            "text": "The Geopolitical changes in the Sixteenth Century",
+            "color": "black"
+          }]
+        },
+        {
+          "text": "Christian and Muslim Conflict",
+          "color": "lightgrey",
+          "children": [{
+            "text": "hellow",
+            "color": "lightgrey"
+          }]
+        }
+      ]
     }
   ]
 }

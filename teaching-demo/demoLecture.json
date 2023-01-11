@@ -14,25 +14,6 @@
       "number": 1.1,
       "slide": true,
       "centered": true,
-      "title": "My Teaching Style",
-      "text": [{
-          "text": "Stuff goes here.",
-          "color": "black"
-        },
-        {
-          "text": "Stuff goes here.",
-          "color": "black"
-        },
-        {
-          "text": "Stuff goes here.",
-          "color": "black"
-        }
-      ]
-    },
-    {
-      "number": 2.0,
-      "slide": true,
-      "centered": true,
       "title": "This Lecture",
       "text": [{
           "text": "Focus:",
@@ -43,10 +24,33 @@
           }]
         },
         {
-          "text": "Christian and Muslim Conflict",
+          "text": "Christian and Muslim Interactions",
           "color": "lightgrey",
           "children": [{
-            "text": "hellow",
+            "text": "What is your impression of Christian-Muslim interactions in the past?",
+            "color": "lightgrey"
+          }]
+        }
+      ]
+    },
+    {
+      "number": 1.2,
+      "slide": true,
+      "centered": true,
+      "title": "This Lecture",
+      "text": [{
+          "text": "Focus:",
+          "color": "lightgrey",
+          "children": [{
+            "text": "The Geopolitical changes in the Sixteenth Century",
+            "color": "black"
+          }]
+        },
+        {
+          "text": "Christian and Muslim Interactions",
+          "color": "black",
+          "children": [{
+            "text": "What is your impression of Christian-Muslim interactions in the past?",
             "color": "lightgrey"
           }]
         }

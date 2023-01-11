@@ -35,15 +35,12 @@
       "centered": true,
       "title": "This Lecture",
       "text": [{
-        "text": [{
-            "text": "Focus:",
-            "color": "black"
-          },
-          [{
-            "text": "The Geopolitical changes in the Sixteenth Century",
-            "color": "black"
-          }]
-        ]
+        "text": "Focus:",
+        "color": "black",
+        "children": [{
+          "text": "The Geopolitical changes in the Sixteenth Century",
+          "color": "black"
+        }]
       }]
     }
   ]

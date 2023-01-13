@@ -203,6 +203,102 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
         "description": "The Battle of Lepanto (1571), by Paolo Veronese."
       }
-    }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "Main Points",
+      "text": [{
+          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+          "color": "black"
+        },
+        {
+          "text": "Structural geopolitical issues drove conflict and peace.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious conflict associated with religious sentiment.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious Enemies =/= Political Enemies.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "Main Points",
+      "text": [{
+          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Structural geopolitical issues drove conflict and peace.",
+          "color": "black"
+        },
+        {
+          "text": "Religious conflict associated with religious sentiment.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious Enemies =/= Political Enemies.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "Main Points",
+      "text": [{
+          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Structural geopolitical issues drove conflict and peace.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious conflict associated with religious sentiment.",
+          "color": "black"
+        },
+        {
+          "text": "Religious Enemies =/= Political Enemies.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "Main Points",
+      "text": [{
+          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Structural geopolitical issues drove conflict and peace.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious conflict associated with religious sentiment.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious Enemies =/= Political Enemies.",
+          "color": "black"
+        }
+      ]
+    },
   ]
 }

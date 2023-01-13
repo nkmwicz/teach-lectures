@@ -1,6 +1,9 @@
 {
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg"
   ],
   "slides": [{
       "number": 0.0,
@@ -19,9 +22,14 @@
           "text": "Focus:",
           "color": "black",
           "children": [{
-            "text": "The Geopolitical changes in the Sixteenth Century",
-            "color": "black"
-          }]
+              "text": "The Geopolitical changes in the Sixteenth Century",
+              "color": "black"
+            },
+            {
+              "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
+              "color": "black"
+            }
+          ]
         },
         {
           "text": "Christian and Muslim Interactions",
@@ -42,19 +50,159 @@
           "text": "Focus:",
           "color": "lightgrey",
           "children": [{
-            "text": "The Geopolitical changes in the Sixteenth Century",
-            "color": "black"
-          }]
+              "text": "The Geopolitical changes in the Sixteenth Century",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
+              "color": "lightgrey"
+            }
+          ]
         },
         {
           "text": "Christian and Muslim Interactions",
           "color": "black",
           "children": [{
             "text": "What is your impression of Christian-Muslim interactions in the past?",
-            "color": "lightgrey"
+            "color": "black"
           }]
         }
       ]
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "A Clash of Civilizations?",
+      "images": [{
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+          "flex": 2
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+          "description": "Ottoman Siege of Constantinople by Jean Le Tavernier (1455)",
+          "flex": 1
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+          "flex": 1
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "A Clash of Civilizations?",
+      "images": [{
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+          "flex": 1
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+          "description": "Ottoman Siege of Constantinople by Jean Le Tavernier (1455)",
+          "flex": 2
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+          "flex": 1
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "A Clash of Civilizations?",
+      "images": [{
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+          "flex": 1
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+          "description": "Ottoman Siege of Constantinople by Jean Le Tavernier (1455)",
+          "flex": 1
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+          "flex": 2
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Cross-Confessional Collaboration",
+      "text": [{
+          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+          "color": "black"
+        },
+        {
+          "text": "Venice and the Ottomans after the Conquest of Constantinople",
+          "color": "lightgrey"
+        },
+        {
+          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+        "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade."
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Cross-Confessional Collaboration",
+      "text": [{
+          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Venice and the Ottomans after the Conquest of Constantinople",
+          "color": "black"
+        },
+        {
+          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+        "description": "Ottoman Siege of Constantinople by Jean Le Tavernier (1455)."
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Cross-Confessional Collaboration",
+      "text": [{
+          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Venice and the Ottomans after the Conquest of Constantinople",
+          "color": "lightgrey"
+        },
+        {
+          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+        "description": "The Battle of Lepanto (1571), by Paolo Veronese."
+      }
     }
   ]
 }

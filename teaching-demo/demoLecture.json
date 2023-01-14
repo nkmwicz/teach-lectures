@@ -308,7 +308,7 @@
       "subTitle": "The Geopolitical Situation",
       "text": [{
           "text": "Something",
-          "color": "black",
+          "color": "black"
         },
         {
           "text": "Something Else",

@@ -299,6 +299,26 @@
           "color": "black"
         }
       ]
+    },
+    {
+      "number": 5.1,
+      "splitChild": true,
+      "borders": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "The Geopolitical Situation",
+      "text": [{
+          "text": "Something",
+          "color": "black",
+        },
+        {
+          "text": "Something Else",
+          "color": "lightgrey"
+        },
+        {
+          "text": "final thing",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

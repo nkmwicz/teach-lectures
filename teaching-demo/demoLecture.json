@@ -17,7 +17,7 @@
       "number": 1.1,
       "slide": true,
       "centered": true,
-      "title": "This Lecture",
+      "title": "Background Information",
       "text": [{
           "text": "Focus:",
           "color": "black",
@@ -45,7 +45,7 @@
       "number": 1.2,
       "slide": true,
       "centered": true,
-      "title": "This Lecture",
+      "title": "Background Information",
       "text": [{
           "text": "Focus:",
           "color": "lightgrey",
@@ -73,7 +73,8 @@
       "number": 2.1,
       "slide": true,
       "centered": true,
-      "title": "A Clash of Civilizations?",
+      "title": "Background Information",
+      "subTitle": "A Clash of Civilizations?",
       "images": [{
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
           "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
@@ -95,7 +96,8 @@
       "number": 2.2,
       "slide": true,
       "centered": true,
-      "title": "A Clash of Civilizations?",
+      "title": "Background Information",
+      "subTitle": "A Clash of Civilizations?",
       "images": [{
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
           "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
@@ -117,7 +119,8 @@
       "number": 2.3,
       "slide": true,
       "centered": true,
-      "title": "A Clash of Civilizations?",
+      "title": "Background Information",
+      "subTitle": "A Clash of Civilizations?",
       "images": [{
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
           "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
@@ -139,7 +142,8 @@
       "number": 3.1,
       "slide": true,
       "split": true,
-      "title": "Cross-Confessional Collaboration",
+      "title": "Background Information",
+      "subTitle": "Cross-Confessional Collaboration",
       "text": [{
           "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
           "color": "black"
@@ -162,7 +166,8 @@
       "number": 3.2,
       "slide": true,
       "split": true,
-      "title": "Cross-Confessional Collaboration",
+      "title": "Background Information",
+      "subTitle": "Cross-Confessional Collaboration",
       "text": [{
           "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
           "color": "lightgrey"
@@ -185,7 +190,8 @@
       "number": 3.3,
       "slide": true,
       "split": true,
-      "title": "Cross-Confessional Collaboration",
+      "title": "Background Information",
+      "subTitle": "Cross-Confessional Collaboration",
       "text": [{
           "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
           "color": "lightgrey"

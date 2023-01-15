@@ -324,7 +324,29 @@
           "text": "final thing",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "year": 1500
+    },
+    {
+      "number": 5.2,
+      "splitChild": true,
+      "borders": true,
+      "title": "The Sixteenth-Century Mediterranean",
+      "subTitle": "The Geopolitical Situation",
+      "text": [{
+          "text": "Something",
+          "color": "black"
+        },
+        {
+          "text": "Something Else",
+          "color": "lightgrey"
+        },
+        {
+          "text": "final thing",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1517
     }
   ]
 }

@@ -346,7 +346,13 @@
           "color": "lightgrey"
         }
       ],
-      "year": 1517
+      "hre": true,
+      "year": 1517,
+      "colors": {
+        "France": "blue",
+        "Ottoman Empire": "Green"
+      },
+      "description": "France and the Ottoman Empire in"
     }
   ]
 }

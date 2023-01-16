@@ -286,8 +286,8 @@
       "number": 4.4,
       "slide": true,
       "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
+      "title": "Main Points",
+      "subTitle": "Religion",
       "text": [{
           "text": "Religious Violence and Religious Collaboration existed simultaneously.",
           "color": "lightgrey"
@@ -310,6 +310,22 @@
       "number": 5.1,
       "splitChild": true,
       "borders": true,
+      "title": "Main Points",
+      "subTitle": "Geopolitics",
+      "text": [{
+        "text": "hello",
+        "color": "black"
+      }],
+      "year": 1500,
+      "colors": {
+        "Spain": "yellow",
+
+      }
+    },
+    {
+      "number": 6.1,
+      "splitChild": true,
+      "borders": true,
       "title": "The Sixteenth-Century Mediterranean",
       "subTitle": "The Geopolitical Situation",
       "text": [{
@@ -328,7 +344,7 @@
       "year": 1500
     },
     {
-      "number": 5.2,
+      "number": 6.2,
       "splitChild": true,
       "borders": true,
       "title": "The Sixteenth-Century Mediterranean",
@@ -353,6 +369,20 @@
         "Ottoman Empire": "Green"
       },
       "description": "France and the Ottoman Empire in"
+    },
+    {
+      "number": 7.0,
+      "slide": true,
+      "splitEmbed": true,
+      "title": "Practice Embed",
+      "text": [{
+        "text": "Practice",
+        "color": "black"
+      }],
+      "embed": {
+        "url": "https://www.youtube.com/watch?v=CocEMWdc7Ck",
+        "title": "Something from Shakira"
+      }
     }
   ]
 }

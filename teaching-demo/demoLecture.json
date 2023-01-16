@@ -3,7 +3,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/9/96/Mediterranee_02_EN.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg"
+    "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+    "https://nathanmichalewicz.org/omeka/files/original/471cef5d4c6c5b019cec2165b6db4541.png",
+    "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG"
   ],
   "slides": [{
       "number": 0.0,
@@ -212,6 +215,34 @@
     },
     {
       "number": 4.1,
+      "splitChild": true,
+      "borders": true,
+      "title": "The Sixteenth-Century",
+      "subTitle": "A Major Transformation in the Mediterranean",
+      "text": [{
+          "text": "In 1500, Two Mediterranean Frontiers: East & West",
+          "color": "black"
+        },
+        {
+          "text": "In 1535, Mediterranean Frontiers Consolidated",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Habsburgs vs Ottomans",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1500,
+      "colors": {
+        "Spain": "blue",
+        "Fez": "green",
+        "Portugal": "white",
+        "Morocco": "orange",
+        "Souss": "brown"
+      }
+    },
+    {
+      "number": 5.1,
       "slide": true,
       "centered": true,
       "title": "The Sixteenth-Century Mediterranean",
@@ -235,7 +266,7 @@
       ]
     },
     {
-      "number": 4.2,
+      "number": 5.2,
       "slide": true,
       "centered": true,
       "title": "The Sixteenth-Century Mediterranean",
@@ -259,7 +290,7 @@
       ]
     },
     {
-      "number": 4.3,
+      "number": 5.3,
       "slide": true,
       "centered": true,
       "title": "The Sixteenth-Century Mediterranean",
@@ -283,7 +314,7 @@
       ]
     },
     {
-      "number": 4.4,
+      "number": 5.4,
       "slide": true,
       "centered": true,
       "title": "Main Points",
@@ -307,28 +338,13 @@
       ]
     },
     {
-      "number": 5.1,
+      "number": 7.1,
       "splitChild": true,
       "borders": true,
-      "title": "Main Points",
-      "subTitle": "Geopolitics",
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: The Ottoman Empire",
       "text": [{
-        "text": "hello",
-        "color": "black"
-      }],
-      "year": 1500,
-      "colors": {
-        "Spain": "blue"
-      }
-    },
-    {
-      "number": 6.1,
-      "splitChild": true,
-      "borders": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "The Geopolitical Situation",
-      "text": [{
-          "text": "Something",
+          "text": "The Ottoman Empire",
           "color": "black"
         },
         {
@@ -343,31 +359,192 @@
       "year": 1500
     },
     {
-      "number": 6.2,
+      "number": 8.1,
       "splitChild": true,
       "borders": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "The Geopolitical Situation",
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
       "text": [{
-          "text": "Something",
+          "text": "Duke of Burgundy (1509)",
           "color": "black"
         },
         {
-          "text": "Something Else",
+          "text": "King of Spain (1516): inherited N. African Frontier",
           "color": "lightgrey"
         },
         {
-          "text": "final thing",
+          "text": "Holy Roman Emperor (1519)",
           "color": "lightgrey"
         }
       ],
-      "hre": true,
-      "year": 1517,
+      "year": 1509,
       "colors": {
-        "France": "blue",
-        "Ottoman Empire": "Green"
-      },
-      "description": "France and the Ottoman Empire in"
+        "Austria-Burgundy": "red"
+      }
+    },
+    {
+      "number": 8.2,
+      "splitChild": true,
+      "borders": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+      "text": [{
+          "text": "Duke of Burgundy (1509)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "King of Spain (1516): inherited N. African Frontier",
+          "color": "black"
+        },
+        {
+          "text": "Holy Roman Emperor (1519)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1516,
+      "colors": {
+        "Austria-Burgundy": "red",
+        "Spain": "red"
+      }
+    },
+    {
+      "number": 8.3,
+      "splitChild": true,
+      "slide": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+      "text": [{
+          "text": "Duke of Burgundy (1509)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "King of Spain (1516): inherited N. African Frontier",
+          "color": "black"
+        },
+        {
+          "text": "Holy Roman Emperor (1519)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/471cef5d4c6c5b019cec2165b6db4541.png",
+        "description": "Map of Portuguese and Spanish Expansion into North Africa, 1415-1510"
+      }
+    },
+    {
+      "number": 8.4,
+      "split": true,
+      "slide": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+      "text": [{
+          "text": "Duke of Burgundy (1509)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "King of Spain (1516): inherited N. African Frontier",
+          "color": "black"
+        },
+        {
+          "text": "Holy Roman Emperor (1519)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
+        "description": "Map of Spanish Expansion in North Africa, 1415-1510"
+      }
+    },
+    {
+      "number": 9.1,
+      "splitChild": true,
+      "borders": true,
+      "title": "Early Ottoman-Habsburg Conflict",
+      "text": [{
+          "text": "The Battle of Mohacs (1526)",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Siege of Vienna (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Set off a Major Rivalry",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "splitChild": true,
+      "borders": true,
+      "title": "Early Ottoman-Habsburg Conflict",
+      "text": [{
+          "text": "The Battle of Mohacs (1526)",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Siege of Vienna (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Set off a Major Rivalry",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 9.3,
+      "split": true,
+      "slide": true,
+      "title": "Early Ottoman-Habsburg Conflict",
+      "text": [{
+          "text": "The Battle of Mohacs (1526)",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Siege of Vienna (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Set off a Major Rivalry",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
+        "description": "Image of Sultan Suleiman and His Venetian Crown"
+      }
+    },
+    {
+      "number": 10.1,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
+      "text": [{
+          "text": "Hayreddin Barbarossa",
+          "color": "black"
+        },
+        {
+          "text": "Hafsid Tunis Squeezed by the Ottomans",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "split": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "",
+          "color": "black"
+        },
+        {
+          "text": "Hafsid Tunis Squeezed by the Ottomans",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

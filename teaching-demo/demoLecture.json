@@ -368,20 +368,6 @@
         "Ottoman Empire": "Green"
       },
       "description": "France and the Ottoman Empire in"
-    },
-    {
-      "number": 7.0,
-      "slide": true,
-      "splitEmbed": true,
-      "title": "Practice Embed",
-      "text": [{
-        "text": "Practice",
-        "color": "black"
-      }],
-      "embed": {
-        "url": "https://www.youtube.com/embed/CocEMWdc7Ck",
-        "title": "Something from Shakira"
-      }
     }
   ]
 }

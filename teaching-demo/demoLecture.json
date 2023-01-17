@@ -527,7 +527,8 @@
       "year": 1519,
       "colors": {
         "Habsburg": "red"
-      }
+      },
+      "hre": true
     },
     {
       "number": 9.1,

@@ -558,7 +558,8 @@
         "Hungary-Bohemia": "white",
         "Bohemia-Hungary": "white"
       },
-      "hre": true
+      "hre": true,
+      "description": "United Kingdoms of Bohemia-Hungary before 1526"
     },
     {
       "number": 9.2,
@@ -585,7 +586,8 @@
         "Hungary-Bohemia": "white",
         "Bohemia-Hungary": "white"
       },
-      "hre": true
+      "hre": true,
+      "description": "New Borders after the Battle of Mohacs"
     },
     {
       "number": 9.3,
@@ -594,11 +596,11 @@
       "title": "Early Ottoman-Habsburg Conflict",
       "text": [{
           "text": "The Battle of Mohacs (1526)",
-          "color": "black"
+          "color": "lightgrey"
         },
         {
           "text": "Ottoman Siege of Vienna (1529)",
-          "color": "lightgrey"
+          "color": "black"
         },
         {
           "text": "Set off a Major Rivalry",
@@ -608,12 +610,11 @@
       "year": 1526,
       "colors": {
         "Habsburg": "red",
-        "Ottoman Empire": "green",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white"
+        "Ottoman Empire": "green"
       },
       "hre": true,
-      "vienna": true
+      "vienna": true,
+      "description": "Ottomans and Habsburgs in "
     },
     {
       "number": 9.4,

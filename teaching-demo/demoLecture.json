@@ -486,15 +486,45 @@
           "color": "black"
         },
         {
-          "text": "Something Else",
+          "text": "Conquest of Mamluk Egypt (1517)",
           "color": "lightgrey"
         },
         {
-          "text": "final thing",
+          "text": "Suleiman the Magnificent",
           "color": "lightgrey"
         }
       ],
-      "year": 1500
+      "year": 1500,
+      "colors": {
+        "Ottoman Empire": "green"
+      },
+      "description": "Ottoman Empire, "
+    },
+    {
+      "number": 7.2,
+      "splitChild": true,
+      "borders": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: The Ottoman Empire",
+      "text": [{
+          "text": "The Ottoman Empire",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conquest of Mamluk Egypt (1517)",
+          "color": "black"
+        },
+        {
+          "text": "Suleiman the Magnificent (r. 1520-1566)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1516,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Mamluk Egypt": "pink"
+      },
+      "description": "Ottoman Empire, "
     },
     {
       "number": 8.1,
@@ -507,15 +537,15 @@
           "color": "black"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "lightgrey"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "lightgrey"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "lightgrey"
         }
       ],
@@ -535,15 +565,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "black"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "lightgrey"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "lightgrey"
         }
       ],
@@ -564,15 +594,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "lightgrey"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "black"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "lightgrey"
         }
       ],
@@ -594,15 +624,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "lightgrey"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "black"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "lightgrey"
         }
       ],
@@ -622,15 +652,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "lightgrey"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "black"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "lightgrey"
         }
       ],
@@ -650,15 +680,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Duke of Burgundy (1509)",
+          "text": "Duke of Burgundy (r. 1509-1556)",
           "color": "lightgrey"
         },
         {
-          "text": "King of Spain (1516): inherited N. African Frontier",
+          "text": "King of Spain (r. 1516-1556): inherited N. African Frontier",
           "color": "lightgrey"
         },
         {
-          "text": "Holy Roman Emperor (1519)",
+          "text": "Holy Roman Emperor (r. 1519-1556)",
           "color": "black"
         }
       ],

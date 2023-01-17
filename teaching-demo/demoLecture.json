@@ -65,27 +65,27 @@
       "title": "Background Information",
       "text": [{
           "text": "This Presentation",
-          "color": "black",
+          "color": "lightgrey",
           "children": [{
               "text": "Teaching Style: Mix Discussion and Lecture",
-              "color": "black"
+              "color": "lightgrey"
             },
             {
               "text": "presentation website: nathanmichalewicz.org/teaching-demo",
-              "color": "black"
+              "color": "lightgrey"
             }
           ]
         },
         {
           "text": "Focus:",
-          "color": "lightgrey",
+          "color": "black",
           "children": [{
               "text": "The Geopolitical changes in the Sixteenth Century",
-              "color": "lightgrey"
+              "color": "black"
             },
             {
               "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
-              "color": "lightgrey"
+              "color": "black"
             }
           ]
         },
@@ -106,14 +106,14 @@
       "title": "Background Information",
       "text": [{
           "text": "This Presentation",
-          "color": "black",
+          "color": "lightgrey",
           "children": [{
               "text": "Teaching Style: Mix Discussion and Lecture",
-              "color": "black"
+              "color": "lightgrey"
             },
             {
               "text": "presentation website: nathanmichalewicz.org/teaching-demo",
-              "color": "black"
+              "color": "lightgrey"
             }
           ]
         },

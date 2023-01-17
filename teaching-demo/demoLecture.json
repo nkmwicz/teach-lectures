@@ -288,15 +288,15 @@
       "title": "The Sixteenth-Century",
       "subTitle": "A Major Transformation in the Mediterranean",
       "text": [{
-          "text": "In 1500, Two Mediterranean Frontiers: East & West",
+          "text": "In 1500, Two Mediterranean Frontiers: The West",
           "color": "black"
         },
         {
-          "text": "In 1535, Mediterranean Frontiers Consolidated",
+          "text": "In 1500, Two Mediterranean Frontiers: The East",
           "color": "lightgrey"
         },
         {
-          "text": "Habsburgs vs Ottomans",
+          "text": "By 1574, Mediterranean Frontiers Consolidated: Ottomans vs Habsburgs",
           "color": "lightgrey"
         }
       ],
@@ -309,16 +309,74 @@
         "Souss": "brown",
         "Tlemcen": "pink",
         "Kuko": "lightpink",
-        "Ouarsenis": "lightgreen"
-
+        "Ouarsenis": "lightgreen",
+        "Labbes": "darkcyan",
+        "Tunis": "magenta",
+        "Tripoli": "limegreen"
+      }
+    },
+    {
+      "number": 4.2,
+      "splitChild": true,
+      "borders": true,
+      "title": "The Sixteenth-Century",
+      "subTitle": "A Major Transformation in the Mediterranean",
+      "text": [{
+          "text": "In 1500, Two Mediterranean Frontiers: The West",
+          "color": "black"
+        },
+        {
+          "text": "In 1500, Two Mediterranean Frontiers: The East",
+          "color": "lightgrey"
+        },
+        {
+          "text": "By 1574, Mediterranean Frontiers Consolidated: Ottomans vs Habsburgs",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1500,
+      "colors": {
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Mamluk Egypt": "pink",
+        "Hungary-Bohemia": "white",
+        "Bohemia-Hungary": "white",
+        "Venice": "darkgrey"
+      }
+    },
+    {
+      "number": 4.3,
+      "splitChild": true,
+      "borders": true,
+      "title": "The Sixteenth-Century",
+      "subTitle": "A Major Transformation in the Mediterranean",
+      "text": [{
+          "text": "In 1500, Two Mediterranean Frontiers: The West",
+          "color": "black"
+        },
+        {
+          "text": "In 1500, Two Mediterranean Frontiers: The East",
+          "color": "lightgrey"
+        },
+        {
+          "text": "By 1574, Mediterranean Frontiers Consolidated: Ottomans vs Habsburgs",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1574,
+      "colors": {
+        "Spain": "blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Morocco": "orange"
       }
     },
     {
       "number": 5.1,
       "slide": true,
       "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
+      "title": "Main Points",
+      "subTitle": "Religion",
       "text": [{
           "text": "Religious Violence and Religious Collaboration existed simultaneously.",
           "color": "black"
@@ -341,8 +399,8 @@
       "number": 5.2,
       "slide": true,
       "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
+      "title": "Main Points",
+      "subTitle": "Religion",
       "text": [{
           "text": "Religious Violence and Religious Collaboration existed simultaneously.",
           "color": "lightgrey"
@@ -365,8 +423,8 @@
       "number": 5.3,
       "slide": true,
       "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
+      "title": "Main Points",
+      "subTitle": "Religion",
       "text": [{
           "text": "Religious Violence and Religious Collaboration existed simultaneously.",
           "color": "lightgrey"

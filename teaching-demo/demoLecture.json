@@ -409,7 +409,7 @@
     },
     {
       "number": 8.3,
-      "splitChild": true,
+      "split": true,
       "slide": true,
       "title": "What Caused This Consolidation?",
       "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",

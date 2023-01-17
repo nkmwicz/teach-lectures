@@ -312,7 +312,8 @@
         "Ouarsenis": "lightgreen",
         "Labbes": "darkcyan",
         "Tunis": "magenta",
-        "Tripoli": "limegreen"
+        "Tripoli": "limegreen",
+        "Zenatas":
       }
     },
     {
@@ -341,7 +342,9 @@
         "Mamluk Egypt": "pink",
         "Hungary-Bohemia": "white",
         "Bohemia-Hungary": "white",
-        "Venice": "darkgrey"
+        "Venice": "olive",
+        "Naples": "teal",
+        "Papal States": "goldenrod"
       }
     },
     {
@@ -368,7 +371,7 @@
         "Spain": "blue",
         "Habsburg": "red",
         "Ottoman Empire": "green",
-        "Morocco": "orange"
+        "Morocco": "orange",
       }
     },
     {

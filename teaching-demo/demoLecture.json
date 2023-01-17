@@ -413,7 +413,8 @@
       "year": 1509,
       "colors": {
         "Austria-Burgundy": "red"
-      }
+      },
+      "description": "Burgundian Lands of Charles V in "
     },
     {
       "number": 8.3,
@@ -443,7 +444,7 @@
         "Austria-Burgundy": "red",
         "Spain": "red"
       },
-      "description": "Charles V's lands in Burgundy and Spain in "
+      "description": "Spanish and Burgundian Lands of Charles V in  "
     },
     {
       "number": 8.4,
@@ -529,7 +530,8 @@
         "Habsburg": "red",
         "France": "burntorange"
       },
-      "hre": true
+      "hre": true,
+      "description": "Spanish, Burgundian, and Imperial Lands of Charles V in "
     },
     {
       "number": 9.1,

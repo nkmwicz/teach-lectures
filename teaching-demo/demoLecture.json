@@ -307,7 +307,7 @@
         "Portugal": "white",
         "Morocco": "orange",
         "Souss": "brown",
-        "Tlemcen": "pink",
+        "Tlemcen": "deeppink",
         "Kuko": "lightpink",
         "Ouarsenis": "lightgreen",
         "Labbes": "darkcyan",
@@ -340,7 +340,7 @@
       "colors": {
         "Habsburg": "red",
         "Ottoman Empire": "green",
-        "Mamluk Egypt": "pink",
+        "Mamluk Egypt": "deeppink",
         "Hungary-Bohemia": "white",
         "Bohemia-Hungary": "white",
         "Venice": "darkmagenta",
@@ -522,7 +522,7 @@
       "year": 1516,
       "colors": {
         "Ottoman Empire": "green",
-        "Mamluk Egypt": "pink"
+        "Mamluk Egypt": "deeppink"
       },
       "description": "Ottoman Empire, "
     },

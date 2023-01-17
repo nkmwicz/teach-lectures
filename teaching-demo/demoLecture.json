@@ -6,7 +6,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
     "https://nathanmichalewicz.org/omeka/files/original/471cef5d4c6c5b019cec2165b6db4541.png",
     "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
-    "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG"
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg"
   ],
   "slides": [{
       "number": 0.0,
@@ -360,6 +361,30 @@
     },
     {
       "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+      "text": [{
+          "text": "Duke of Burgundy (1509)",
+          "color": "black"
+        },
+        {
+          "text": "King of Spain (1516): inherited N. African Frontier",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Holy Roman Emperor (1519)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg",
+        "description": "Portrait of Charles V by Jakob Seisenegger in 1532."
+      }
+    },
+    {
+      "number": 8.2,
       "splitChild": true,
       "borders": true,
       "title": "What Caused This Consolidation?",
@@ -383,7 +408,7 @@
       }
     },
     {
-      "number": 8.2,
+      "number": 8.3,
       "splitChild": true,
       "borders": true,
       "title": "What Caused This Consolidation?",
@@ -405,10 +430,11 @@
       "colors": {
         "Austria-Burgundy": "red",
         "Spain": "red"
-      }
+      },
+      "description": "Charles V's lands in Burgundy and Spain in "
     },
     {
-      "number": 8.3,
+      "number": 8.4,
       "split": true,
       "slide": true,
       "title": "What Caused This Consolidation?",
@@ -432,7 +458,7 @@
       }
     },
     {
-      "number": 8.4,
+      "number": 8.5,
       "split": true,
       "slide": true,
       "title": "What Caused This Consolidation?",
@@ -453,6 +479,30 @@
       "image": {
         "image": "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
         "description": "Map of Spanish Expansion in North Africa, 1415-1510"
+      }
+    },
+    {
+      "number": 8.6,
+      "splitChild": true,
+      "slide": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+      "text": [{
+          "text": "Duke of Burgundy (1509)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "King of Spain (1516): inherited N. African Frontier",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Holy Roman Emperor (1519)",
+          "color": "black"
+        }
+      ],
+      "year": 1519,
+      "colors": {
+        "Habsburg": "red"
       }
     },
     {
@@ -518,10 +568,12 @@
     },
     {
       "number": 10.1,
+      "slide": true,
+      "split": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
       "text": [{
-          "text": "Hayreddin Barbarossa",
+          "text": "Mediterranean Privateers: Hayreddin Barbarossa",
           "color": "black"
         },
         {

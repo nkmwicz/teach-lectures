@@ -550,7 +550,16 @@
           "text": "Set off a Major Rivalry",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "year": 1526,
+      "colors": {
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Hungary-Bohemia": "white",
+        "Bohemia-Hungary": "white",
+        "France": "lightgrey"
+      },
+      "hre": true
     },
     {
       "number": 9.2,

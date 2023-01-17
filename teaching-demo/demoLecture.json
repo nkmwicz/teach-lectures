@@ -526,7 +526,8 @@
       ],
       "year": 1519,
       "colors": {
-        "Habsburg": "red"
+        "Habsburg": "red",
+        "France": "burntorange"
       },
       "hre": true
     },

@@ -556,8 +556,7 @@
         "Habsburg": "red",
         "Ottoman Empire": "green",
         "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white",
-        "France": "lightgrey"
+        "Bohemia-Hungary": "white"
       },
       "hre": true
     },
@@ -578,10 +577,46 @@
           "text": "Set off a Major Rivalry",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "year": 1526,
+      "colors": {
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Hungary-Bohemia": "white",
+        "Bohemia-Hungary": "white"
+      },
+      "hre": true
     },
     {
       "number": 9.3,
+      "splitChild": true,
+      "borders": true,
+      "title": "Early Ottoman-Habsburg Conflict",
+      "text": [{
+          "text": "The Battle of Mohacs (1526)",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Siege of Vienna (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Set off a Major Rivalry",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1526,
+      "colors": {
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Hungary-Bohemia": "white",
+        "Bohemia-Hungary": "white"
+      },
+      "hre": true,
+      "vienna": true,
+    },
+    {
+      "number": 9.4,
       "split": true,
       "slide": true,
       "title": "Early Ottoman-Habsburg Conflict",

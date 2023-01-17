@@ -10,676 +10,756 @@
     "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg"
   ],
   "slides": [{
-      "number": 0.0,
-      "slide": true,
-      "intro": true,
-      "title": "Teaching Demo:",
-      "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
-      "byLine": "Nathan Michalewicz"
-    },
-    {
-      "number": 1.1,
-      "slide": true,
-      "centered": true,
-      "title": "Background Information",
-      "text": [{
-          "text": "Focus:",
-          "color": "black",
-          "children": [{
-              "text": "The Geopolitical changes in the Sixteenth Century",
-              "color": "black"
-            },
-            {
-              "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
-              "color": "black"
-            }
-          ]
-        },
-        {
-          "text": "Christian and Muslim Interactions",
-          "color": "lightgrey",
-          "children": [{
-            "text": "What is your impression of Christian-Muslim interactions in the past?",
-            "color": "lightgrey"
-          }]
-        }
-      ]
-    },
-    {
-      "number": 1.2,
-      "slide": true,
-      "centered": true,
-      "title": "Background Information",
-      "text": [{
-          "text": "Focus:",
-          "color": "lightgrey",
-          "children": [{
-              "text": "The Geopolitical changes in the Sixteenth Century",
+        "number": 0.0,
+        "slide": true,
+        "intro": true,
+        "title": "Teaching Demo:",
+        "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
+        "byLine": "Nathan Michalewicz"
+      },
+      {
+        "number": 1.1,
+        "slide": true,
+        "centered": true,
+        "title": "Background Information",
+        "text": [{
+            "text": "This Presentation",
+            "color": "black",
+            "children": [{
+                "text": "Teaching Style: Mix Discussion and Lecture",
+                "color": "black"
+              },
+              {
+                "text": "presentation website: nathanmichalewicz.org/teaching-demo",
+                "color": "black"
+              }
+            ]
+          },
+          {
+            "text": "Focus:",
+            "color": "lightgrey",
+            "children": [{
+                "text": "The Geopolitical changes in the Sixteenth Century",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "text": "Christian and Muslim Interactions",
+            "color": "lightgrey",
+            "children": [{
+              "text": "What is your impression of Christian-Muslim interactions in the past?",
               "color": "lightgrey"
-            },
-            {
-              "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
-              "color": "lightgrey"
+            }]
+          }
+        ]
+      },
+      {
+        "number": 1.2,
+        "slide": true,
+        "centered": true,
+        "title": "Background Information",
+        "text": [{
+            "text": "This Presentation",
+            "color": "black",
+            "children": [{
+                "text": "Teaching Style: Mix Discussion and Lecture",
+                "color": "black"
+              },
+              {
+                "text": "presentation website: nathanmichalewicz.org/teaching-demo",
+                "color": "black"
+              }
+            ]
+          },
+          {
+            "text": "Focus:",
+            "color": "lightgrey",
+            "children": [{
+                "text": "The Geopolitical changes in the Sixteenth Century",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 1.3,
+            "slide": true,
+            "centered": true,
+            "title": "Background Information",
+            "text": [{
+                "text": "This Presentation",
+                "color": "black",
+                "children": [{
+                    "text": "Teaching Style: Mix Discussion and Lecture",
+                    "color": "black"
+                  },
+                  {
+                    "text": "presentation website: nathanmichalewicz.org/teaching-demo",
+                    "color": "black"
+                  }
+                ]
+              },
+              {
+                "text": "Focus:",
+                "color": "lightgrey",
+                "children": [{
+                    "text": "The Geopolitical changes in the Sixteenth Century",
+                    "color": "lightgrey"
+                  },
+                  {
+                    "text": "Comes from my class on the Mediterranean from Muhammad to Napoleon.",
+                    "color": "lightgrey"
+                  }
+                ]
+              },
+              {
+                "text": "Christian and Muslim Interactions",
+                "color": "black",
+                "children": [{
+                  "text": "What is your impression of Christian-Muslim interactions in the past?",
+                  "color": "black"
+                }]
+              }
+            ]
+          },
+          {
+            "number": 2.1,
+            "slide": true,
+            "centered": true,
+            "title": "Background Information",
+            "subTitle": "A Clash of Civilizations?",
+            "images": [{
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+                "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+                "opacity": 1
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+                "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
+                "opacity": 0.5
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+                "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+                "opacity": 0.5
+              }
+            ]
+          },
+          {
+            "number": 2.2,
+            "slide": true,
+            "centered": true,
+            "title": "Background Information",
+            "subTitle": "A Clash of Civilizations?",
+            "images": [{
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+                "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+                "opacity": 0.5
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+                "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
+                "opacity": 1
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+                "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+                "opacity": 0.5
+              }
+            ]
+          },
+          {
+            "number": 2.3,
+            "slide": true,
+            "centered": true,
+            "title": "Background Information",
+            "subTitle": "A Clash of Civilizations?",
+            "images": [{
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+                "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
+                "opacity": 0.5
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+                "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
+                "opacity": 0.5
+              },
+              {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+                "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+                "opacity": 1
+              }
+            ]
+          },
+          {
+            "number": 3.1,
+            "slide": true,
+            "split": true,
+            "title": "Background Information",
+            "subTitle": "Cross-Confessional Collaboration",
+            "text": [{
+                "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+                "color": "black"
+              },
+              {
+                "text": "Venice and the Ottomans after the Conquest of Constantinople",
+                "color": "lightgrey"
+              },
+              {
+                "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+                "color": "lightgrey"
+              }
+            ],
+            "image": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+              "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade."
             }
-          ]
-        },
-        {
-          "text": "Christian and Muslim Interactions",
-          "color": "black",
-          "children": [{
-            "text": "What is your impression of Christian-Muslim interactions in the past?",
-            "color": "black"
-          }]
-        }
-      ]
-    },
-    {
-      "number": 2.1,
-      "slide": true,
-      "centered": true,
-      "title": "Background Information",
-      "subTitle": "A Clash of Civilizations?",
-      "images": [{
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
-          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
-          "opacity": 1
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-          "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
-          "opacity": 0.5
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
-          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
-          "opacity": 0.5
-        }
-      ]
-    },
-    {
-      "number": 2.2,
-      "slide": true,
-      "centered": true,
-      "title": "Background Information",
-      "subTitle": "A Clash of Civilizations?",
-      "images": [{
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
-          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
-          "opacity": 0.5
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-          "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
-          "opacity": 1
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
-          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
-          "opacity": 0.5
-        }
-      ]
-    },
-    {
-      "number": 2.3,
-      "slide": true,
-      "centered": true,
-      "title": "Background Information",
-      "subTitle": "A Clash of Civilizations?",
-      "images": [{
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
-          "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
-          "opacity": 0.5
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-          "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
-          "opacity": 0.5
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
-          "description": "The Battle of Lepanto (1571), by Paolo Veronese",
-          "opacity": 1
-        }
-      ]
-    },
-    {
-      "number": 3.1,
-      "slide": true,
-      "split": true,
-      "title": "Background Information",
-      "subTitle": "Cross-Confessional Collaboration",
-      "text": [{
-          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
-          "color": "black"
-        },
-        {
-          "text": "Venice and the Ottomans after the Conquest of Constantinople",
-          "color": "lightgrey"
-        },
-        {
-          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
-        "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade."
+          },
+          {
+            "number": 3.2,
+            "slide": true,
+            "split": true,
+            "title": "Background Information",
+            "subTitle": "Cross-Confessional Collaboration",
+            "text": [{
+                "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Venice and the Ottomans after the Conquest of Constantinople",
+                "color": "black"
+              },
+              {
+                "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+                "color": "lightgrey"
+              }
+            ],
+            "image": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
+              "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)."
+            }
+          },
+          {
+            "number": 3.3,
+            "slide": true,
+            "split": true,
+            "title": "Background Information",
+            "subTitle": "Cross-Confessional Collaboration",
+            "text": [{
+                "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Venice and the Ottomans after the Conquest of Constantinople",
+                "color": "lightgrey"
+              },
+              {
+                "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
+                "color": "black"
+              }
+            ],
+            "image": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
+              "description": "The Battle of Lepanto (1571), by Paolo Veronese."
+            }
+          },
+          {
+            "number": 4.1,
+            "splitChild": true,
+            "borders": true,
+            "title": "The Sixteenth-Century",
+            "subTitle": "A Major Transformation in the Mediterranean",
+            "text": [{
+                "text": "In 1500, Two Mediterranean Frontiers: East & West",
+                "color": "black"
+              },
+              {
+                "text": "In 1535, Mediterranean Frontiers Consolidated",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Habsburgs vs Ottomans",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1500,
+            "colors": {
+              "Spain": "blue",
+              "Fez": "green",
+              "Portugal": "white",
+              "Morocco": "orange",
+              "Souss": "brown"
+            }
+          },
+          {
+            "number": 5.1,
+            "slide": true,
+            "centered": true,
+            "title": "The Sixteenth-Century Mediterranean",
+            "subTitle": "Main Points",
+            "text": [{
+                "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+                "color": "black"
+              },
+              {
+                "text": "Structural geopolitical issues drove conflict and peace.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious conflict associated with religious sentiment.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious Enemies =/= Political Enemies.",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 5.2,
+            "slide": true,
+            "centered": true,
+            "title": "The Sixteenth-Century Mediterranean",
+            "subTitle": "Main Points",
+            "text": [{
+                "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Structural geopolitical issues drove conflict and peace.",
+                "color": "black"
+              },
+              {
+                "text": "Religious conflict associated with religious sentiment.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious Enemies =/= Political Enemies.",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 5.3,
+            "slide": true,
+            "centered": true,
+            "title": "The Sixteenth-Century Mediterranean",
+            "subTitle": "Main Points",
+            "text": [{
+                "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Structural geopolitical issues drove conflict and peace.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious conflict associated with religious sentiment.",
+                "color": "black"
+              },
+              {
+                "text": "Religious Enemies =/= Political Enemies.",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 5.4,
+            "slide": true,
+            "centered": true,
+            "title": "Main Points",
+            "subTitle": "Religion",
+            "text": [{
+                "text": "Religious Violence and Religious Collaboration existed simultaneously.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Structural geopolitical issues drove conflict and peace.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious conflict associated with religious sentiment.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Religious Enemies =/= Political Enemies.",
+                "color": "black"
+              }
+            ]
+          },
+          {
+            "number": 7.1,
+            "splitChild": true,
+            "borders": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: The Ottoman Empire",
+            "text": [{
+                "text": "The Ottoman Empire",
+                "color": "black"
+              },
+              {
+                "text": "Something Else",
+                "color": "lightgrey"
+              },
+              {
+                "text": "final thing",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1500
+          },
+          {
+            "number": 8.1,
+            "slide": true,
+            "split": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "black"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "lightgrey"
+              }
+            ],
+            "image": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg",
+              "description": "Portrait of Charles V by Jakob Seisenegger in 1532."
+            }
+          },
+          {
+            "number": 8.2,
+            "splitChild": true,
+            "borders": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "black"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1509,
+            "colors": {
+              "Austria-Burgundy": "red"
+            },
+            "description": "Burgundian Lands of Charles V in "
+          },
+          {
+            "number": 8.3,
+            "splitChild": true,
+            "borders": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "black"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1516,
+            "colors": {
+              "Austria-Burgundy": "red",
+              "Spain": "red"
+            },
+            "description": "Spanish and Burgundian Lands of Charles V in  "
+          },
+          {
+            "number": 8.4,
+            "split": true,
+            "slide": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "black"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "lightgrey"
+              }
+            ],
+            "image": {
+              "image": "https://nathanmichalewicz.org/omeka/files/original/471cef5d4c6c5b019cec2165b6db4541.png",
+              "description": "Map of Portuguese and Spanish Expansion into North Africa, 1415-1510"
+            }
+          },
+          {
+            "number": 8.5,
+            "split": true,
+            "slide": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "black"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "lightgrey"
+              }
+            ],
+            "image": {
+              "image": "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
+              "description": "Map of Spanish Expansion in North Africa, 1415-1510"
+            }
+          },
+          {
+            "number": 8.6,
+            "splitChild": true,
+            "slide": true,
+            "title": "What Caused This Consolidation?",
+            "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
+            "text": [{
+                "text": "Charles V, a very lucky man.",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Duke of Burgundy (1509)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "King of Spain (1516): inherited N. African Frontier",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Holy Roman Emperor (1519)",
+                "color": "black"
+              }
+            ],
+            "year": 1519,
+            "colors": {
+              "Habsburg": "red",
+              "France": "lightgrey"
+            },
+            "hre": true,
+            "description": "Spanish, Burgundian, and Imperial Lands of Charles V in "
+          },
+          {
+            "number": 9.1,
+            "splitChild": true,
+            "borders": true,
+            "title": "Early Ottoman-Habsburg Conflict",
+            "text": [{
+                "text": "The Battle of Mohacs (1526)",
+                "color": "black"
+              },
+              {
+                "text": "Ottoman Siege of Vienna (1529)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Set off a Major Rivalry",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1525,
+            "colors": {
+              "Habsburg": "red",
+              "Ottoman Empire": "green",
+              "Hungary-Bohemia": "white",
+              "Bohemia-Hungary": "white"
+            },
+            "hre": true,
+            "description": "United Kingdoms of Bohemia-Hungary before "
+          },
+          {
+            "number": 9.2,
+            "splitChild": true,
+            "borders": true,
+            "title": "Early Ottoman-Habsburg Conflict",
+            "text": [{
+                "text": "The Battle of Mohacs (1526)",
+                "color": "black"
+              },
+              {
+                "text": "Ottoman Siege of Vienna (1529)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Set off a Major Rivalry",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1526,
+            "colors": {
+              "Habsburg": "red",
+              "Ottoman Empire": "green",
+              "Hungary-Bohemia": "white",
+              "Bohemia-Hungary": "white"
+            },
+            "hre": true,
+            "description": "New Borders after the Battle of Mohacs "
+          },
+          {
+            "number": 9.3,
+            "splitChild": true,
+            "borders": true,
+            "title": "Early Ottoman-Habsburg Conflict",
+            "text": [{
+                "text": "The Battle of Mohacs (1526)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Ottoman Siege of Vienna (1529)",
+                "color": "black"
+              },
+              {
+                "text": "Set off a Major Rivalry",
+                "color": "lightgrey"
+              }
+            ],
+            "year": 1526,
+            "colors": {
+              "Habsburg": "red",
+              "Ottoman Empire": "green"
+            },
+            "hre": true,
+            "vienna": true,
+            "description": "Ottomans and Habsburgs in "
+          },
+          {
+            "number": 9.4,
+            "split": true,
+            "slide": true,
+            "title": "Early Ottoman-Habsburg Conflict",
+            "text": [{
+                "text": "The Battle of Mohacs (1526)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Ottoman Siege of Vienna (1529)",
+                "color": "lightgrey"
+              },
+              {
+                "text": "Set off a Major Rivalry",
+                "color": "black"
+              }
+            ],
+            "image": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
+              "description": "Image of Sultan Suleiman and His Venetian Crown"
+            }
+          },
+          {
+            "number": 10.1,
+            "slide": true,
+            "centered": true,
+            "title": "Christian Reactions in Europe",
+            "text": [{
+              "text": "a paragraph Quotation will go here showing the Christian religious fear that was associated with the driving attacks of the Ottomans.",
+              "color": "black"
+            }]
+          },
+          {
+            "number": 11.1,
+            "slide": true,
+            "split": true,
+            "title": "Gravitational Forces of the Rivalry",
+            "subTitle": "Privateers",
+            "text": [{
+                "text": "Hayreddin Barbarossa",
+                "color": "black"
+              },
+              {
+                "text": "Barbarossa invades Algiers (1517)",
+                "color": "lightgrey"
+              },
+              {
+                "text":
+              },
+              {
+                "text": "Andrea Doria",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 12.1,
+            "slide": true,
+            "split": true,
+            "title": "Gravitational Forces of the Rivalry",
+            "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
+            "text": [{
+                "text": "Mediterranean Privateers: Hayreddin Barbarossa",
+                "color": "black"
+              },
+              {
+                "text": "Hafsid Tunis Squeezed by the Ottomans",
+                "color": "lightgrey"
+              }
+            ]
+          },
+          {
+            "number": 10.1,
+            "slide": true,
+            "split": true,
+            "title": "Smaller States Forced to Choose Sides",
+            "subTitle": "France Reaches Out to the Ottomans",
+            "text": [{
+                "text": "",
+                "color": "black"
+              },
+              {
+                "text": "Hafsid Tunis Squeezed by the Ottomans",
+                "color": "lightgrey"
+              }
+            ]
+          }
+        ]
       }
-    },
-    {
-      "number": 3.2,
-      "slide": true,
-      "split": true,
-      "title": "Background Information",
-      "subTitle": "Cross-Confessional Collaboration",
-      "text": [{
-          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Venice and the Ottomans after the Conquest of Constantinople",
-          "color": "black"
-        },
-        {
-          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-        "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)."
-      }
-    },
-    {
-      "number": 3.3,
-      "slide": true,
-      "split": true,
-      "title": "Background Information",
-      "subTitle": "Cross-Confessional Collaboration",
-      "text": [{
-          "text": "Battle of Inab: Sunni Seljuq Turks vs the allied armies of of the Crusaders and the Shi'a Assassins",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Venice and the Ottomans after the Conquest of Constantinople",
-          "color": "lightgrey"
-        },
-        {
-          "text": "France mediated peace between Venice and the Ottoman Empire after the Battle of Lepanto.",
-          "color": "black"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
-        "description": "The Battle of Lepanto (1571), by Paolo Veronese."
-      }
-    },
-    {
-      "number": 4.1,
-      "splitChild": true,
-      "borders": true,
-      "title": "The Sixteenth-Century",
-      "subTitle": "A Major Transformation in the Mediterranean",
-      "text": [{
-          "text": "In 1500, Two Mediterranean Frontiers: East & West",
-          "color": "black"
-        },
-        {
-          "text": "In 1535, Mediterranean Frontiers Consolidated",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Habsburgs vs Ottomans",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1500,
-      "colors": {
-        "Spain": "blue",
-        "Fez": "green",
-        "Portugal": "white",
-        "Morocco": "orange",
-        "Souss": "brown"
-      }
-    },
-    {
-      "number": 5.1,
-      "slide": true,
-      "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
-      "text": [{
-          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
-          "color": "black"
-        },
-        {
-          "text": "Structural geopolitical issues drove conflict and peace.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious conflict associated with religious sentiment.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious Enemies =/= Political Enemies.",
-          "color": "lightgrey"
-        }
-      ]
-    },
-    {
-      "number": 5.2,
-      "slide": true,
-      "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
-      "text": [{
-          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Structural geopolitical issues drove conflict and peace.",
-          "color": "black"
-        },
-        {
-          "text": "Religious conflict associated with religious sentiment.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious Enemies =/= Political Enemies.",
-          "color": "lightgrey"
-        }
-      ]
-    },
-    {
-      "number": 5.3,
-      "slide": true,
-      "centered": true,
-      "title": "The Sixteenth-Century Mediterranean",
-      "subTitle": "Main Points",
-      "text": [{
-          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Structural geopolitical issues drove conflict and peace.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious conflict associated with religious sentiment.",
-          "color": "black"
-        },
-        {
-          "text": "Religious Enemies =/= Political Enemies.",
-          "color": "lightgrey"
-        }
-      ]
-    },
-    {
-      "number": 5.4,
-      "slide": true,
-      "centered": true,
-      "title": "Main Points",
-      "subTitle": "Religion",
-      "text": [{
-          "text": "Religious Violence and Religious Collaboration existed simultaneously.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Structural geopolitical issues drove conflict and peace.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious conflict associated with religious sentiment.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Religious Enemies =/= Political Enemies.",
-          "color": "black"
-        }
-      ]
-    },
-    {
-      "number": 7.1,
-      "splitChild": true,
-      "borders": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: The Ottoman Empire",
-      "text": [{
-          "text": "The Ottoman Empire",
-          "color": "black"
-        },
-        {
-          "text": "Something Else",
-          "color": "lightgrey"
-        },
-        {
-          "text": "final thing",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1500
-    },
-    {
-      "number": 8.1,
-      "slide": true,
-      "split": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "black"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg",
-        "description": "Portrait of Charles V by Jakob Seisenegger in 1532."
-      }
-    },
-    {
-      "number": 8.2,
-      "splitChild": true,
-      "borders": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "black"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1509,
-      "colors": {
-        "Austria-Burgundy": "red"
-      },
-      "description": "Burgundian Lands of Charles V in "
-    },
-    {
-      "number": 8.3,
-      "splitChild": true,
-      "borders": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "black"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1516,
-      "colors": {
-        "Austria-Burgundy": "red",
-        "Spain": "red"
-      },
-      "description": "Spanish and Burgundian Lands of Charles V in  "
-    },
-    {
-      "number": 8.4,
-      "split": true,
-      "slide": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "black"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://nathanmichalewicz.org/omeka/files/original/471cef5d4c6c5b019cec2165b6db4541.png",
-        "description": "Map of Portuguese and Spanish Expansion into North Africa, 1415-1510"
-      }
-    },
-    {
-      "number": 8.5,
-      "split": true,
-      "slide": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "black"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
-        "description": "Map of Spanish Expansion in North Africa, 1415-1510"
-      }
-    },
-    {
-      "number": 8.6,
-      "splitChild": true,
-      "slide": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: Charles V (Habsburgs)",
-      "text": [{
-          "text": "Charles V, a very lucky man.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Duke of Burgundy (1509)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "King of Spain (1516): inherited N. African Frontier",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Holy Roman Emperor (1519)",
-          "color": "black"
-        }
-      ],
-      "year": 1519,
-      "colors": {
-        "Habsburg": "red",
-        "France": "lightgrey"
-      },
-      "hre": true,
-      "description": "Spanish, Burgundian, and Imperial Lands of Charles V in "
-    },
-    {
-      "number": 9.1,
-      "splitChild": true,
-      "borders": true,
-      "title": "Early Ottoman-Habsburg Conflict",
-      "text": [{
-          "text": "The Battle of Mohacs (1526)",
-          "color": "black"
-        },
-        {
-          "text": "Ottoman Siege of Vienna (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Set off a Major Rivalry",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1525,
-      "colors": {
-        "Habsburg": "red",
-        "Ottoman Empire": "green",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white"
-      },
-      "hre": true,
-      "description": "United Kingdoms of Bohemia-Hungary before 1526"
-    },
-    {
-      "number": 9.2,
-      "splitChild": true,
-      "borders": true,
-      "title": "Early Ottoman-Habsburg Conflict",
-      "text": [{
-          "text": "The Battle of Mohacs (1526)",
-          "color": "black"
-        },
-        {
-          "text": "Ottoman Siege of Vienna (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Set off a Major Rivalry",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1526,
-      "colors": {
-        "Habsburg": "red",
-        "Ottoman Empire": "green",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white"
-      },
-      "hre": true,
-      "description": "New Borders after the Battle of Mohacs"
-    },
-    {
-      "number": 9.3,
-      "splitChild": true,
-      "borders": true,
-      "title": "Early Ottoman-Habsburg Conflict",
-      "text": [{
-          "text": "The Battle of Mohacs (1526)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Ottoman Siege of Vienna (1529)",
-          "color": "black"
-        },
-        {
-          "text": "Set off a Major Rivalry",
-          "color": "lightgrey"
-        }
-      ],
-      "year": 1526,
-      "colors": {
-        "Habsburg": "red",
-        "Ottoman Empire": "green"
-      },
-      "hre": true,
-      "vienna": true,
-      "description": "Ottomans and Habsburgs in "
-    },
-    {
-      "number": 9.4,
-      "split": true,
-      "slide": true,
-      "title": "Early Ottoman-Habsburg Conflict",
-      "text": [{
-          "text": "The Battle of Mohacs (1526)",
-          "color": "black"
-        },
-        {
-          "text": "Ottoman Siege of Vienna (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Set off a Major Rivalry",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
-        "description": "Image of Sultan Suleiman and His Venetian Crown"
-      }
-    },
-    {
-      "number": 10.1,
-      "slide": true,
-      "split": true,
-      "title": "Christian Reactions in Europe",
-      "text": [{
-        "text": "a paragraph Quotation will go here showing the Christian religious fear that was associated with the driving attacks of the Ottomans.",
-        "color": "black"
-      }]
-    },
-    {
-      "number": 11.1,
-      "slide": true,
-      "split": true,
-      "title": "Smaller States Forced to Choose Sides",
-      "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
-      "text": [{
-          "text": "Mediterranean Privateers: Hayreddin Barbarossa",
-          "color": "black"
-        },
-        {
-          "text": "Hafsid Tunis Squeezed by the Ottomans",
-          "color": "lightgrey"
-        }
-      ]
-    },
-    {
-      "number": 10.1,
-      "slide": true,
-      "split": true,
-      "title": "Smaller States Forced to Choose Sides",
-      "subTitle": "France Reaches Out to the Ottomans",
-      "text": [{
-          "text": "",
-          "color": "black"
-        },
-        {
-          "text": "Hafsid Tunis Squeezed by the Ottomans",
-          "color": "lightgrey"
-        }
-      ]
-    }
-  ]
-}

@@ -529,6 +529,32 @@
     },
     {
       "number": 7.3,
+      "splitChild": true,
+      "borders": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: The Ottoman Empire",
+      "text": [{
+          "text": "The Ottoman Empire",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conquest of Mamluk Egypt (1517)",
+          "color": "black"
+        },
+        {
+          "text": "Suleiman the Magnificent (r. 1520-1566)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1517,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Mamluk Egypt": "deeppink"
+      },
+      "description": "Ottoman Empire, "
+    },
+    {
+      "number": 7.4,
       "slide": true,
       "split": true,
       "title": "What Caused This Consolidation?",
@@ -550,6 +576,32 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg",
         "description": "Sultan Suleiman the Maginificent by Titan (1530)"
       }
+    },
+    {
+      "number": 7.5,
+      "splitChild": true,
+      "borders": true,
+      "title": "What Caused This Consolidation?",
+      "subTitle": "Centralization & Expansion: The Ottoman Empire",
+      "text": [{
+          "text": "The Ottoman Empire",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conquest of Mamluk Egypt (1517)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Suleiman the Magnificent (r. 1520-1566)",
+          "color": "black"
+        }
+      ],
+      "year": 1566,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Mamluk Egypt": "deeppink"
+      },
+      "description": "Ottoman Empire, "
     },
     {
       "number": 8.1,

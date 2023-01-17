@@ -325,11 +325,11 @@
       "subTitle": "A Major Transformation in the Mediterranean",
       "text": [{
           "text": "In 1500, Two Mediterranean Frontiers: The West",
-          "color": "black"
+          "color": "lightgrey"
         },
         {
           "text": "In 1500, Two Mediterranean Frontiers: The East",
-          "color": "lightgrey"
+          "color": "black"
         },
         {
           "text": "By 1574, Mediterranean Frontiers Consolidated: Ottomans vs Habsburgs",
@@ -343,7 +343,7 @@
         "Mamluk Egypt": "pink",
         "Hungary-Bohemia": "white",
         "Bohemia-Hungary": "white",
-        "Venice": "olive",
+        "Venice": "darkmagenta",
         "Naples": "teal",
         "Papal States": "goldenrod"
       },
@@ -357,7 +357,7 @@
       "subTitle": "A Major Transformation in the Mediterranean",
       "text": [{
           "text": "In 1500, Two Mediterranean Frontiers: The West",
-          "color": "black"
+          "color": "lightgrey"
         },
         {
           "text": "In 1500, Two Mediterranean Frontiers: The East",
@@ -365,7 +365,7 @@
         },
         {
           "text": "By 1574, Mediterranean Frontiers Consolidated: Ottomans vs Habsburgs",
-          "color": "lightgrey"
+          "color": "black"
         }
       ],
       "year": 1574,
@@ -373,7 +373,9 @@
         "Spain": "blue",
         "Habsburg": "red",
         "Ottoman Empire": "green",
-        "Morocco": "orange"
+        "Morocco": "orange",
+        "Venice": "darkmagenta",
+        "Papal States": "goldenrod"
       },
       "description": "Mediterranean Frontiers, "
     },

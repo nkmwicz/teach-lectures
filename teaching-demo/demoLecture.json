@@ -1117,8 +1117,8 @@
     },
     {
       "number": 13.2,
-      "borders": true,
-      "splitChild": true,
+      "slide": true,
+      "split": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{

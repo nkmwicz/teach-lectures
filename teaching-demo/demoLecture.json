@@ -986,7 +986,10 @@
       "year": 1517,
       "description": "Barbarossa's conquest of Algiers, ",
       "colors": {
-        "Algiers": "orange"
+        "Algiers": "orange",
+        "Spain": "blue",
+        "Tripoli": "blue",
+        "Hafsid": "orange"
       }
     },
     {

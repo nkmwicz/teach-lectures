@@ -8,7 +8,8 @@
     "https://nathanmichalewicz.org/omeka/files/original/481b5aa3e31a8a15aa669eebd6deaacf.png",
     "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
     "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/09/Barbarossa_Hayreddin_Pasha.jpg"
   ],
   "slides": [{
       "number": 0.1,
@@ -491,7 +492,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Suleiman the Magnificent",
+          "text": "Suleiman the Magnificent (r. 1520-1566)",
           "color": "lightgrey"
         }
       ],
@@ -891,7 +892,7 @@
       "centered": true,
       "title": "Christian Reactions in Europe",
       "text": [{
-        "text": "For they are told by their law [read religion] that it is a good, godly work to rob and kill...For that reason it [the Ottoman Empire] is not a godly, orderly authority like others, keeping the peace, protecting the pious, and punishing the wicked; rather, it is, as I have said, the sheer wrath of God, His rod and punishment meted on the unbelieving world.",
+        "text": "For they are told by their law [i.e., religion] that it is a good, godly work to rob and kill...For that reason it [the Ottoman Empire] is not a godly, orderly authority like others, keeping the peace, protecting the pious, and punishing the wicked; rather, it is, as I have said, the sheer wrath of God, His rod and punishment meted on the unbelieving world.",
         "color": "black"
       }]
     },
@@ -910,14 +911,76 @@
           "color": "lightgrey"
         },
         {
-          "text": "Barbarossa Submits to Ottoman Empire (1519)",
+          "text": "Barbarossa Submits to Ottoman Empire (1529)",
           "color": "lightgrey"
         },
         {
           "text": "Andrea Doria",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Barbarossa_Hayreddin_Pasha.jpg",
+        "description": "Heyreddin Barbarossa"
+      }
+    },
+    {
+      "number": 11.2,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Privateers",
+      "text": [{
+          "text": "Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa invades Algiers (1517)",
+          "color": "black"
+        },
+        {
+          "text": "Barbarossa Submits to Ottoman Empire (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Andrea Doria",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1517,
+      "description": "Barbarossa's conquest of Algiers, ",
+      "colors": {
+        "Algiers": "orange"
+      }
+    },
+    {
+      "number": 11.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Privateers",
+      "text": [{
+          "text": "Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa invades Algiers (1517)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa Submits to Ottoman Empire (1529)",
+          "color": "black"
+        },
+        {
+          "text": "Andrea Doria: Joins Charles V (1528)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1529,
+      "description": "Algiers Submits to the Ottoman Empire, ",
+      "colors": {
+        "Ottoman Empire": "green"
+      }
     },
     {
       "number": 12.1,

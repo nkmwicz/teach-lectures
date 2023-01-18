@@ -1079,6 +1079,64 @@
       "description": "Ottoman-Habsburg frontier, "
     },
     {
+      "number": 12.2,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
+      "text": [{
+          "text": "Barbarossa invades Hafsid Tunis (1534)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Charles V attacks Conquers Tunis (1535) useing Doria's fleet.",
+          "color": "black"
+        },
+        {
+          "text": "Tunis becomes Vassal of Charles V (1535-1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1534,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Habsburg": "red",
+        "Tripoli": "red",
+        "Hafsid": "yellow"
+      },
+      "hre": true,
+      "description": "Ottoman-Habsburg frontier, "
+    },
+    {
+      "number": 12.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
+      "text": [{
+          "text": "Barbarossa invades Hafsid Tunis (1534)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Charles V attacks Conquers Tunis (1535) useing Doria's fleet.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Tunis becomes Vassal of Charles V (1535-1574)",
+          "color": "black"
+        }
+      ],
+      "year": 1535,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Habsburg": "red",
+        "Tripoli": "red",
+        "Hafsid": "yellow"
+      },
+      "hre": true,
+      "description": "Ottoman-Habsburg frontier, "
+    },
+    {
       "number": 13.1,
       "borders": true,
       "splitChild": true,

@@ -9,7 +9,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/1/11/Suleiman_Agostino.JPG",
     "https://upload.wikimedia.org/wikipedia/commons/7/76/Jakob_Seisenegger_001.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/0/09/Barbarossa_Hayreddin_Pasha.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/0/09/Barbarossa_Hayreddin_Pasha.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/Fran%C3%A7ois_Ier_Louvre.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fe/Francois_I_Suleiman.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
   ],
   "slides": [{
       "number": 0.1,
@@ -891,8 +894,9 @@
       "slide": true,
       "centered": true,
       "title": "Christian Reactions in Europe",
+      "subTitle": "Martin Luther on the Ottoman Threat, 1539",
       "text": [{
-        "text": "For they are told by their law [i.e., religion] that it is a good, godly work to rob and kill...For that reason it [the Ottoman Empire] is not a godly, orderly authority like others, keeping the peace, protecting the pious, and punishing the wicked; rather, it is, as I have said, the sheer wrath of God, His rod and punishment meted on the unbelieving world.",
+        "text": "For they are told by their law [i.e., religion] that it is a good, godly work to rob and kill...For that reason it [the Ottoman Empire] is not a godly, orderly authority like others, keeping the peace, protecting the pious, and punishing the wicked; rather, it is, as I have said, the sheer wrath of God, His rod and punishment.",
         "color": "black"
       }]
     },
@@ -1065,7 +1069,8 @@
       "colors": {
         "Ottoman Empire": "green",
         "Habsburg": "red",
-        "Tripoli": "red"
+        "Tripoli": "red",
+        "Hafsid": "yellow"
       },
       "hre": true,
       "description": "Ottoman-Habsburg frontier, "
@@ -1093,7 +1098,8 @@
           "color": "lightgrey"
         },
         {
-          "text": "Seige of Nice & Ottomans Winters in Toulon"
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "lightgrey"
         }
       ],
       "year": 1500,
@@ -1105,6 +1111,431 @@
         "Naples": "teal"
       },
       "description": "Italian Wars, "
+    },
+    {
+      "number": 13.2,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
+          "color": "black"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Fran%C3%A7ois_Ier_Louvre.jpg",
+        "description": "Francis I of France (r. 1515-1547)"
+      }
+    },
+    {
+      "number": 13.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "black"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1525,
+      "colors": {
+        "France": "yellow",
+        "Spain": "Blue",
+        "Austria-Burgundy": "red",
+        "Milan": "purple",
+        "Naples": "teal",
+        "Habsburg": "red"
+      },
+      "hre": true,
+      "description": "Battle of Pavia, ",
+      "pavia": true
+    },
+    {
+      "number": 13.4,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "black"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Francois_I_Suleiman.jpg",
+        "description": "Francis I and Sultan Suleiman"
+      }
+    },
+    {
+      "number": 13.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "black"
+        }
+      ],
+      "year": 1542,
+      "colors": {
+        "France": "yellow",
+        "Spain": "Blue",
+        "Austria-Burgundy": "red",
+        "Milan": "purple",
+        "Naples": "teal",
+        "Habsburg": "red"
+      },
+      "hre": true,
+      "description": "Battle of Pavia, ",
+      "nice": true
+    },
+    {
+      "number": 13.4,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winter in Toulon",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+        "description": "Ottoman Fleet Wintering in Toulon"
+      }
+    },
+    {
+      "number": 14.1,
+      "slide": true,
+      "centered": true,
+      "title": "Excerpt from 'Gazavat-i Hayreddin Pasha'",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+        "text": "There the people of Reggio, from fear of the army asked for safe conduct, agreeing to become prisoners. With the knowledge and participation of the French emperor's ambassador, Reggio was burnt and destroyed. But the ambassador did not agree to your sacking any other cities or fortresses that were in those provinces. Since he said, 'Formerly it belonged to us, and in the future it may submit to our emperor,' you did not worry about it. He said, 'There are places that were previously the Spanish king's. These may be destoryed. And also the French emperor is waiting with the fleet at Marseilles.",
+        "color": "black"
+      }],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Francois_I_Suleiman.jpg",
+        "description": "Francis I and Sultan Suleiman"
+      }
+    },
+    {
+      "number": 15.1,
+      "borders": true,
+      "splitChild": true,
+      "title": "Venice & the Battle of Lepanto (1571)",
+      "subTitle": "Navigating between Habsburgs and Ottomans",
+      "text": [{
+          "text": "Balancing between the two powers",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Invasion of Cyprus (1570)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Holy League: Venice, Spain, The Papacy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Battle of Lepanto (1571)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1570,
+      "colors": {
+        "Spain": "Blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Venice": "deeppink",
+        "Papal States": "darkorchid"
+      },
+      "hre": true,
+      "description": "The Holy League and the Ottoman Empire, "
+    },
+    {
+      "number": 15.2,
+      "borders": true,
+      "splitChild": true,
+      "title": "Venice & the Battle of Lepanto (1571)",
+      "subTitle": "Navigating between Habsburgs and Ottomans",
+      "text": [{
+          "text": "Balancing between the two powers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Invasion of Cyprus (1570)",
+          "color": "black"
+        },
+        {
+          "text": "The Holy League: Venice, Spain, The Papacy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Battle of Lepanto (1571)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1570,
+      "colors": {
+        "Spain": "Blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Venice": "deeppink",
+        "Papal States": "darkorchid"
+      },
+      "hre": true,
+      "description": "The Holy League and the Ottoman Empire, "
+    },
+    {
+      "number": 15.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Venice & the Battle of Lepanto (1571)",
+      "subTitle": "Navigating between Habsburgs and Ottomans",
+      "text": [{
+          "text": "Balancing between the two powers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Invasion of Cyprus (1570)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Holy League: Venice, Spain, The Papacy",
+          "color": "black"
+        },
+        {
+          "text": "The Battle of Lepanto (1571)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1570,
+      "colors": {
+        "Spain": "Blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Venice": "deeppink",
+        "Papal States": "darkorchid"
+      },
+      "hre": true,
+      "description": "The Holy League and the Ottoman Empire, "
+    },
+    {
+      "number": 15.4,
+      "borders": true,
+      "splitChild": true,
+      "title": "Venice & the Battle of Lepanto (1571)",
+      "subTitle": "Navigating between Habsburgs and Ottomans",
+      "text": [{
+          "text": "Balancing between the two powers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Invasion of Cyprus (1570)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Holy League: Venice, Spain, The Papacy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Battle of Lepanto (1571)",
+          "color": "black"
+        },
+        {
+          "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1571,
+      "colors": {
+        "Spain": "Blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Venice": "deeppink",
+        "Papal States": "darkorchid"
+      },
+      "lepanto": true,
+      "hre": true,
+      "description": "The Holy League and the Ottoman Empire, "
+    },
+    {
+      "number": 15.5,
+      "borders": true,
+      "splitChild": true,
+      "title": "Venice & the Battle of Lepanto (1571)",
+      "subTitle": "Navigating between Habsburgs and Ottomans",
+      "text": [{
+          "text": "Balancing between the two powers",
+          "color": "black"
+        },
+        {
+          "text": "Ottoman Invasion of Cyprus (1570)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Holy League: Venice, Spain, The Papacy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Battle of Lepanto (1571)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1574,
+      "colors": {
+        "Spain": "Blue",
+        "Habsburg": "red",
+        "Ottoman Empire": "green",
+        "Venice": "deeppink",
+        "Papal States": "darkorchid"
+      },
+      "hre": true,
+      "description": "The Holy League and the Ottoman Empire, "
+    },
+    {
+      "number": 16.1,
+      "centered": true,
+      "slide": true,
+      "title": "Conclusion, Part I",
+      "text": [{
+        "text": "Frontier Solidified by 1580",
+        "color": "black",
+        "children": [{
+            "text": "Tangentially divided religiously",
+            "color": "black"
+          },
+          {
+            "text": "But criss-crossed with cross-confessional cooperation.",
+            "color": "black"
+          }
+        ]
+      }]
+    },
+    {
+      "number": 17.1,
+      "centered": true,
+      "slide": true,
+      "title": "Conclusion, Part II",
+      "subTitle": "New Paradigm: Positive Views of the Ottomans",
+      "text": [{
+          "text": "In all the places I have visited, which means at least a third of the world, I have never seen people more virtuous than these [Ottomans], nor do I think that there are people more virtuous than these in the Indies or in the places I have not visited; I leave aside their belief in Muhammad, for which, I know they are all going to Hell, but I am speaking about the law of nature.",
+          "color": "black",
+          "children": [{
+            "text": "Anonymous, 'Viaje de Turquia,' (1557)",
+            "color": "black"
+          }]
+        },
+        {
+          "text": "In making his appointments the Sultan pays no regard to any pretensions on the score of wealth or rank...he considers each case on its own merits, and examines carefully unto the character, ability, and disposition of the man... Amont the Turks, therefore, honours, high posts, and judgeships are the rewards of great ability and good service... This is the reason they are successful in their undertakings.",
+          "color": "black",
+          "children": [{
+            "text": "Oghier Ghiselin de Busbecq, 'Letters'"
+          }]
+        }
+      ]
+
     }
   ]
 }

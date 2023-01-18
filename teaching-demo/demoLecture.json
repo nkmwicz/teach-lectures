@@ -803,7 +803,8 @@
         "Bohemia-Hungary": "white"
       },
       "hre": true,
-      "description": "United Kingdoms of Bohemia-Hungary before "
+      "description": "United Kingdoms of Bohemia-Hungary before ",
+      "mohacs": true
     },
     {
       "number": 9.2,
@@ -831,7 +832,8 @@
         "Bohemia-Hungary": "white"
       },
       "hre": true,
-      "description": "New Borders after the Battle of Mohacs "
+      "description": "New Borders after the Battle of Mohacs ",
+      "mohacs": true
     },
     {
       "number": 9.3,

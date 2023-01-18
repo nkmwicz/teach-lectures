@@ -1467,7 +1467,7 @@
       "subTitle": "Navigating between Habsburgs and Ottomans",
       "text": [{
           "text": "Balancing between the two powers",
-          "color": "black"
+          "color": "lightgrey"
         },
         {
           "text": "Ottoman Invasion of Cyprus (1570)",
@@ -1483,7 +1483,7 @@
         },
         {
           "text": "Outcome: Venetian Peace (1572) & Spain loses Tunis (1574)",
-          "color": "lightgrey"
+          "color": "black"
         }
       ],
       "year": 1574,

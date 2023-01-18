@@ -947,6 +947,38 @@
           "color": "lightgrey"
         }
       ],
+      "year": 1516,
+      "description": "North Africa, ",
+      "colors": {
+        "Spain": "blue",
+        "Tlemcen": "blue",
+        "Tripoli": "blue",
+        "Algiers": "orange"
+      }
+    },
+    {
+      "number": 11.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Privateers",
+      "text": [{
+          "text": "Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa invades Algiers (1517)",
+          "color": "black"
+        },
+        {
+          "text": "Barbarossa Submits to Ottoman Empire (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Andrea Doria: Joins Charles V (1528)",
+          "color": "lightgrey"
+        }
+      ],
       "year": 1517,
       "description": "Barbarossa's conquest of Algiers, ",
       "colors": {
@@ -983,36 +1015,96 @@
       }
     },
     {
-      "number": 12.1,
+      "number": 11.4,
       "slide": true,
       "split": true,
       "title": "Gravitational Forces of the Rivalry",
+      "subTitle": "Privateers",
+      "text": [{
+          "text": "Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa invades Algiers (1517)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Barbarossa Submits to Ottoman Empire (1529)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Andrea Doria: Joins Charles V (1528)",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Andrea_Doria.jpg",
+        "description": "Andrea Doria, circa 1520 by Sebastiano del Piombo"
+      }
+    },
+    {
+      "number": 12.1,
+      "borders": true,
+      "splitChild": true,
+      "title": "Gravitational Forces of the Rivalry",
       "subTitle": "Hafsid Tunis Squeezed by the Ottomans",
       "text": [{
-          "text": "Mediterranean Privateers: Hayreddin Barbarossa",
+          "text": "Barbarossa invades Hafsid Tunis (1534)",
           "color": "black"
         },
         {
-          "text": "Hafsid Tunis Squeezed by the Ottomans",
+          "text": "Charles V attacks Conquers Tunis (1535) useing Doria's fleet.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Tunis becomes Vassal of Charles V (1535-1574)",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "year": 1534,
+      "colors": {
+        "Ottoman Empire": "green",
+        "Habsburg": "red",
+        "Tripoli": "red"
+      },
+      "hre": true,
+      "description": "Ottoman-Habsburg frontier, "
     },
     {
-      "number": 10.1,
-      "slide": true,
-      "split": true,
+      "number": 13.1,
+      "borders": true,
+      "splitChild": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{
-          "text": "",
+          "text": "Italian Wars",
           "color": "black"
         },
         {
-          "text": "Hafsid Tunis Squeezed by the Ottomans",
+          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
           "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Alliance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice & Ottomans Winters in Toulon"
         }
-      ]
+      ],
+      "year": 1500,
+      "colors": {
+        "France": "yellow",
+        "Spain": "Blue",
+        "Austria-Burgundy": "red",
+        "Milan": "purple",
+        "Naples": "teal"
+      },
+      "description": "Italian Wars, "
     }
   ]
 }

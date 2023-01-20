@@ -309,7 +309,7 @@
       "colors": {
         "Spain": "blue",
         "Fez": "green",
-        "Portugal": "white",
+        "Portugal": "brown",
         "Morocco": "orange",
         "Souss": "brown",
         "Tlemcen": "deeppink",
@@ -346,8 +346,8 @@
         "Habsburg": "red",
         "Ottoman Empire": "green",
         "Mamluk Egypt": "deeppink",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white",
+        "Hungary-Bohemia": "brown",
+        "Bohemia-Hungary": "brown",
         "Venice": "darkmagenta",
         "Naples": "teal",
         "Papal States": "goldenrod"
@@ -804,8 +804,8 @@
       "colors": {
         "Habsburg": "red",
         "Ottoman Empire": "green",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white"
+        "Hungary-Bohemia": "brown",
+        "Bohemia-Hungary": "brown"
       },
       "hre": true,
       "description": "United Kingdoms of Bohemia-Hungary before ",
@@ -833,8 +833,8 @@
       "colors": {
         "Habsburg": "red",
         "Ottoman Empire": "green",
-        "Hungary-Bohemia": "white",
-        "Bohemia-Hungary": "white"
+        "Hungary-Bohemia": "brown",
+        "Bohemia-Hungary": "brown"
       },
       "hre": true,
       "description": "New Borders after the Battle of Mohacs ",
@@ -1004,9 +1004,7 @@
       "year": 1516,
       "description": "North Africa, ",
       "colors": {
-        "Spain": "blue",
-        "Tlemcen": "blue",
-        "Tripoli": "blue",
+        "Spain": "red",
         "Algiers": "orange"
       }
     },
@@ -1033,7 +1031,7 @@
       "description": "Barbarossa's conquest of Algiers, ",
       "colors": {
         "Algiers": "orange",
-        "Spain": "blue",
+        "Spain": "red",
         "Tripoli": "blue",
         "Tunis": "orange"
       }

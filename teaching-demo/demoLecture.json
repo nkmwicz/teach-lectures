@@ -904,6 +904,63 @@
     {
       "number": 11.1,
       "slide": true,
+      "centered": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "text": [{
+          "text": "The Privateer Hayreddin Barbarossa",
+          "color": "black"
+        },
+        {
+          "text": "Hafsid Tunis",
+          "color": "lightgrey"
+        },
+        {
+          "text": "France",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 11.2,
+      "slide": true,
+      "centered": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "text": [{
+          "text": "The Privateer Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Hafsid Tunis",
+          "color": "black"
+        },
+        {
+          "text": "France",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "centered": true,
+      "title": "Gravitational Forces of the Rivalry",
+      "text": [{
+          "text": "The Privateer Hayreddin Barbarossa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Hafsid Tunis",
+          "color": "lightgrey"
+        },
+        {
+          "text": "France",
+          "color": "black"
+        }
+      ]
+    },
+    {
+      "number": 12.1,
+      "slide": true,
       "split": true,
       "title": "Gravitational Forces of the Rivalry",
       "subTitle": "Privateers",
@@ -918,10 +975,6 @@
         {
           "text": "Barbarossa Submits to Ottoman Empire (1529)",
           "color": "lightgrey"
-        },
-        {
-          "text": "Andrea Doria: Joins Charles V (1528)",
-          "color": "lightgrey"
         }
       ],
       "image": {
@@ -930,7 +983,7 @@
       }
     },
     {
-      "number": 11.2,
+      "number": 12.2,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -945,10 +998,6 @@
         },
         {
           "text": "Barbarossa Submits to Ottoman Empire (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Andrea Doria: Joins Charles V (1528)",
           "color": "lightgrey"
         }
       ],
@@ -962,7 +1011,7 @@
       }
     },
     {
-      "number": 11.3,
+      "number": 12.3,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -977,10 +1026,6 @@
         },
         {
           "text": "Barbarossa Submits to Ottoman Empire (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Andrea Doria: Joins Charles V (1528)",
           "color": "lightgrey"
         }
       ],
@@ -994,7 +1039,7 @@
       }
     },
     {
-      "number": 11.3,
+      "number": 12.3,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -1010,10 +1055,6 @@
         {
           "text": "Barbarossa Submits to Ottoman Empire (1529)",
           "color": "black"
-        },
-        {
-          "text": "Andrea Doria: Joins Charles V (1528)",
-          "color": "lightgrey"
         }
       ],
       "year": 1529,
@@ -1023,35 +1064,7 @@
       }
     },
     {
-      "number": 11.4,
-      "slide": true,
-      "split": true,
-      "title": "Gravitational Forces of the Rivalry",
-      "subTitle": "Privateers",
-      "text": [{
-          "text": "Hayreddin Barbarossa",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Barbarossa invades Algiers (1517)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Barbarossa Submits to Ottoman Empire (1529)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Andrea Doria: Joins Charles V (1528)",
-          "color": "black"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Andrea_Doria.jpg",
-        "description": "Andrea Doria, circa 1520 by Sebastiano del Piombo"
-      }
-    },
-    {
-      "number": 12.1,
+      "number": 13.1,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -1080,7 +1093,7 @@
       "description": "Ottoman-Habsburg frontier, "
     },
     {
-      "number": 12.2,
+      "number": 13.2,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -1109,7 +1122,7 @@
       "description": "Ottoman-Habsburg frontier, "
     },
     {
-      "number": 12.3,
+      "number": 13.3,
       "borders": true,
       "splitChild": true,
       "title": "Gravitational Forces of the Rivalry",
@@ -1138,7 +1151,7 @@
       "description": "Ottoman-Habsburg frontier, "
     },
     {
-      "number": 13.1,
+      "number": 14.1,
       "borders": true,
       "splitChild": true,
       "title": "Smaller States Forced to Choose Sides",
@@ -1146,10 +1159,6 @@
       "text": [{
           "text": "Italian Wars",
           "color": "black"
-        },
-        {
-          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
-          "color": "lightgrey"
         },
         {
           "text": "Battle of Pavia (1525)",
@@ -1175,49 +1184,13 @@
       "description": "Italian Wars, "
     },
     {
-      "number": 13.2,
-      "slide": true,
-      "split": true,
-      "title": "Smaller States Forced to Choose Sides",
-      "subTitle": "France Reaches Out to the Ottomans",
-      "text": [{
-          "text": "Italian Wars",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
-          "color": "black"
-        },
-        {
-          "text": "Battle of Pavia (1525)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Franco-Ottoman Alliance (1535)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
-          "color": "lightgrey"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Fran%C3%A7ois_Ier_Louvre.jpg",
-        "description": "Francis I of France (r. 1515-1547)"
-      }
-    },
-    {
-      "number": 13.3,
+      "number": 14.2,
       "borders": true,
       "splitChild": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{
           "text": "Italian Wars",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
           "color": "lightgrey"
         },
         {
@@ -1247,7 +1220,7 @@
       "pavia": true
     },
     {
-      "number": 13.4,
+      "number": 14.3,
       "slide": true,
       "split": true,
       "title": "Smaller States Forced to Choose Sides",
@@ -1258,10 +1231,6 @@
         },
         {
           "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Battle of Pavia (1525)",
           "color": "lightgrey"
         },
         {
@@ -1279,17 +1248,13 @@
       }
     },
     {
-      "number": 13.5,
+      "number": 14.4,
       "borders": true,
       "splitChild": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{
           "text": "Italian Wars",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
           "color": "lightgrey"
         },
         {
@@ -1319,17 +1284,13 @@
       "nice": true
     },
     {
-      "number": 13.6,
+      "number": 14.5,
       "slide": true,
       "split": true,
       "title": "Smaller States Forced to Choose Sides",
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{
           "text": "Italian Wars",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Rivalry between Francis I (r. 1515-1547) and  Charles V",
           "color": "lightgrey"
         },
         {
@@ -1351,7 +1312,7 @@
       }
     },
     {
-      "number": 14.1,
+      "number": 15.1,
       "slide": true,
       "centered": true,
       "title": "Excerpt from 'Gazavat-i Hayreddin Pasha'",
@@ -1366,7 +1327,7 @@
       }
     },
     {
-      "number": 15.1,
+      "number": 16.1,
       "borders": true,
       "splitChild": true,
       "title": "Venice & the Battle of Lepanto (1571)",
@@ -1404,7 +1365,7 @@
       "description": "The Holy League and the Ottoman Empire, "
     },
     {
-      "number": 15.2,
+      "number": 16.2,
       "borders": true,
       "splitChild": true,
       "title": "Venice & the Battle of Lepanto (1571)",
@@ -1442,7 +1403,7 @@
       "description": "The Holy League and the Ottoman Empire, "
     },
     {
-      "number": 15.3,
+      "number": 16.3,
       "borders": true,
       "splitChild": true,
       "title": "Venice & the Battle of Lepanto (1571)",
@@ -1480,7 +1441,7 @@
       "description": "The Holy League and the Ottoman Empire, "
     },
     {
-      "number": 15.4,
+      "number": 16.4,
       "borders": true,
       "splitChild": true,
       "title": "Venice & the Battle of Lepanto (1571)",
@@ -1519,7 +1480,7 @@
       "description": "The Holy League and the Ottoman Empire, "
     },
     {
-      "number": 15.5,
+      "number": 16.5,
       "borders": true,
       "splitChild": true,
       "title": "Venice & the Battle of Lepanto (1571)",
@@ -1557,7 +1518,7 @@
       "description": "The Holy League and the Ottoman Empire, "
     },
     {
-      "number": 16.1,
+      "number": 17.1,
       "centered": true,
       "slide": true,
       "title": "Conclusion, Part I",
@@ -1576,10 +1537,10 @@
       }]
     },
     {
-      "number": 17.1,
+      "number": 18.1,
       "centered": true,
       "slide": true,
-      "title": "Conclusion, Part II",
+      "title": "Next Week",
       "subTitle": "New Paradigm: Positive Views of the Ottomans",
       "text": [{
           "text": "In all the places I have visited, which means at least a third of the world, I have never seen people more virtuous than these [Ottomans], nor do I think that there are people more virtuous than these in the Indies or in the places I have not visited; I leave aside their belief in Muhammad, for which, I know they are all going to Hell, but I am speaking about the law of nature.",

@@ -1190,6 +1190,41 @@
       "subTitle": "France Reaches Out to the Ottomans",
       "text": [{
           "text": "Italian Wars",
+          "color": "black"
+        },
+        {
+          "text": "Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Franco-Ottoman Allianc (1535)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1500,
+      "colors": {
+        "France": "yellow",
+        "Spain": "Blue",
+        "Austria-Burgundy": "red",
+        "Milan": "purple",
+        "Naples": "teal",
+        "Habsburg": "red"
+      },
+      "hre": true,
+      "description": "Italian Wars, "
+    },
+    {
+      "number": 14.3,
+      "borders": true,
+      "splitChild": true,
+      "title": "Smaller States Forced to Choose Sides",
+      "subTitle": "France Reaches Out to the Ottomans",
+      "text": [{
+          "text": "Italian Wars",
           "color": "lightgrey"
         },
         {
@@ -1219,7 +1254,7 @@
       "pavia": true
     },
     {
-      "number": 14.3,
+      "number": 14.4,
       "slide": true,
       "split": true,
       "title": "Smaller States Forced to Choose Sides",

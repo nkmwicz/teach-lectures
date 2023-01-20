@@ -1033,7 +1033,8 @@
         "Algiers": "orange",
         "Spain": "red",
         "Tripoli": "blue",
-        "Tunis": "yellow"
+        "Tunis": "yellow",
+        "Habsburg": "red"
       }
     },
     {
@@ -1114,7 +1115,7 @@
         "Ottoman Empire": "green",
         "Habsburg": "red",
         "Tripoli": "red",
-        "Hafsid": "yellow"
+        "Tunis": "yellow"
       },
       "hre": true,
       "description": "Ottoman-Habsburg frontier, "

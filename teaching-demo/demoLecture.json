@@ -1551,21 +1551,13 @@
       "title": "Next Week",
       "subTitle": "New Paradigm: Positive Views of the Ottomans",
       "text": [{
-          "text": "In all the places I have visited, which means at least a third of the world, I have never seen people more virtuous than these [Ottomans], nor do I think that there are people more virtuous than these in the Indies or in the places I have not visited; I leave aside their belief in Muhammad, for which, I know they are all going to Hell, but I am speaking about the law of nature.",
-          "color": "black",
-          "children": [{
-            "text": "Anonymous, 'Viaje de Turquia,' (1557)",
-            "color": "black"
-          }]
-        },
-        {
-          "text": "In making his appointments the Sultan pays no regard to any pretensions on the score of wealth or rank...he considers each case on its own merits, and examines carefully unto the character, ability, and disposition of the man... Amont the Turks, therefore, honours, high posts, and judgeships are the rewards of great ability and good service... This is the reason they are successful in their undertakings.",
-          "color": "black",
-          "children": [{
-            "text": "Oghier Ghiselin de Busbecq, 'Letters'"
-          }]
-        }
-      ]
+        "text": "In all the places I have visited, which means at least a third of the world, I have never seen people more virtuous than these [Ottomans], nor do I think that there are people more virtuous than these in the Indies or in the places I have not visited; I leave aside their belief in Muhammad, for which, I know they are all going to Hell, but I am speaking about the law of nature.",
+        "color": "black",
+        "children": [{
+          "text": "Anonymous, 'Viaje de Turquia,' (1557)",
+          "color": "black"
+        }]
+      }]
 
     }
   ]

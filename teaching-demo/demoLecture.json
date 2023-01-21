@@ -583,32 +583,6 @@
       }
     },
     {
-      "number": 7.5,
-      "splitChild": true,
-      "borders": true,
-      "title": "What Caused This Consolidation?",
-      "subTitle": "Centralization & Expansion: The Ottoman Empire",
-      "text": [{
-          "text": "The Ottoman Empire",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Conquest of Mamluk Egypt (1517)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Suleiman the Magnificent (r. 1520-1566)",
-          "color": "black"
-        }
-      ],
-      "year": 1566,
-      "colors": {
-        "Ottoman Empire": "green",
-        "Mamluk Egypt": "deeppink"
-      },
-      "description": "Ottoman Empire, "
-    },
-    {
       "number": 8.1,
       "slide": true,
       "split": true,

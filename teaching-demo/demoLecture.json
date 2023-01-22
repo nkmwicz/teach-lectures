@@ -20,7 +20,8 @@
       "intro": true,
       "title": "Teaching Demo:",
       "subTitle": "Christians and Muslims in the Sixteenth-Century  Mediterranean",
-      "byLine": "Nathan Michalewicz"
+      "byLine": "Nathan Michalewicz",
+      "url": "nathanmichalewicz.org/teaching-demo"
     },
     {
       "number": 1.1,
@@ -1529,9 +1530,9 @@
       "number": 17.1,
       "centered": true,
       "slide": true,
-      "title": "Conclusion, Part I",
+      "title": "Conclusion",
       "text": [{
-        "text": "Frontier Solidified by 1580",
+        "text": "A Clash of Civilizations?",
         "color": "black",
         "children": [{
             "text": "Tangentially divided religiously",

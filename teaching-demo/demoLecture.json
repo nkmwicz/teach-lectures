@@ -1143,7 +1143,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "lightgrey"
         }
       ],
@@ -1176,7 +1176,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "lightgrey"
         }
       ],
@@ -1211,7 +1211,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "lightgrey"
         }
       ],
@@ -1247,7 +1247,7 @@
           "color": "black"
         },
         {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "lightgrey"
         }
       ],
@@ -1257,7 +1257,7 @@
       }
     },
     {
-      "number": 14.4,
+      "number": 14.5,
       "borders": true,
       "splitChild": true,
       "title": "Smaller States Forced to Choose Sides",
@@ -1275,7 +1275,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "black"
         }
       ],
@@ -1293,7 +1293,7 @@
       "toulon": true
     },
     {
-      "number": 14.5,
+      "number": 14.6,
       "slide": true,
       "split": true,
       "title": "Smaller States Forced to Choose Sides",
@@ -1311,7 +1311,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Seige of Nice (1543) & Ottomans Winter in Toulon (1543-44)",
+          "text": "Franco-Ottoman Coorperation: Ottomans Winter in Toulon (1543-44)",
           "color": "black"
         }
       ],

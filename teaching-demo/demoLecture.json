@@ -12,7 +12,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/0/09/Barbarossa_Hayreddin_Pasha.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/8/87/Fran%C3%A7ois_Ier_Louvre.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/f/fe/Francois_I_Suleiman.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b9/Charles_quint_a_tunis.png"
   ],
   "slides": [{
       "number": 0.1,
@@ -1530,19 +1531,13 @@
       "number": 17.1,
       "centered": true,
       "slide": true,
-      "title": "Conclusion",
-      "text": [{
-        "text": "A Clash of Civilizations?",
-        "color": "black",
-        "children": [{
-            "text": "Tangentially divided religiously",
-            "color": "black"
-          },
-          {
-            "text": "But criss-crossed with cross-confessional cooperation.",
-            "color": "black"
-          }
-        ]
+      "title": "Conclusion: A Clash of Civilizations?",
+      "image": [{
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Charles_quint_a_tunis.png",
+        "description": "Charles V entering Tunis (1535)"
+      }, {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+        "description": "The Ottoman Navy Wintering in Toulon (1543-44)"
       }]
     },
     {

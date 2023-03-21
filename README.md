@@ -1,7 +1,7 @@
 # teach-lectures
 This is where I store my slides for my react-presentations. The react presentation takes a JSON object that stores an array of images and a slides object that auto-populates the React-Presentation.
 
-# Intro Format
+## Intro Format
 {
   "number": 0.1,
   "slide": true,
@@ -12,7 +12,7 @@ This is where I store my slides for my react-presentations. The react presentati
   "url": "String"
 },
 
-# Centered Format with Text
+## Centered Format with Text
 {
   "number": 1.1,
   "slide": true,
@@ -34,7 +34,7 @@ This is where I store my slides for my react-presentations. The react presentati
   ]
 }
 
-# Centered Format with Images
+## Centered Format with Images
 {
   "number": 2.1,
   "slide": true,
@@ -58,7 +58,7 @@ This is where I store my slides for my react-presentations. The react presentati
     }
   ]
 }
-# Split Format
+## Split Format
 {
   "number": 3.1,
   "slide": true,

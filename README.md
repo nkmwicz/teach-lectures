@@ -39,21 +39,21 @@ This is where I store my slides for my react-presentations. The react presentati
   "number": 2.1,
   "slide": true,
   "centered": true,
-  "title": "Background Information",
-  "subTitle": "A Clash of Civilizations?",
+  "title": "string",
+  "subTitle": "string",
   "images": [{
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
-      "description": "Nur-ad-Din's Victory at the Battle of Inab, 1149 during the Second Crusade.",
-      "opacity": 1
+      "image": "string",
+      "description": "string",
+      "opacity": Number(0-1)
     },
     {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Le_si%C3%A8ge_de_Constantinople_%281453%29_by_Jean_Le_Tavernier_after_1455.jpg",
-      "description": "Ottoman Siege of Constantinople (1453) by Jean Le Tavernier (1455)",
+      "image": "string",
+      "description": "string",
       "opacity": 0.5
     },
     {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg",
-      "description": "The Battle of Lepanto (1571), by Paolo Veronese",
+      "image": "string",
+      "description": "string",
       "opacity": 0.5
     }
   ]

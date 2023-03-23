@@ -86,10 +86,10 @@
     {
       "number": 3.1,
       "slide": true,
-      "split": true,
+      "splitText": true,
       "title": "Course Overview",
       "text": [{
-          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "text": "Overview",
           "color": "lightgrey"
         },
         {
@@ -101,10 +101,7 @@
           "color": "darkslategrey"
         }
       ],
-      "image": {
-        "image": "https://i.pinimg.com/originals/8e/bd/ec/8ebdec436c95d6128281b52de07602a7.jpg",
-        "description": "From the Renaissance to the Present."
-      }
+      "rightText": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation."
     },
     {
       "number": 3.2,
@@ -112,7 +109,7 @@
       "split": true,
       "title": "Course Overview",
       "text": [{
-          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "text": "Course Overview",
           "color": "darkslategrey"
         },
         {
@@ -136,7 +133,7 @@
       "split": true,
       "title": "Course Overview",
       "text": [{
-          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "text": "Course Overview",
           "color": "darkslategrey"
         },
         {

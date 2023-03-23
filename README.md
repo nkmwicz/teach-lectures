@@ -41,7 +41,7 @@ This is where I store my slides for my react-presentations. The react presentati
   "centered": true,
   "title": "string",
   "subTitle": "string",
-  "images": [{
+  "images": [{l
       "image": "string",
       "description": "string",
       "opacity": Number(0-1)
@@ -79,7 +79,8 @@ This is where I store my slides for my react-presentations. The react presentati
     }],
   "image": {
     "image": "String",
-    "description": "String"
+    "description": "String",
+    "alt": "String"
   }
 }
 

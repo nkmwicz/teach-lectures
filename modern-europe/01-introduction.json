@@ -1,0 +1,254 @@
+{
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
+  "slides": [{
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "Welcome",
+      "subTitle": "Hst140: Modern Europe",
+      "byline": "Dr. Nathan Michalewicz"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 1,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 0.3
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 0.3
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 0.3,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 1
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 0.3
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 0.3,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 0.3
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Course Overview",
+      "text": [{
+          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Required Reading: Everything on Zotero.",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/originals/8e/bd/ec/8ebdec436c95d6128281b52de07602a7.jpg",
+        "description": "From the Renaissance to the Present."
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Course Overview",
+      "text": [{
+          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Required Reading: Everything on Zotero.",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg",
+        "description": "",
+        "alt": "image of lightbulbs with the caption: what will I learn?"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Course Overview",
+      "text": [{
+          "text": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation.",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Required Reading: Everything on Zotero.",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114",
+        "description": "Zotero.",
+        "alt": "image of Zotero logo"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "What to Expect?",
+      "text": [{
+          "text": "Graded Assignments:",
+          "color": "lightgrey",
+          "children": [{
+              "text": "Participation",
+              "color": "lightgrey"
+            },
+            {
+              "text": "6 discussion Quizzes",
+              "color": "lightgrey"
+            },
+            {
+              "text": "3 Essays (no tests).",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Discussions",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Writing Assignments",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "What to Expect?",
+      "text": [{
+          "text": "Graded Assignments:",
+          "color": "darkslategrey",
+          "children": [{
+              "text": "Participation",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "6 discussion Quizzes",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "3 Essays (no tests).",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Discussions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Writing Assignments",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "What to Expect?",
+      "text": [{
+          "text": "Graded Assignments:",
+          "color": "darkslategrey",
+          "children": [{
+              "text": "Participation",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "6 discussion Quizzes",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "3 Essays (no tests).",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Discussions",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Writing Assignments",
+          "color": "lightgrey"
+        }
+      ]
+    }
+  ]
+}

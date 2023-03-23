@@ -288,6 +288,17 @@
           "color": "darkslategrey"
         }
       ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centeredEmbed": true,
+      "title": "Course Schedule",
+      "subTitle": "Week 2",
+      "embed": {
+        "url": "https://www.youtube.com/embed/UyaZmFGyuMg",
+        "title": "Some Singer I Like."
+      }
     }
   ]
 }

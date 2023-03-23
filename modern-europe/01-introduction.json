@@ -87,9 +87,9 @@
       "number": 3.1,
       "slide": true,
       "splitText": true,
-      "title": "Course Overview",
+      "title": "Course Basics",
       "text": [{
-          "text": "Overview",
+          "text": "Course Overview",
           "color": "lightgrey"
         },
         {
@@ -107,7 +107,7 @@
       "number": 3.2,
       "slide": true,
       "split": true,
-      "title": "Course Overview",
+      "title": "Course Basics",
       "text": [{
           "text": "Course Overview",
           "color": "darkslategrey"
@@ -131,7 +131,7 @@
       "number": 3.3,
       "slide": true,
       "split": true,
-      "title": "Course Overview",
+      "title": "Course Basics",
       "text": [{
           "text": "Course Overview",
           "color": "darkslategrey"
@@ -244,6 +244,48 @@
         {
           "text": "Writing Assignments",
           "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "splitEmbed": true,
+      "title": "Course Schedule",
+      "subTitle": "Week 1",
+      "text": [{
+          "text": "Introduction",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Renaissance",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The Reformation",
+          "color": "darkslategrey"
+        }
+      ],
+      "embed": {
+        "url": "https://youtu.be/UyaZmFGyuMg",
+        "title": "Some Singer I Like."
+      }
+    },
+    {
+      "number": 6.1,
+      "child": true,
+      "title": "Practice Child Slide",
+      "text": [{
+          "text": "Child Slide",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Child Slide",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Child Slide",
+          "color": "darkslategrey"
         }
       ]
     }

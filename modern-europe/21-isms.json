@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "The Age of Isms",
+    "intro": true,
     "subTitle": "New Theories of the Economy"
   }]
 }

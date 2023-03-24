@@ -4,6 +4,7 @@
   ],
   "slides": [{
     "number": 1,
+    "intro": true,
     "title": "Discussion 9",
     "subTitle": "New Social Environments"
   }]

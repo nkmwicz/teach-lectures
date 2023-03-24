@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Discussion 12",
+    "intro": true,
     "subTitle": "Decolonization"
   }]
 }

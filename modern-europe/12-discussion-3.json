@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Discussion 3",
+    "intro": true,
     "subTitle": "A Changing World"
   }]
 }

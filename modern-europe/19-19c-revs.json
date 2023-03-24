@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "19th Century Revolutions",
+    "intro": true,
     "subTitle": "Revolution Spreads"
   }]
 }

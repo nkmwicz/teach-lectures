@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Cold War",
+    "intro": true,
     "subTitle": "Part II"
   }]
 }

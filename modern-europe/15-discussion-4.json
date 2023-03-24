@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Discussion 4",
+    "intro": true,
     "subTitle": "New Economic and Social Modes"
   }]
 }

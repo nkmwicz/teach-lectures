@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Nationalism",
+    "intro": true,
     "subTitle": "Uniting and Dividing People"
   }]
 }

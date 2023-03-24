@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "French Revolution",
+    "intro": true,
     "subTitle": "Part II: Napoleon"
   }]
 }

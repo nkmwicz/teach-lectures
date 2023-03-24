@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Decolonization",
+    "intro": true,
     "subTitle": "Early Stages"
   }]
 }

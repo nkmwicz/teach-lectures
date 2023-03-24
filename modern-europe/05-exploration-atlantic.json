@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "title": "Age of Exploration",
+    "intro": true,
     "subTitle": "Part II: The Atlantic"
   }]
 }

@@ -1,0 +1,11 @@
+{
+  "images": [
+
+  ],
+  "slides": [{
+    "number": 1,
+    "intro": true,
+    "title": "Welcome to HST XXX",
+    "subTitle": "Digital History"
+  }]
+}

@@ -37,11 +37,11 @@
       "text": [
         {
           "text": "What do you think?",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "What I think?",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ],
       "rightText": "Digital History is the use of digital tools to study the past and make it more accessible to the public."

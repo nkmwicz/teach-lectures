@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
+  "images": ["https://www.christineluken.com/wp-content/uploads/2016/05/Most-Important-Question.jpg"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -9,25 +9,42 @@
       "byline": "Dr. Nathan Michalewicz"
     },
     {
-      "number": 2.0,
+      "number": 2.1,
       "slide": true,
       "split": true,
       "title": "What is Digital History?",
       "text": [
         {
-          "text": "Digital History is the use of digital tools to study the past.",
+          "text": "What do you think?",
           "color": "lightgrey"
         },
         {
-          "text": "Digital History is the use of digital tools to study the past.",
+          "text": "What I think?",
           "color": "darkslategrey"
         }
       ],
       "image": {
-        "url": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
-        "caption": "George Mason University",
-        "alt": "Image of George Mason University"
+        "url": "https://www.christineluken.com/wp-content/uploads/2016/05/Most-Important-Question.jpg",
+        "caption": "",
+        "alt": "Image of a figure leaning against a question mark."
       }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "splitText": true,
+      "title": "What is Digital History?",
+      "text": [
+        {
+          "text": "What do you think?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What I think?",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "Digital History is the use of digital tools to study the past and make it more accessible to the public."
     }
   ]
 }

@@ -101,12 +101,12 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "From the Renaissance to the present, Europe transformed from a minor region to a global power. This course will explore the process of that transformation. It will emphasize cultural changes in Europe as well as the role of interactions around the globe—including the exploitation of indigenous populations—in that transformation."
+      "rightText": "Digital History equips students with digital tools for historical research. Students explore a range of techniques to complement traditional methods of historical analysis, including the generation of chronological and geocoded data, data mining, and textual analysis. Students apply these skills in the production and visualization of original historical content in a variety of digital formats."
     },
     {
       "number": 3.2,
       "slide": true,
-      "split": true,
+      "splitText": true,
       "title": "Course Basics",
       "text": [{
           "text": "Course Overview",
@@ -121,11 +121,7 @@
           "color": "darkslategrey"
         }
       ],
-      "image": {
-        "image": "https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg",
-        "description": "",
-        "alt": "image of lightbulbs with the caption: what will I learn?"
-      }
+      "rightText": "(1) Frame data analytics questions and design appropriate methodology for authentic contexts. (2) Apply methodology appropriate to a disciplinary context. (3) Demonstrate skill in scientific computing. (4) Interpret and translate data into actionable ideas and communicate them visually, orally, and in writing. (5) Evaluate implications associated with the pervasive creation and use of data."
     },
     {
       "number": 3.3,
@@ -154,98 +150,142 @@
     {
       "number": 4.1,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Assignments?",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "lightgrey",
-          "children": [{
-              "text": "Participation",
+              "text": "Participation (15%)",
               "color": "lightgrey"
             },
             {
-              "text": "6 discussion Quizzes",
-              "color": "lightgrey"
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
             },
             {
-              "text": "3 Essays (no tests).",
-              "color": "lightgrey"
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
             }
-          ]
-        },
-        {
-          "text": "Discussions",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Writing Assignments",
-          "color": "darkslategrey"
-        }
-      ]
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
     },
     {
       "number": 4.2,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Assignments?",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "darkslategrey",
-          "children": [{
-              "text": "Participation",
+              "text": "Participation (15%)",
               "color": "darkslategrey"
             },
             {
-              "text": "6 discussion Quizzes",
+              "text": "Topic Proposal (ungraded)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
               "color": "darkslategrey"
             },
             {
-              "text": "3 Essays (no tests).",
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
               "color": "darkslategrey"
             }
-          ]
-        },
-        {
-          "text": "Discussions",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Writing Assignments",
-          "color": "darkslategrey"
-        }
-      ]
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
     },
     {
       "number": 4.3,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Assignments?",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "darkslategrey",
-          "children": [{
-              "text": "Participation",
+              "text": "Participation (15%)",
               "color": "darkslategrey"
             },
             {
-              "text": "6 discussion Quizzes",
+              "text": "Topic Proposal (ungraded)",
               "color": "darkslategrey"
             },
             {
-              "text": "3 Essays (no tests).",
+              "text": "4 Blog Posts (10% each)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
               "color": "darkslategrey"
             }
-          ]
-        },
-        {
-          "text": "Discussions",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Writing Assignments",
-          "color": "lightgrey"
-        }
-      ]
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
+            }
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+    },
+    {
+      "number": 4.5,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "lightgrey"
+            }
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
     }
   ]
 }

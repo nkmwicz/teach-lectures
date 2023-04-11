@@ -201,7 +201,7 @@
               "color": "darkslategrey"
             }
           ],
-      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+      "rightText": "Propose a Topic with a 1-2 paragraph description of what you want to research. It should include a set of sources you will use. This topic will be the basis for all your work in this class and then the final project."
     },
     {
       "number": 4.3,
@@ -229,7 +229,7 @@
               "color": "darkslategrey"
             }
           ],
-      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+      "rightText": "(1) Database / Tableau. (2) Text Analysis. (3) Spatial Analysis. (4) Omeka."
     },
     {
       "number": 4.4,
@@ -257,7 +257,7 @@
               "color": "darkslategrey"
             }
           ],
-      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+      "rightText": "2000 word analysis of your topic using 2 tools we go over in class."
     },
     {
       "number": 4.5,
@@ -285,7 +285,7 @@
               "color": "lightgrey"
             }
           ],
-      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+      "rightText": "Presentation of your final project: argument, the tools you used, why you chose them, how it helped to analyze your question."
     }
   ]
 }

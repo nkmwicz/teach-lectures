@@ -24,7 +24,7 @@
         }
       ],
       "image": {
-        "url": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+        "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
         "caption": "George Mason University",
         "alt": "Image of George Mason University"
       }

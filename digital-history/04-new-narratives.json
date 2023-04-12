@@ -1,10 +1,10 @@
 {
-  "images": [""],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
   "slides": [{
       "number": 1.0,
       "slide": true,
       "intro": true,
-      "title": "New Narratives for History",
+      "title": "New Types of Historical Narratives",
       "subTitle": "and Search Engine Optimization",
       "byline": "Dr. Nathan Michalewicz"
     },
@@ -12,7 +12,7 @@
       "number": 2.0,
       "slide": true,
       "split": true,
-      "title": "New Narratives",
+      "title": "Traditional vs. Digital History Methods",
       "text": [
         {
           "text": "Digital History is the use of digital tools to study the past.",
@@ -24,7 +24,7 @@
         }
       ],
       "image": {
-        "url": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+        "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
         "caption": "George Mason University",
         "alt": "Image of George Mason University"
       }

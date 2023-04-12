@@ -97,7 +97,7 @@
           "color": "darkslategrey"
         },
         {
-          "text": "Required Reading: Everything on Zotero.",
+          "text": "Required Materials",
           "color": "darkslategrey"
         }
       ],
@@ -117,7 +117,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Required Reading: Everything on Zotero.",
+          "text": "Required Materials",
           "color": "darkslategrey"
         }
       ],
@@ -127,7 +127,7 @@
       "number": 3.3,
       "slide": true,
       "split": true,
-      "title": "Course Basics",
+      "splitText": "Course Basics",
       "text": [{
           "text": "Course Overview",
           "color": "darkslategrey"
@@ -137,15 +137,11 @@
           "color": "darkslategrey"
         },
         {
-          "text": "Required Reading: Everything on Zotero.",
+          "text": "Required Materials",
           "color": "lightgrey"
         }
       ],
-      "image": {
-        "image": "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114",
-        "description": "Zotero.",
-        "alt": "image of Zotero logo"
-      }
+      "rightText": "Reclaim Hosting Subscription ($35), Zotero (free), a computer."
     },
     {
       "number": 4.1,

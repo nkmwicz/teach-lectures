@@ -1,0 +1,33 @@
+{
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
+  "slides": [{
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "Open Source, Metadata, and Data types",
+      "subTitle": "A History",
+      "byline": "Dr. Nathan Michalewicz"
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "split": true,
+      "title": "Traditional vs. Digital History Methods",
+      "text": [
+        {
+          "text": "Digital History is the use of digital tools to study the past.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Digital History is the use of digital tools to study the past.",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+        "caption": "George Mason University",
+        "alt": "Image of George Mason University"
+      }
+    }
+  ]
+}

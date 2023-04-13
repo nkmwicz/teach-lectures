@@ -127,7 +127,8 @@
       "number": 3.3,
       "slide": true,
       "split": true,
-      "splitText": "Course Basics",
+      "title": "Course Basics",
+      "splitText": true,
       "text": [{
           "text": "Course Overview",
           "color": "darkslategrey"

@@ -355,7 +355,7 @@
       "number": 6.1,
       "slide": true,
       "splitText": true,
-      "title": "Attendance, Tardiness, Late Work",
+      "title": "Class Policies",
       "text": [
         {
           "text": "Attendance",
@@ -370,7 +370,7 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "You are allowed 2 absences."
+      "rightText": "2 free absences. "
     }
   ]
 }

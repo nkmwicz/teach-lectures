@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -283,6 +283,73 @@
             }
           ],
       "rightText": "Presentation of your final project: argument, the tools you used, why you chose them, how it helped to analyze your question."
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "splitText": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "lightgrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"darkslategrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "A = 90-100, B+ = 89-87, B = 86-83, B- = 82-80, C+ = 79-77, C = 76-73, C- = 72-70, D+ = 69-67, D = 66-63, D- = 62-60, F = 59-0"
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "lightgrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"darkslategrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "splitText": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "lightgrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"darkslategrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "((Participation * 0.15) + (database practicum * 0.1) + (text analysis practicum * 0.1) + (spatail pracitcum * 0.1)+ (Omeka pracitcum * 0.1) + (Final Project * 0.3) + (Presentation * 0.15)) = final grade"
     }
   ]
 }

@@ -370,7 +370,49 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "2 free absences. "
+      "rightText": "2 free absences. After that, missing class hurts your participation grade."
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "splitText": true,
+      "title": "Class Policies",
+      "text": [
+        {
+          "text": "Attendance",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Tardiness",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Late Work",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "No Tardiness policy. Make sure I know you are here at end of class if late."
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "splitText": true,
+      "title": "Class Policies",
+      "text": [
+        {
+          "text": "Attendance",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Tardiness",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Late Work",
+          "color": "lightgrey"
+        }
+      ],
+      "rightText": "1 no-questions-asked extension (not final/final paper/project) if asked 24 hours in advance. Otherwise, 5pts off every week its late."
     }
   ]
 }

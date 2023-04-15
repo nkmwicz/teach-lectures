@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg"],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg", "https://winkgo.com/wp-content/uploads/2020/07/reading-memes-51.jpg"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -413,6 +413,60 @@
         }
       ],
       "rightText": "1 no-questions-asked 48-hour extension (not final/final paper/final project) if asked 24 hours in advance. Otherwise, 5pts off every week its late."
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "What to Expect Each Class",
+      "text": [
+        {
+          "text": "Reading / Theory",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Technology Practicum",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://winkgo.com/wp-content/uploads/2020/07/reading-memes-51.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "What to Expect Each Class",
+      "text": [
+        {
+          "text": "Reading / Theory",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Technology Practicum",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "Next Class",
+      "text": [
+        {
+          "text": "Introdution to Digital History and WordPress",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

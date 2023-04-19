@@ -1,10 +1,180 @@
 {
   "images": [
-
+    "https://assets.sutori.com/user-uploads/image/045a51d6-95c5-4f6f-8549-eb28d1ef6fcb/b9c2d83c13e47109c0cb0680dc7871b8.gif", "https://www.quotationof.com/images/john-green-3.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "title": "The Enlightenment"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "intro": true,
+      "title": "The Enlightenment",
+      "subTitle": "And The Public Sphere"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "splitText": true,
+      "title": "What was the Enlightenment?",
+      "text": [
+        {
+          "text": "A Basic Definition",
+          "color": "lightgray"
+        },
+        {
+          "text": "More than great men thinking great things.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where and how did did the Enlightenment happen?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created new ways of interacting with one another: Public Sphere",
+          "color": "darkslategray"
+        }
+      ],
+      "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the existing political system (the Ancièn Regime)."
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "What was the Enlightenment?",
+      "text": [
+        {
+          "text": "A Basic Definition",
+          "color": "darkslategray"
+        },
+        {
+          "text": "More than great men thinking great things.",
+          "color": "lightgray"
+        },
+        {
+          "text": "Where and how did did the Enlightenment happen?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created new ways of interacting with one another: Public Sphere",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://assets.sutori.com/user-uploads/image/045a51d6-95c5-4f6f-8549-eb28d1ef6fcb/b9c2d83c13e47109c0cb0680dc7871b8.gif",
+        "alt": "Image of Enlightenment thinkers.",
+        "description": "Enlightenment thinkers."
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "splitText": true,
+      "title": "What was the Enlightenment?",
+      "text": [
+        {
+          "text": "A Basic Definition",
+          "color": "darkslategray"
+        },
+        {
+          "text": "More than great men thinking great things.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where and how did did the Enlightenment happen?",
+          "color": "lightgray"
+        },
+        {
+          "text": "Created new ways of interacting with one another: Public Sphere",
+          "color": "darkslategray"
+        }
+      ],
+      "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "splitText": true,
+      "title": "What was the Enlightenment?",
+      "text": [
+        {
+          "text": "A Basic Definition",
+          "color": "darkslategray"
+        },
+        {
+          "text": "More than great men thinking great things.",
+          "color": "lightgray"
+        },
+        {
+          "text": "Where and how did did the Enlightenment happen?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created new ways of interacting with one another: Public Sphere",
+          "color": "darkslategray"
+        }
+      ],
+      "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Causes of Enlightenment?",
+      "text": [
+        {
+          "text": "What did John Green say?.",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing Wealth",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Cities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffee & Sugar.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New Types of Sociability Outside the Court",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.quotationof.com/images/john-green-3.jpg",
+        "alt": "Image of John Green.",
+        "description": "John Green."
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "split": true,
+      "title": "The Traditional History of the Enlightenment: Ideas",
+      "text": [
+        {
+          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.quotationof.com/images/john-green-3.jpg",
+        "alt": "Image of John Green.",
+        "description": "John Green."
+      }
+    }
+  ]
 }

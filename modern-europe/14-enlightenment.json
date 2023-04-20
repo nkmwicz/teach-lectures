@@ -87,7 +87,7 @@
           "color": "darkslategray"
         }
       ],
-      "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
+      "rightText": "A period that propogated new discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
     },
     {
       "number": 2.4,
@@ -101,7 +101,7 @@
         },
         {
           "text": "More than great men thinking great things.",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Where and how did did the Enlightenment happen?",
@@ -109,7 +109,7 @@
         },
         {
           "text": "Created new ways of interacting with one another: Public Sphere",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ],
       "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
@@ -154,7 +154,7 @@
       "title": "The Traditional History of the Enlightenment: Ideas",
       "text": [
         {
-          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "text": ".",
           "color": "lightgray"
         },
         {

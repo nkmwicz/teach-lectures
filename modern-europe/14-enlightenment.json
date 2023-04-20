@@ -133,7 +133,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Coffee & Sugar.",
+          "text": "Coffee & Sugar",
           "color": "darkslategray"
         },
         {
@@ -154,19 +154,31 @@
       "title": "The Traditional History of the Enlightenment: Ideas",
       "text": [
         {
-          "text": ".",
+          "text": "Application of Sci. Rev. to Society",
           "color": "lightgray"
         },
         {
-          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "text": "Philosophes",
           "color": "darkslategray"
         },
         {
-          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "text": "Secular Reasoning",
           "color": "darkslategray"
         },
         {
-          "text": "The Enlightenment was a period of time in which great thinkers came up with new ideas.",
+          "text": "Charles Louis de Montesquieu (1689-1755)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "François-Marie Arouet (Voltaire) (1694-1778)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Denis Diderot (1713-1784)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Jacques Rousseau (1712-1778)",
           "color": "darkslategray"
         }
       ],

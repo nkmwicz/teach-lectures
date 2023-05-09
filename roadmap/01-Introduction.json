@@ -1,0 +1,472 @@
+{
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg", "https://winkgo.com/wp-content/uploads/2020/07/reading-memes-51.jpg"],
+  "slides": [{
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "Welcome",
+      "subTitle": "Hst 100: Roadmap",
+      "byline": "Dr. Nathan Michalewicz"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 1,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 0.3
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 0.3
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 0.3,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 1
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 0.3
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "A Little about Me",
+      "images": [{
+          "image": "https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg",
+          "description": "Education, George Mason University",
+          "opacity": 0.3,
+          "alt": "image of George Mason University"
+        },
+        {
+          "image": "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg",
+          "description": "Coach kids soccer",
+          "alt": "image of a soccer ball in a net",
+          "opacity": 0.3
+        },
+        {
+          "image": "https://wallpapercave.com/wp/wp2091410.jpg",
+          "description": "Cowboys Fan",
+          "alt": "image of the Dallas Cowbos star",
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "splitText": true,
+      "title": "Course Basics",
+      "text": [{
+          "text": "Course Overview",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Required Materials",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "Digital History equips students with digital tools for historical research. Students explore a range of techniques to complement traditional methods of historical analysis, including the generation of chronological and geocoded data, data mining, and textual analysis. Students apply these skills in the production and visualization of original historical content in a variety of digital formats."
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "splitText": true,
+      "title": "Course Basics",
+      "text": [{
+          "text": "Course Overview",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Required Materials",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "(1) Frame data analytics questions and design appropriate methodology for authentic contexts. (2) Apply methodology appropriate to a disciplinary context. (3) Demonstrate skill in scientific computing. (4) Interpret and translate data into actionable ideas and communicate them visually, orally, and in writing. (5) Evaluate implications associated with the pervasive creation and use of data."
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Course Basics",
+      "splitText": true,
+      "text": [{
+          "text": "Course Overview",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Learning Objectives",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Required Materials",
+          "color": "lightgrey"
+        }
+      ],
+      "rightText": "Reclaim Hosting Subscription ($35), Zotero (free), a computer."
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
+            }
+          ],
+      "rightText": "Each class gets a grade. If you come and do not disrupt class, you get a B. Participations raises your grade. You get two free misses. "
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
+            }
+          ],
+      "rightText": "Propose a Topic with a 1-2 paragraph description of what you want to research. It should include a set of sources you will use. This topic will be the basis for all your work in this class and then the final project."
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
+            }
+          ],
+      "rightText": "(1) Database / Tableau. (2) Text Analysis. (3) Spatial Analysis. (4) Omeka."
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "darkslategrey"
+            }
+          ],
+      "rightText": "2000 word analysis of your topic using 2 tools we go over in class."
+    },
+    {
+      "number": 4.5,
+      "slide": true,
+      "splitText": true,
+      "title": "Assignments?",
+      "text": [{
+              "text": "Participation (15%)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Topic Proposal (ungraded)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "4 Blog Posts (10% each)",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Final Project (30%).",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Presentation (15%).",
+              "color": "lightgrey"
+            }
+          ],
+      "rightText": "Presentation of your final project: argument, the tools you used, why you chose them, how it helped to analyze your question."
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "splitText": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "lightgrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"darkslategrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "A = 90-100, B+ = 89-87, B = 86-83, B- = 82-80, C+ = 79-77, C = 76-73, C- = 72-70, D+ = 69-67, D = 66-63, D- = 62-60, F = 59-0"
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"lightgrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "splitText": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "Grades",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "No A- here.",
+          "color":"darkslategrey"
+        },
+        {
+          "text": "Calculating your grade",
+          "color": "lightgrey"
+        }
+      ],
+      "rightText": "((Participation * 0.15) + (database practicum * 0.1) + (text analysis practicum * 0.1) + (spatail pracitcum * 0.1)+ (Omeka pracitcum * 0.1) + (Final Project * 0.3) + (Presentation * 0.15)) = final grade"
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "splitText": true,
+      "title": "Class Policies",
+      "text": [
+        {
+          "text": "Attendance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Tardiness",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Late Work",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "2 free absences. After that, missing class hurts your participation grade."
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "splitText": true,
+      "title": "Class Policies",
+      "text": [
+        {
+          "text": "Attendance",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Tardiness",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Late Work",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "No Tardiness policy. Make sure I know you are here at end of class if late."
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "splitText": true,
+      "title": "Class Policies",
+      "text": [
+        {
+          "text": "Attendance",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Tardiness",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Late Work",
+          "color": "lightgrey"
+        }
+      ],
+      "rightText": "1 no-questions-asked 48-hour extension (not final/final paper/final project) if asked 24 hours in advance. Otherwise, 5pts off every week its late."
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "What to Expect Each Class",
+      "text": [
+        {
+          "text": "Reading / Theory",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Technology Practicum",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://winkgo.com/wp-content/uploads/2020/07/reading-memes-51.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "What to Expect Each Class",
+      "text": [
+        {
+          "text": "Reading / Theory",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Technology Practicum",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.photos-public-domain.com/wp-content/uploads/2018/06/a-minus-school-letter-grade.jpg",
+        "alt": "A minus letter grade",
+        "description": "No A - grades here."
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "Next Class",
+      "text": [
+        {
+          "text": "Introdution to Digital History and WordPress",
+          "color": "lightgrey"
+        }
+      ]
+    }
+  ]
+}

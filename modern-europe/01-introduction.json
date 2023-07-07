@@ -181,7 +181,7 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "I will take class attendance each day. Each day of class will receive a grade. If you attend, you will start with an 85. Participating improves that grade. Behavior detrimental to the learning environment (for example, using your phone, using your computer for activities unrelated to the class, any other activities that distract other students, or being generally disruptive) will reduce that grade. After two absences, not attending class will receive a zero for that day. If you do not miss more than two days, your participation grade will not hurt your overall grade. It will only improve it."
+      "rightText": "I will take class attendance each day. Each day of class will receive a grade. If you attend, you will start with an 85. Participating improves that grade. Behavior detrimental to the learning environment will reduce that grade. After two absences, not attending class will receive a zero for that day. If you do not miss more than two days, your participation grade will not hurt your overall grade. It will only improve it."
     },
     {
       "number": 4.2,
@@ -245,7 +245,7 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "There will  be an open-note, open-source quiz at the beginning of five (5) of the discussion days. The quiz will have an open-ended prompt to which each student will respond in 3-5 sentences. A successful response will make an argument in the first sentence and support it with evidence in the following sentences. An 'A' response will make an argument responding to the question directly and use substantive evidence to support it. A 'B' response will make an argument, but will not support it with substantive evidence. A 'C' response will not make a clear argument or will provide little if any evidence. A 'D' response will not meet any of the above criteria.  These quizzes are graded quickly and simply: A = 95; B = 85; C = 75; D = 65; F = 55."
+      "rightText": "There will  be an open-note, open-source quiz at the beginning of five (5) of the discussion days. The quiz will have an open-ended prompt to which each student will respond in 3-5 sentences."
     },
     {
       "number": 4.4,

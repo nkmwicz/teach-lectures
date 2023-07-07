@@ -358,26 +358,146 @@
     {
       "number": 5.1,
       "slide": true,
-      "splitEmbed": true,
-      "title": "Course Schedule",
-      "subTitle": "Week 1",
+      "centered": true,
+      "title": "Extra Credit (2% extra each)",
+      "subTitle": "3 Opportunities",
       "text": [{
-          "text": "Introduction",
+          "text": "Turned in with the Essay",
           "color": "lightgrey"
         },
         {
-          "text": "The Renaissance",
+          "text": "Use ChatGPT to help you write your essay.",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "https://chat.openai.com/", 
+              "color": "darkslategrey"
+            },
+            {
+              "text": "how to do this?",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "To turn in:",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Outline and Thesis Statement",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "ChatGPT Prompt",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "ChatGPT Output",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Response on experience using ChatGPT in this way.",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Extra Credit (2% extra each)",
+      "subTitle": "3 Opportunities",
+      "text": [{
+          "text": "Turned in with the Essay",
           "color": "darkslategrey"
         },
         {
-          "text": "The Reformation",
-          "color": "darkslategrey"
+          "text": "Use ChatGPT to help you write your essay.",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "https://chat.openai.com/", 
+              "color": "lightgrey"
+            },
+            {
+              "text": "how to do this?",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "To turn in:",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Outline and Thesis Statement",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "ChatGPT Prompt",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "ChatGPT Output",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Response on experience using ChatGPT in this way.",
+              "color": "darkslategrey"
+            }
+          ]
         }
-      ],
-      "embed": {
-        "url": "https://www.youtube.com/embed/UyaZmFGyuMg",
-        "title": "Some Singer I Like."
-      }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "Extra Credit (2% extra each)",
+      "subTitle": "3 Opportunities",
+      "text": [{
+          "text": "Turned in with the Essay",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Use ChatGPT to help you write your essay.",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "https://chat.openai.com/", 
+              "color": "darkslategrey"
+            },
+            {
+              "text": "how to do this?",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "To turn in:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Outline and Thesis Statement",
+              "color": "lightgrey"
+            },
+            {
+              "text": "ChatGPT Prompt",
+              "color": "lightgrey"
+            },
+            {
+              "text": "ChatGPT Output",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Response on experience using ChatGPT in this way.",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
     },
     {
       "number": 6.1,

@@ -501,19 +501,109 @@
     },
     {
       "number": 6.1,
-      "child": true,
-      "title": "Practice Child Slide",
+      "centered": true,
+      "title": "Late Work",
       "text": [{
-          "text": "Child Slide",
-          "color": "lightgrey"
+          "text": "1 no-questions-asked 48-hour extension",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Must request 24 hours before due date.",
+              "color": "lightgrey"
+            }
+          ]
         },
         {
-          "text": "Child Slide",
-          "color": "darkslategrey"
+          "text": "Otherwise: reduced 5 points immediately",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "And an additional 5 points every week thereafter.",
+              "color": "darkslategrey"
+            }
+          ]
         },
         {
-          "text": "Child Slide",
-          "color": "darkslategrey"
+          "text": "In the case of Emergency or other documented event:",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "I offer solutions on a case-by-case basis.",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "centered": true,
+      "title": "Late Work",
+      "text": [{
+          "text": "1 no-questions-asked 48-hour extension",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Must request 24 hours before due date.",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Otherwise: reduced 5 points immediately",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "And an additional 5 points every week thereafter.",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "In the case of Emergency or other documented event:",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "I offer solutions on a case-by-case basis.",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "centered": true,
+      "title": "Late Work",
+      "text": [{
+          "text": "1 no-questions-asked 48-hour extension",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Must request 24 hours before due date.",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Otherwise: reduced 5 points immediately",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "And an additional 5 points every week thereafter.",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "In the case of Emergency or other documented event:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "I offer solutions on a case-by-case basis.",
+              "color": "lightgrey"
+            }
+          ]
         }
       ]
     },

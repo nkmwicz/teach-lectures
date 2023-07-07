@@ -326,7 +326,7 @@
     {
       "number": 4.6,
       "slide": true,
-      "split": true,
+      "splitText": true,
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
@@ -353,7 +353,7 @@
           "color": "lightgrey"
         }
       ],
-      "rightText": "Each student will write three essays (500-word minimum). Each essay will respond to one (1) of multiple possible prompts. Each essay should make an argument (thesis statement) that you will prove throughout the essay. Essays should use evidence from the readings, videos, and podcasts from the essay's section and cite any direct quotations or paraphrases from these sources in a footnote. To receive full credit, essays should reference materials only from this class (class discussions, readings, podcasts, videos, etc.), and each essay should cite at least three different materials from the class."
+      "rightText": "The essay should make an argument (thesis statement) that you will prove throughout the essay. Essays should use evidence from the readings, videos, and podcasts from the essay's section and cite any direct quotations or paraphrases from these sources in a footnote. To receive full credit, essays should reference materials only from this class (class discussions, readings, podcasts, videos, etc.), and each essay should cite at least three different materials from the class."
     },
     {
       "number": 5.1,

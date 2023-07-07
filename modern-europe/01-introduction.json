@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg", "https://wallpapercave.com/wp/wp2091410.jpg","https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg", "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114","https://thumbs.dreamstime.com/b/kids-raising-hands-class-adorable-little-129169394.jpg","https://www.seekpng.com/png/detail/230-2304248_map-clip-art-old-treasure-map-cartoon-png.png"],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg", "https://wallpapercave.com/wp/wp2091410.jpg","https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg", "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114","https://thumbs.dreamstime.com/b/kids-raising-hands-class-adorable-little-129169394.jpg","https://www.seekpng.com/png/detail/230-2304248_map-clip-art-old-treasure-map-cartoon-png.png","https://clipart-library.com/img/1000442.png"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -165,7 +165,7 @@
           "color": "darkslategrey"
         },
         {
-          "text": "5 discussion Quizzes (2% each).",
+          "text": "5 Quizzes (2% each).",
           "color": "darkslategrey"
         },
         {
@@ -290,7 +290,7 @@
     {
       "number": 4.5,
       "slide": true,
-      "splitText": true,
+      "split": true,
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
@@ -317,7 +317,11 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "Each student will take three online, open-note, multiple-choice tests."
+      "image": {
+        "image": "https://clipart-library.com/img/1000442.png",
+        "description": "",
+        "alt": "cartoon image of a girl at a computer."
+      }
     },
     {
       "number": 4.6,

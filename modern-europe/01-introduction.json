@@ -666,6 +666,30 @@
           "color": "lightgrey"
         }
       ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "Other Matters in the Syllabus You Should Read",
+      "text": [
+        {
+          "text": "Student Complain Process",
+          "color": "lightgrey"
+        },
+        {
+          "text": "QAlert",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Religious Holidays",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Email Communication",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

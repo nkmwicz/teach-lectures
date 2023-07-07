@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg"],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg", "https://wallpapercave.com/wp/wp2091410.jpg","https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg", "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -154,98 +154,194 @@
     {
       "number": 4.1,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Graded Assignments",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "lightgrey",
-          "children": [{
-              "text": "Participation",
-              "color": "lightgrey"
-            },
-            {
-              "text": "6 discussion Quizzes",
-              "color": "lightgrey"
-            },
-            {
-              "text": "3 Essays (no tests).",
-              "color": "lightgrey"
-            }
-          ]
+          "text": "Participation (10%)",
+          "color": "lightgrey"
         },
         {
-          "text": "Discussions",
+          "text": "Lead Discussion (10%)",
           "color": "darkslategrey"
         },
         {
-          "text": "Writing Assignments",
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
           "color": "darkslategrey"
         }
-      ]
+      ],
+      "rightText": "I will take class attendance each day. Each day of class will receive a grade. If you attend, you will start with an 85. Participating improves that grade. Behavior detrimental to the learning environment (for example, using your phone, using your computer for activities unrelated to the class, any other activities that distract other students, or being generally disruptive) will reduce that grade. After two absences, not attending class will receive a zero for that day. If you do not miss more than two days, your participation grade will not hurt your overall grade. It will only improve it."
     },
     {
       "number": 4.2,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Graded Assignments",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "darkslategrey",
-          "children": [{
-              "text": "Participation",
-              "color": "darkslategrey"
-            },
-            {
-              "text": "6 discussion Quizzes",
-              "color": "darkslategrey"
-            },
-            {
-              "text": "3 Essays (no tests).",
-              "color": "darkslategrey"
-            }
-          ]
+          "text": "Participation (10%)",
+          "color": "darkslategrey"
         },
         {
-          "text": "Discussions",
+          "text": "Lead Discussion (10%)",
           "color": "lightgrey"
         },
         {
-          "text": "Writing Assignments",
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
           "color": "darkslategrey"
         }
-      ]
+      ],
+      "rightText": "Each student will lead a twenty (20) minute discussion at the beginning of each discussion day. If there are more students than discussion days, students will lead the discussion as a group. Students will sign up for their discussion day during the first week of class."
     },
     {
       "number": 4.3,
       "slide": true,
-      "centered": true,
-      "title": "What to Expect?",
+      "splitText": true,
+      "title": "Graded Assignments",
       "text": [{
-          "text": "Graded Assignments:",
-          "color": "darkslategrey",
-          "children": [{
-              "text": "Participation",
-              "color": "darkslategrey"
-            },
-            {
-              "text": "6 discussion Quizzes",
-              "color": "darkslategrey"
-            },
-            {
-              "text": "3 Essays (no tests).",
-              "color": "darkslategrey"
-            }
-          ]
-        },
-        {
-          "text": "Discussions",
+          "text": "Participation (10%)",
           "color": "darkslategrey"
         },
         {
-          "text": "Writing Assignments",
+          "text": "Lead Discussion (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "There will  be an open-note, open-source quiz at the beginning of five (5) of the discussion days. The quiz will have an open-ended prompt to which each student will respond in 3-5 sentences. A successful response will make an argument in the first sentence and support it with evidence in the following sentences. An 'A' response will make an argument responding to the question directly and use substantive evidence to support it. A 'B' response will make an argument, but will not support it with substantive evidence. A 'C' response will not make a clear argument or will provide little if any evidence. A 'D' response will not meet any of the above criteria.  These quizzes are graded quickly and simply: A = 95; B = 85; C = 75; D = 65; F = 55."
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "splitText": true,
+      "title": "Graded Assignments",
+      "text": [{
+          "text": "Participation (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Lead Discussion (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "Students will turn in a map marked up with the locations of pre-assigned places. The Map is available on Canvas. Students should download it, write the names of the locations, and turn it in on the assigned date."
+    },
+    {
+      "number": 4.5,
+      "slide": true,
+      "splitText": true,
+      "title": "Graded Assignments",
+      "text": [{
+          "text": "Participation (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Lead Discussion (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
+          "color": "darkslategrey"
+        }
+      ],
+      "rightText": "Each student will take three online, open-note, multiple-choice tests."
+    },
+    {
+      "number": 4.6,
+      "slide": true,
+      "splitText": true,
+      "title": "Graded Assignments",
+      "text": [{
+          "text": "Participation (10%)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Lead Discussion (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "5 discussion Quizzes (2% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Map Quiz (10%)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Online Tests (10% each).",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Essays (10% each).",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "rightText": "Each student will write three essays (500-word minimum). Each essay will respond to one (1) of multiple possible prompts. Each essay should make an argument (thesis statement) that you will prove throughout the essay. Essays should use evidence from the readings, videos, and podcasts from the essay's section and cite any direct quotations or paraphrases from these sources in a footnote. If you have any questions about citations (or any other questions about writing essays), see my document on writing guidance available here. To receive full credit, essays should reference materials only from this class (class discussions, readings, podcasts, videos, etc.), and each essay should cite at least three different materials from the class."
     },
     {
       "number": 5.1,

@@ -1,5 +1,5 @@
 {
-  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg", "https://wallpapercave.com/wp/wp2091410.jpg","https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg", "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114"],
+  "images": ["https://storage.googleapis.com/collegetuitioncompare/images/colleges/232186-george-mason-university.jpg", "https://windows10spotlight.com/wp-content/uploads/2017/04/6080b00df7fcc06762a0fc8ab5fb5730.jpg", "https://wallpapercave.com/wp/wp2091410.jpg","https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg", "https://cdn.slidesharecdn.com/ss_thumbnails/zotero-dit-2013-131213082528-phpapp01-thumbnail-4.jpg?cb=1422422114","https://thumbs.dreamstime.com/b/kids-raising-hands-class-adorable-little-129169394.jpg","https://www.seekpng.com/png/detail/230-2304248_map-clip-art-old-treasure-map-cartoon-png.png"],
   "slides": [{
       "number": 1.0,
       "slide": true,
@@ -154,7 +154,7 @@
     {
       "number": 4.1,
       "slide": true,
-      "splitText": true,
+      "split": true,
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
@@ -181,7 +181,11 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "I will take class attendance each day. Each day of class will receive a grade. If you attend, you will start with an 85. Participating improves that grade. Behavior detrimental to the learning environment will reduce that grade. After two absences, not attending class will receive a zero for that day. If you do not miss more than two days, your participation grade will not hurt your overall grade. It will only improve it."
+      "image": {
+        "image": "https://thumbs.dreamstime.com/b/kids-raising-hands-class-adorable-little-129169394.jpg",
+        "description": "",
+        "alt": "image of children raising their hands."
+      }
     },
     {
       "number": 4.2,
@@ -213,7 +217,7 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "Each student will lead a twenty (20) minute discussion at the beginning of each discussion day. If there are more students than discussion days, students will lead the discussion as a group. Students will sign up for their discussion day during the first week of class."
+      "rightText": "Each student will lead a twenty (20) minute discussion at the beginning of a discussion day. If there are more students than discussion days, students will lead the discussion as a group. Students will sign up for their discussion day during the first week of class."
     },
     {
       "number": 4.3,
@@ -250,7 +254,7 @@
     {
       "number": 4.4,
       "slide": true,
-      "splitText": true,
+      "split": true,
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
@@ -277,7 +281,11 @@
           "color": "darkslategrey"
         }
       ],
-      "rightText": "Students will turn in a map marked up with the locations of pre-assigned places. The Map is available on Canvas. Students should download it, write the names of the locations, and turn it in on the assigned date."
+      "rightText": {
+        "image": "https://www.seekpng.com/png/detail/230-2304248_map-clip-art-old-treasure-map-cartoon-png.png",
+        "description": "",
+        "alt": "image of a map"
+      }
     },
     {
       "number": 4.5,
@@ -314,7 +322,7 @@
     {
       "number": 4.6,
       "slide": true,
-      "splitText": true,
+      "split": true,
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
@@ -325,7 +333,7 @@
           "color": "darkslategrey"
         },
         {
-          "text": "5 discussion Quizzes (2% each).",
+          "text": "5 discussion Quizzes (2%).",
           "color": "darkslategrey"
         },
         {

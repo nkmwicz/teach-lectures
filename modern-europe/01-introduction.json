@@ -610,13 +610,62 @@
     {
       "number": 7.1,
       "slide": true,
-      "centeredEmbed": true,
-      "title": "Course Schedule",
-      "subTitle": "Week 2",
-      "embed": {
-        "url": "https://www.youtube.com/embed/UyaZmFGyuMg",
-        "title": "Some Singer I Like."
-      }
+      "centered": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "+/- scale:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "87-89 = B+",
+              "color": "lightgrey"
+            },
+            {
+              "text": "83-86 = B",
+              "color": "lightgrey"
+            },
+            {
+              "text": "80-82 = B-",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "No A-",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Grading",
+      "text": [
+        {
+          "text": "+/- scale:",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "87-89 = B+",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "83-86 = B",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "80-82 = B-",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "No A-",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

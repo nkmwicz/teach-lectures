@@ -330,7 +330,7 @@
       "title": "Graded Assignments",
       "text": [{
           "text": "Participation (10%)",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Lead Discussion (10%)",

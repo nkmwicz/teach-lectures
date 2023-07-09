@@ -42,7 +42,32 @@
     "text": [
       {
         "text": "What were you taught?",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Humanism and The Old Definition",
         "color": "lightgray"
+      },
+      {
+        "text": "More than Humanism: A New Definition?",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 2.3,
+    "slide": true,
+    "splitText": true,
+    "title": "What was the Renaissance?",
+    "text": [
+      {
+        "text": "What were you taught?",
+        "color": "darkslategray"
       },
       {
         "text": "Humanism and The Old Definition",
@@ -50,7 +75,7 @@
       },
       {
         "text": "More than Humanism: A New Definition?",
-        "color": "darkslategray"
+        "color": "lightgray"
       }
     ],
     "image": {

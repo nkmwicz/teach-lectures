@@ -4,7 +4,59 @@
   ],
   "slides": [{
     "number": 1,
+    "slide": true,
     "intro": true,
-    "title": "Renaissance"
-  }]
-}
+    "title": "The Renaissance",
+    "subTitle": "Part I"
+  }, 
+  {
+    "number": 2.1,
+    "slide": true,
+    "splitText": true,
+    "title": "What was the Renaissance?",
+    "text": [
+      {
+        "text": "What do you think the Renaissance was?",
+        "color": "lightgray"
+      },
+      {
+        "text": "Humanism and The Old Definition",
+        "color": "darkslategray"
+      },
+      {
+        "text": "More than Humanism: A New Definition?",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 2.2,
+    "slide": true,
+    "splitText": true,
+    "title": "What was the Renaissance?",
+    "text": [
+      {
+        "text": "What were you taught?",
+        "color": "lightgray"
+      },
+      {
+        "text": "Humanism and The Old Definition",
+        "color": "darkslategray"
+      },
+      {
+        "text": "More than Humanism: A New Definition?",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  }
+]}

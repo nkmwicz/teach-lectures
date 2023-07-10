@@ -36,7 +36,7 @@
   {
     "number": 2.2,
     "slide": true,
-    "splitText": true,
+    "split": true,
     "title": "What was the Renaissance?",
     "text": [
       {
@@ -61,7 +61,7 @@
   {
     "number": 2.3,
     "slide": true,
-    "splitText": true,
+    "split": true,
     "title": "What was the Renaissance?",
     "text": [
       {

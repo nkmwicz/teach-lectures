@@ -1,6 +1,6 @@
 {
   "images": [
-
+"https://clipart-library.com/images/yTkrBoz7c.jpg",
   ],
   "slides": [{
     "number": 1,
@@ -29,9 +29,8 @@
       }
     ],
     "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
+      "image": "https://clipart-library.com/images/yTkrBoz7c.jpg",
+      "alt": "Image of figure leaning against question mark."
     }
   },
   {

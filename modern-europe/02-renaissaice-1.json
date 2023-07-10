@@ -81,5 +81,65 @@
       "alt": "Image of Renaissance thinkers.",
       "description": "Renaissance thinkers."
     }
+  },
+  {
+    "number": 3.1,
+    "slide": true,
+    "split": true,
+    "title": "The Medieval World",
+    "text": [
+      {
+        "text": "Small states held together by Feudal Bonds",
+        "color": "lightgray"
+      },
+      {
+        "text": "",
+        "color": "darkslategray"
+      },
+      {
+        "text": "",
+        "color": "lightgray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 4.1,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "lightgray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World.",
+        "color": "darkslategray"
+      },
+      {
+        "text": "In practice: A Proof Method.",
+        "color": "lightgray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 5.1,
+    "slide": true,
+    "centeredEmbed": true,
+    "title": "An Exaggeration of Scholasiticism",
+    "embed": {
+      "url": "https://youtu.be/Ii68tPIiZOo?t=50",
+      "title": "The Witch Scene from Monty Python and the Holy Grail."
+    }
   }
 ]}

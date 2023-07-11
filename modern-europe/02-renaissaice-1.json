@@ -133,6 +133,56 @@
     }
   },
   {
+    "number": 4.2,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "darkslategray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World",
+        "color": "lightgray"
+      },
+      {
+        "text": "Method: Proof based system, using decontextualized truth nuggets",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 4.3,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "darkslategray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Method: Proof based system, using decontextualized truth nuggets",
+        "color": "lightgray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
     "number": 5.1,
     "slide": true,
     "centeredEmbed": true,

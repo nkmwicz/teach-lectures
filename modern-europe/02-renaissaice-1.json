@@ -22,10 +22,6 @@
       {
         "text": "Humanism and The Old Definition",
         "color": "darkslategray"
-      },
-      {
-        "text": "More than Humanism: A New Definition?",
-        "color": "darkslategray"
       }
     ],
     "image": {
@@ -46,10 +42,6 @@
       {
         "text": "Humanism and The Old Definition",
         "color": "lightgray"
-      },
-      {
-        "text": "More than Humanism: A New Definition?",
-        "color": "darkslategray"
       }
     ],
     "image": {
@@ -58,32 +50,32 @@
     }
   },
   {
-    "number": 2.3,
+    "number": 3.1,
     "slide": true,
-    "split": true,
+    "centered": true,
     "title": "What was the Renaissance?",
+    "subTitle": "More than Humanism: A New Definition?",
     "text": [
       {
-        "text": "What do you think the Renaissance was?",
-        "color": "darkslategray"
-      },
-      {
-        "text": "Humanism and The Old Definition",
-        "color": "darkslategray"
-      },
-      {
-        "text": "More than Humanism: A New Definition?",
+        "text": "A period of large states with growing bureaucracies",
         "color": "lightgray"
+      },
+      {
+        "text": "A period of intense competition between states that drove intellectual, architectural, and artistic innovation",
+        "color": "darkslategray"
+      },
+      {
+        "text": "A period of dramatic cross-cultural interactions around the globe.",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Those changes were driven by either humanism itself or inspired by the humanist movement.",
+        "color": "darkslategray"
       }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
+    ]
   },
   {
-    "number": 3.1,
+    "number": 4.1,
     "slide": true,
     "split": true,
     "title": "The Medieval World",
@@ -108,82 +100,82 @@
     }
   },
   {
-    "number": 4.1,
-    "slide": true,
-    "split": true,
-    "title": "Medieval Scholasticism",
-    "text": [
-      {
-        "text": "Merging Aristotelian Logic with Biblical Theology",
-        "color": "lightgray"
-      },
-      {
-        "text": "By 13th century, much Aristotelianism from Islamic World",
-        "color": "darkslategray"
-      },
-      {
-        "text": "Method: Proof based system, using decontextualized truth nuggets",
-        "color": "darkslategray"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
-  },
-  {
-    "number": 4.2,
-    "slide": true,
-    "split": true,
-    "title": "Medieval Scholasticism",
-    "text": [
-      {
-        "text": "Merging Aristotelian Logic with Biblical Theology",
-        "color": "darkslategray"
-      },
-      {
-        "text": "By 13th century, much Aristotelianism from Islamic World",
-        "color": "lightgray"
-      },
-      {
-        "text": "Method: Proof based system, using decontextualized truth nuggets",
-        "color": "darkslategray"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
-  },
-  {
-    "number": 4.3,
-    "slide": true,
-    "split": true,
-    "title": "Medieval Scholasticism",
-    "text": [
-      {
-        "text": "Merging Aristotelian Logic with Biblical Theology",
-        "color": "darkslategray"
-      },
-      {
-        "text": "By 13th century, much Aristotelianism from Islamic World",
-        "color": "darkslategray"
-      },
-      {
-        "text": "Method: Proof based system, using decontextualized truth nuggets",
-        "color": "lightgray"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
-  },
-  {
     "number": 5.1,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "lightgray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Method: Proof based system, using decontextualized truth nuggets",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 5.2,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "darkslategray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World",
+        "color": "lightgray"
+      },
+      {
+        "text": "Method: Proof based system, using decontextualized truth nuggets",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 5.3,
+    "slide": true,
+    "split": true,
+    "title": "Medieval Scholasticism",
+    "text": [
+      {
+        "text": "Merging Aristotelian Logic with Biblical Theology",
+        "color": "darkslategray"
+      },
+      {
+        "text": "By 13th century, much Aristotelianism from Islamic World",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Method: Proof based system, using decontextualized truth nuggets",
+        "color": "lightgray"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "Image of Renaissance thinkers.",
+      "description": "Renaissance thinkers."
+    }
+  },
+  {
+    "number": 6.1,
     "slide": true,
     "centeredEmbed": true,
     "title": "An Exaggeration of Scholasiticism",

@@ -57,19 +57,19 @@
     "subTitle": "More than Humanism: A New Definition?",
     "text": [
       {
-        "text": "A period of large states with growing bureaucracies",
+        "text": "Large states with growing bureaucracies",
         "color": "lightgray"
       },
       {
-        "text": "A period of intense competition between states that drove intellectual, architectural, and artistic innovation",
+        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
         "color": "darkslategray"
       },
       {
-        "text": "A period of dramatic cross-cultural interactions around the globe.",
+        "text": "Dramatic cross-cultural interactions around the globe.",
         "color": "darkslategray"
       },
       {
-        "text": "Those changes were driven by either humanism itself or inspired by the humanist movement.",
+        "text": "All driven by either humanism itself or inspired by the humanist movement.",
         "color": "darkslategray"
       }
     ]
@@ -90,7 +90,7 @@
       },
       {
         "text": "",
-        "color": "lightgray"
+        "color": "darkslategray"
       }
     ],
     "image": {

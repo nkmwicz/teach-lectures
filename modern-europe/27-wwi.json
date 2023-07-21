@@ -5,6 +5,147 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "World War I"
-  }]
+    "title": "The Great War"
+  },
+  {
+    "number": 2.1,
+    "title": "Major Questions",
+    "subTitle": "The Great War",
+    "centered": true,
+    "text": [
+      {
+        "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
+        "color": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "number": 2.2,
+    "title": "Major Questions",
+    "subTitle": "The Great War",
+    "centered": true,
+    "text": [
+      {
+        "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
+        "color": "lightgrey"
+      }
+    ]
+  },
+  {
+    "number": 3.1,
+    "title": "Long-term Questions:",
+    "subTitle": "Nation-State Rivalries",
+    "split": true,
+    "text": [
+      {
+        "text": "Balance of Power Theory",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Britain Vs. Germany",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "France Vs. Germany",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Russia Vs. the Ottoman Empire",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      
+    }
+  },
+  {
+    "number": 3.2,
+    "title": "Long-term Questions:",
+    "subTitle": "Nation-State Rivalries",
+    "split": true,
+    "text": [
+      {
+        "text": "Balance of Power Theory",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Britain Vs. Germany",
+        "color": "lightgrey"
+      },
+      {
+        "text": "France Vs. Germany",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Russia Vs. the Ottoman Empire",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      
+    }
+  },
+  {
+    "number": 3.3,
+    "title": "Long-term Questions:",
+    "subTitle": "Nation-State Rivalries",
+    "split": true,
+    "text": [
+      {
+        "text": "Balance of Power Theory",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Britain Vs. Germany",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "France Vs. Germany",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Russia Vs. the Ottoman Empire",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      
+    }
+  },
+  {
+    "number": 3.4,
+    "title": "Long-term Questions:",
+    "subTitle": "Nation-State Rivalries",
+    "split": true,
+    "text": [
+      {
+        "text": "Balance of Power Theory",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Britain Vs. Germany",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "France Vs. Germany",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Russia Vs. the Ottoman Empire",
+        "color": "lightgrey"
+      }
+    ],
+    "image": {
+      
+    }
+  }
+]
 }

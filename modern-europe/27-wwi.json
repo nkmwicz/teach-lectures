@@ -1,6 +1,6 @@
 {
   "images": [
-
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -207,14 +207,72 @@
     "split": true,
     "text": [
       {
-        "text": "Schlieffen Plan",
+        "text": "Napleon and Decisive Warfare",
         "color": "lightgrey"
+      },
+      {
+        "text": "Military Universities and Decisive Warfare",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Schlieffen Plan",
+        "color": "darkslategrey"
       }
     ],
     "image": {
       "image": "",
       "alt": "",
       "description": ""
+    }
+  },
+  {
+    "number": 7.2,
+    "title": "Long-Term Causes:",
+    "subTitle": "Militarism",
+    "split": true,
+    "text": [
+      {
+        "text": "Napleon and Decisive Warfare",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Military Universities and Decisive Warfare",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Schlieffen Plan",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "",
+      "alt": "",
+      "description": ""
+    }
+  },
+  {
+    "number": 7.3,
+    "title": "Long-Term Causes:",
+    "subTitle": "Militarism",
+    "split": true,
+    "text": [
+      {
+        "text": "Napleon and Decisive Warfare",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Military Universities and Decisive Warfare",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Schlieffen Plan",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg",
+      "alt": "Map of the Schlieffen Plan",
+      "description": "The Schlieffen Plan"
     }
   }
 ]

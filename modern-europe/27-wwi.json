@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg"
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -302,6 +302,93 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg",
       "alt": "Map of Balkan States before the First Balkan War",
       "description": "Map of Balkan States before the First Balkan War"
+    }
+  },
+  {
+    "number": 8.2,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Crisis in the Balkans in early 20th century",
+    "text": [
+      {
+        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+        "color": "lightgrey"
+      },
+      {
+        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Reaction of Great powers",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg",
+      "alt": "Map of Balkan States before the First Balkan War",
+      "description": "Map of Balkan States before the First Balkan War"
+    }
+  },
+  {
+    "number": 8.3,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Crisis in the Balkans in early 20th century",
+    "text": [
+      {
+        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Reaction of Great powers",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
+      "alt": "Map of Balkan States after the First Balkan War",
+      "description": "Map of Balkan States after the First Balkan War"
+    }
+  },
+  {
+    "number": 8.3,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Crisis in the Balkans in early 20th century",
+    "text": [
+      {
+        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Reaction of Great powers",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
+      "alt": "Map of Balkan States after the First Balkan War",
+      "description": "Map of Balkan States after the First Balkan War"
     }
   }
 ]

@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg"
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg"
   ],
   "slides": [{
     "number": 1,
@@ -378,17 +378,46 @@
       },
       {
         "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
-        "color": "lightgrey"
+        "color": "darkslategrey"  
       },
       {
         "text": "Reaction of Great powers",
-        "color": "darkslategrey"
+        "color": "lightgrey"
       }
     ],
     "image": {
       "image": "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
       "alt": "Map of Balkan States after the First Balkan War",
       "description": "Map of Balkan States after the First Balkan War"
+    }
+  },
+  {
+    "number": 9.1,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+    "text": [
+      {
+        "text": "Austria-Hungary a Multi-Ethnic State",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Slavic Nationalism Growing in Austria-Hungary",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "The Black Hand (1901-1914)",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
     }
   }
 ]

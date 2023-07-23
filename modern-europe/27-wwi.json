@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg","https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg","https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png","https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg"
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg","https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg","https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png","https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg","https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -220,9 +220,9 @@
       }
     ],
     "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg",
+      "alt": "image of Karl von Clausewitz",
+      "description": "Karl von Clausewitz"
     }
   },
   {
@@ -245,9 +245,9 @@
       }
     ],
     "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Berlin_Kriegsakademie_Fassade_Unter_den_Linden.jpg",
+      "alt": "Image of a military academy in Germy in 19th century",
+      "description": "A German military academy, Unter den Linden, in the 19th century"
     }
   },
   {

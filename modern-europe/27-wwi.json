@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg"
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg","https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg","https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png","https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -505,6 +505,81 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
       "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
       "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+    }
+  },
+  {
+    "number": 8.1,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Assassination",
+    "text": [
+      {
+        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+        "color": "lightgrey"
+      },
+      {
+        "text": "The German Blank Check",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
+      "alt": "Image of assassination of Franz Ferdinand",
+      "description": "Image of assassination of Franz Ferdinand in Italian Paper"
+    }
+  },
+  {
+    "number": 8.2,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Assassination",
+    "text": [
+      {
+        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "The German Blank Check",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png",
+      "alt": "Map of Europe in 1914",
+      "description": "Europe in 1914"
+    }
+  },
+  {
+    "number": 8.3,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Assassination",
+    "text": [
+      {
+        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "The German Blank Check",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+        "color": "lightgrey"
+      }
+    ],
+    "image": {
+      "image": "https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg",
+      "alt": "Image of Washington Times front page of Austria declaring war",
+      "description": "Europe in 1914"
     }
   }
 ]

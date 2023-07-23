@@ -406,12 +406,99 @@
         "color": "darkslategrey"
       },
       {
-        "text": "Slavic Nationalism Growing in Austria-Hungary",
+        "text": "Slavic Nationalism Growing",
         "color": "darkslategrey"
       },
       {
         "text": "The Black Hand (1901-1914)",
         "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+    }
+  },
+  {
+    "number": 9.2,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+    "text": [
+      {
+        "text": "Austria-Hungary a Multi-Ethnic State",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+        "color": "lightgrey"
+      },
+      {
+        "text": "Slavic Nationalism Growing",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "The Black Hand (1901-1914)",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+    }
+  },
+  {
+    "number": 9.3,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+    "text": [
+      {
+        "text": "Austria-Hungary a Multi-Ethnic State",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Slavic Nationalism Growing",
+        "color": "lightgrey"
+      },
+      {
+        "text": "The Black Hand (1901-1914)",
+        "color": "darkslategrey"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+    }
+  },
+  {
+    "number": 9.4,
+    "split": true,
+    "title": "Immediate Causes:",
+    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+    "text": [
+      {
+        "text": "Austria-Hungary a Multi-Ethnic State",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "Slavic Nationalism Growing",
+        "color": "darkslategrey"
+      },
+      {
+        "text": "The Black Hand (1901-1914)",
+        "color": "lightgrey"
       }
     ],
     "image": {

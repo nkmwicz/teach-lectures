@@ -198,10 +198,9 @@
   },
   {
     "number": 5.2,
-    "slide": true, 
+    "map": true, 
 		"title": "Long-Term Causes:",
     "subTitle": "Alliances",
-    "split": true,
     "text": [
       {
         "text": "Triple Alliance (1882)",

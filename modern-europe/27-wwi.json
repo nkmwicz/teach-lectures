@@ -324,7 +324,7 @@
   {
     "number": 8.1,
     "split": true,
-    "slide": true, 
+    "map": true, 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [
@@ -345,16 +345,23 @@
         "color": "darkslategrey"
       }
     ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg",
-      "alt": "Map of Balkan States before the First Balkan War",
-      "description": "Map of Balkan States before the First Balkan War"
+    "year": 1900,
+    "mapLabel": "The Balkans Before the First Balkan War",
+    "mapCenter": [44.0, 20.0],
+    "zoom": 6,
+    "stateColors": {
+      "Ottoman Empire": "purple",
+      "Bulgaria": "green",
+      "Austria Hungary": "blue",
+      "Bosnia-Herzegovina": "yellow",
+      "Romania": "red",
+      "Serbia": "orange"
     }
   },
   {
     "number": 8.2,
     "split": true,
-    "slide": true, 
+    "map": true, 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [
@@ -375,16 +382,23 @@
         "color": "darkslategrey"
       }
     ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg",
-      "alt": "Map of Balkan States before the First Balkan War",
-      "description": "Map of Balkan States before the First Balkan War"
+    "year": 1900,
+    "mapLabel": "The Balkans Before the First Balkan War",
+    "mapCenter": [44.0, 20.0],
+    "zoom": 6,
+    "stateColors": {
+      "Ottoman Empire": "purple",
+      "Bulgaria": "green",
+      "Austria Hungary": "blue",
+      "Bosnia-Herzegovina": "yellow",
+      "Romania": "red",
+      "Serbia": "orange"
     }
   },
   {
     "number": 8.3,
     "split": true,
-    "slide": true, 
+    "map": true, 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [
@@ -405,10 +419,17 @@
         "color": "darkslategrey"
       }
     ],
-    "image": {
-      "image": "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
-      "alt": "Map of Balkan States after the First Balkan War",
-      "description": "Map of Balkan States after the First Balkan War"
+    "year": 1914,
+    "mapLabel": "The Balkans After the First Balkan War",
+    "mapCenter": [44.0, 20.0],
+    "zoom": 6,
+    "stateColors": {
+      "Ottoman Empire": "purple",
+      "Bulgaria": "green",
+      "Austria Hungary": "blue",
+      "Bosnia-Herzegovina": "yellow",
+      "Romania": "red",
+      "Serbia": "orange"
     }
   },
   {
@@ -435,10 +456,17 @@
         "color": "lightgrey"
       }
     ],
-    "image": {
-      "image": "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
-      "alt": "Map of Balkan States after the First Balkan War",
-      "description": "Map of Balkan States after the First Balkan War"
+    "year": 1914,
+    "mapLabel": "The Balkans  After the First Balkan War",
+    "mapCenter": [44.0, 20.0],
+    "zoom": 6,
+    "stateColors": {
+      "Ottoman Empire": "purple",
+      "Bulgaria": "green",
+      "Austria Hungary": "blue",
+      "Bosnia-Herzegovina": "yellow",
+      "Romania": "red",
+      "Serbia": "orange"
     }
   },
   {

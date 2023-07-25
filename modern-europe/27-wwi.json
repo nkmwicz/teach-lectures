@@ -198,7 +198,7 @@
       "Austria Hungary": "blue",
       "Italy": "blue"
     },
-    "zoom": 4
+    "zoom": 5
   },
   {
     "number": 5.2,
@@ -218,6 +218,7 @@
     "year": 1900,
     "mapLabel": "Europe in 1900",
     "mapCenter": [44.0, 20.0],
+    "zoom": 4,
     "stateColors": {
       "France": "green",
       "Russian Empire": "green",

@@ -186,7 +186,7 @@
         "color": "lightgrey"
       },
       {
-        "text": "Triple Entente (1882)",
+        "text": "Triple Entente (1894-1907)",
         "color": "darkslategrey"
       }
     ],
@@ -195,9 +195,10 @@
     "mapCenter": [52.0, 10.0],
     "stateColors": {
       "Germany": "blue",
-      "Austria-Hungary": "red"
+      "Austria Hungary": "blue",
+      "Italy": "blue"
     },
-    "zoom": 3
+    "zoom": 4
   },
   {
     "number": 5.2,
@@ -210,7 +211,7 @@
         "color": "darkslategrey"
       },
       {
-        "text": "Triple Entente (1882)",
+        "text": "Triple Entente (1894-1907)",
         "color": "lightgrey"
       }
     ],
@@ -219,7 +220,8 @@
     "mapCenter": [44.0, 20.0],
     "stateColors": {
       "France": "green",
-      "Russain Empire": "red"
+      "Russian Empire": "green",
+      "United Kingdom of Great Britain and Ireland": "green"
     }
   },
   {

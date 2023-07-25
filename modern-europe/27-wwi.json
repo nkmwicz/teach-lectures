@@ -176,7 +176,7 @@
   },
   {
     "number": 5.1,
-    "slide": true, 
+    "map": true, 
 		"title": "Long-Term Causes:",
     "subTitle": "Alliances",
     "split": true,
@@ -190,11 +190,14 @@
         "color": "darkslategrey"
       }
     ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
-    }
+    "year": 1900,
+    "mapLabel": "Europe in 1900",
+    "mapCenter": [52.0, 10.0],
+    "stateColors": {
+      "Germany": "blue",
+      "Austria-Hungary": "red"
+    },
+    "zoom": 3
   },
   {
     "number": 5.2,
@@ -211,10 +214,12 @@
         "color": "lightgrey"
       }
     ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
+    "year": 1900,
+    "mapLabel": "Europe in 1900",
+    "mapCenter": [44.0, 20.0],
+    "stateColors": {
+      "France": "green",
+      "Russain Empire": "red"
     }
   },
   {

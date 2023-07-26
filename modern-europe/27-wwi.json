@@ -350,13 +350,12 @@
     "mapCenter": [44.0, 20.0],
     "zoom": 6,
     "stateColors": {
-      "Ottoman Empire": "purple",
       "Bulgaria": "green",
-      "Austria Hungary": "blue",
-      "Bosnia-Herzegovina": "yellow",
+      "Bosnia-Herzegovina": "purples",
       "Romania": "red",
       "Serbia": "pink",
-      "Montenegro": "lightblue"
+      "Montenegro": "lightblue",
+      "Greece": "blue"
     }
   },
   {
@@ -388,13 +387,9 @@
     "mapCenter": [44.0, 20.0],
     "zoom": 6,
     "stateColors": {
-      "Ottoman Empire": "purple",
-      "Bulgaria": "green",
-      "Austria Hungary": "blue",
-      "Bosnia-Herzegovina": "yellow",
-      "Romania": "red",
-      "Serbia": "pink",
-      "Montenegro": "lightblue"
+      "Austria Hungary": "orange",
+      "Bosnia-Herzegovina": "purple",
+      "Serbia": "pink"
     }
   },
   {
@@ -426,14 +421,13 @@
     "mapCenter": [44.0, 20.0],
     "zoom": 6,
     "stateColors": {
-      "Ottoman Empire": "purple",
+      "Ottoman Empire": "yellow",
       "Bulgaria": "green",
-      "Austro-Hungarian Empire": "blue",
-      "Bosnia-Herzegovina": "yellow",
       "Romania": "red",
       "Serbia": "pink",
       "Montenegro": "lightblue",
-      "Greece": "darkgreen"
+      "Greece": "blue",
+      "Albania": "darkgreen"
     }
   },
   {
@@ -462,18 +456,17 @@
     ],
     "year": 1914,
     "mapLabel": "The Balkans  After the First Balkan War",
-    "mapCenter": [44.0, 20.0],
-    "zoom": 6,
+    "mapCenter": [52.0, 10.0],
+    "zoom": 5,
     "stateColors": {
-      "Ottoman Empire": "purple",
-      "Bulgaria": "green",
-      "Austro-Hungarian Empire": "blue",
-      "Bosnia-Herzegovina": "yellow",
-      "Romania": "red",
-      "Serbia": "pink",
-      "Montenegro": "lightblue",
-      "Greece": "darkgreen"
-    }
+      "Ottoman Empire": "yellow",
+      "Germany": "red",
+      "Russian Empire": "green",
+      "Austro-Hungarian Empire": "orange",
+      "France": "blue",
+      "United Kingdom of Great Britain and Ireland": "purple"
+    },
+    "popup": "Austro-Hungarian Empire" 
   },
   {
     "number": 9.1,

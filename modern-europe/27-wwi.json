@@ -387,7 +387,7 @@
     "mapCenter": [44.0, 20.0],
     "zoom": 6,
     "stateColors": {
-      "Austria Hungary": "orange",
+      "Austria Hungary": "darkorange",
       "Bosnia-Herzegovina": "purple",
       "Serbia": "pink"
     }
@@ -462,7 +462,7 @@
       "Ottoman Empire": "yellow",
       "German Empire": "red",
       "Russian Empire": "green",
-      "Austro-Hungarian Empire": "orange",
+      "Austro-Hungarian Empire": "darkorange",
       "France": "blue",
       "United Kingdom of Great Britain and Ireland": "purple"
     },

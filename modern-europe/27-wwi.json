@@ -433,7 +433,7 @@
   {
     "number": 8.4,
     "split": true,
-    "map": true, 
+    "map": "global", 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [

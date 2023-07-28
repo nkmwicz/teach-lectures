@@ -176,7 +176,7 @@
   },
   {
     "number": 5.1,
-    "map": true, 
+    "map": "global", 
 		"title": "Long-Term Causes:",
     "subTitle": "Alliances",
     "split": true,
@@ -202,7 +202,7 @@
   },
   {
     "number": 5.2,
-    "map": true, 
+    "map": "global", 
 		"title": "Long-Term Causes:",
     "subTitle": "Alliances",
     "text": [
@@ -324,7 +324,7 @@
   {
     "number": 8.1,
     "split": true,
-    "map": true, 
+    "map": "global", 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [
@@ -361,7 +361,7 @@
   {
     "number": 8.2,
     "split": true,
-    "map": true, 
+    "map": "global", 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [
@@ -395,7 +395,7 @@
   {
     "number": 8.3,
     "split": true,
-    "map": true, 
+    "map": "global", 
 		"title": "Immediate Causes:",
     "subTitle": "Crisis in the Balkans in early 20th century",
     "text": [

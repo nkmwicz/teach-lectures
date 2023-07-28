@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Atlantic Slave Economy"
+    "slide": true,
+		"title": "The Atlantic Slave Economy"
   }]
 }

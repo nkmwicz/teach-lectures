@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Industrial Revolution"
+    "slide": true,
+		"title": "The Industrial Revolution"
   }]
 }

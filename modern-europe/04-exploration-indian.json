@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "Age of Exploration",
+    "slide": true,
+		"title": "Age of Exploration",
     "subTitle": "Part I: The Indian Ocean",
     "intro": true
   }]

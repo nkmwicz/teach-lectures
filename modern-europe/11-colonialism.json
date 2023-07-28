@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "Colonial Expansion"
+    "slide": true,
+		"title": "Colonial Expansion"
   }]
 }

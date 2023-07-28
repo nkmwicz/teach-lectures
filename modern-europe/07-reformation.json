@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Reformation"
+    "slide": true,
+		"title": "The Reformation"
   }]
 }

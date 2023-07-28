@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "World War II"
+    "slide": true,
+		"title": "World War II"
   }]
 }

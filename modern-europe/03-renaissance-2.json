@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "Renaissance, Part II",
+    "slide": true,
+		"title": "Renaissance, Part II",
     "intro": true,
     "subTitle": "Plus a Discussion"
   }]

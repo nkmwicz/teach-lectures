@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Wars of Religion"
+    "slide": true,
+		"title": "The Wars of Religion"
   }]
 }

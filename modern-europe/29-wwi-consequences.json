@@ -5,7 +5,8 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "Consequences of Wold War I",
+    "slide": true,
+		"title": "Consequences of Wold War I",
     "subtitle": "Revolution and a Changing Map"
   }]
 }

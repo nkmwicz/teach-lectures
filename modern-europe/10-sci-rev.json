@@ -5,11 +5,13 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Scientific Revolution"
+    "slide": true,
+		"title": "The Scientific Revolution"
   },
 {
   "number": 2,
-  "title": "The Scientific Revolution",
-  "subTitle": "The Scientific Revolution",
+  "slide": true,
+	"title": "The Scientific Revolution",
+  "subTitle": "The Scientific Revolution"
 }]
 }

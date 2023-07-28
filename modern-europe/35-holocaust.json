@@ -5,6 +5,7 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Holocaust"
+    "slide": true,
+		"title": "The Holocaust"
   }]
 }

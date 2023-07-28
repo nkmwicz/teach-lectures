@@ -5,7 +5,8 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "Discussion 6",
+    "slide": true,
+		"title": "Discussion 6",
     "subTitle": "Changing Thought in the 19th Century"
   }]
 }

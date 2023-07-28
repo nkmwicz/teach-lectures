@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "Imperialism",
+    "slide": true,
+		"title": "Imperialism",
     "intro": true,
     "subTitle": "Part II: Africa"
   }]

@@ -5,7 +5,8 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "The Inter-War Period",
+    "slide": true,
+		"title": "The Inter-War Period",
     "subTitle": "Part II: The Great Depression"
   }]
 }

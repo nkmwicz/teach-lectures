@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "Decolonization",
+    "slide": true,
+		"title": "Decolonization",
     "intro": true,
     "subTitle": "Early Stages"
   }]

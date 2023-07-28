@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "French Revolution",
+    "slide": true,
+		"title": "French Revolution",
     "intro": true,
     "subTitle": "Part I: to Napoleon"
   }]

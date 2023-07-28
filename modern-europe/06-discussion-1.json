@@ -5,7 +5,8 @@
   "slides": [{
     "number": 1,
     "intro": true,
-    "title": "Discussion 1",
+    "slide": true,
+		"title": "Discussion 1",
     "subTitle": "Age of Exploration"
   }]
 }

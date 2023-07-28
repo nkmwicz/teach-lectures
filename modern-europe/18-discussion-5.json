@@ -4,7 +4,8 @@
   ],
   "slides": [{
     "number": 1,
-    "title": "Discussion 5",
+    "slide": true,
+		"title": "Discussion 5",
     "intro": true,
     "subTitle": "The French Revolution"
   }]

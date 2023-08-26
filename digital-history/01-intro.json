@@ -349,7 +349,7 @@
           "color": "lightgrey"
         }
       ],
-      "rightText": "((Participation * 0.15) + (database practicum * 0.1) + (text analysis practicum * 0.1) + (spatail pracitcum * 0.1)+ (Omeka pracitcum * 0.1) + (Final Project * 0.3) + (Presentation * 0.15)) = final grade"
+      "rightText": "((Participation * 0.15) + (database practicum * 0.1) + (text analysis practicum * 0.1) + (spatial pracitcum * 0.1)+ (Omeka pracitcum * 0.1) + (Final Project * 0.3) + (Presentation * 0.15)) = final grade"
     },
     {
       "number": 6.1,

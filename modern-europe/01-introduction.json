@@ -106,7 +106,7 @@
     {
       "number": 3.2,
       "slide": true,
-      "split": true,
+      "splitText": true,
       "title": "Course Basics",
       "text": [{
           "text": "Course Overview",
@@ -121,11 +121,7 @@
           "color": "darkslategrey"
         }
       ],
-      "image": {
-        "image": "https://www.simtutor.com/media/c5ulg4e1/writing-learning-objectives.jpeg",
-        "description": "",
-        "alt": "image of lightbulbs with the caption: what will I learn?"
-      }
+      "rightText": "1) Understand the social, cultural, and political changes Europe experienced between 1450 and 2000. 2) Critically analyze primary and secondary sources related to Europe between 1450 and 2000. 3) Articulate arguments on the causes and lasting impacts of European social, cultural, and political changes. 4) Support your arguments with primary and secondary sources in a reasoned and logical order following standard writing conventions."
     },
     {
       "number": 3.3,

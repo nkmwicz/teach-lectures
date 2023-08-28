@@ -461,5 +461,21 @@
         "color": "lightgray"
       }
     ]
+  },
+  {
+    "number": 8.1,
+    "slide": true,
+    "split": true,
+    "title": "Humanism Origins",
+    "text": [
+      {
+        "text": "Florence",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Francesca Petraca or Petrarch (1304-1374)",
+        "color": "darkslategray"
+      }
+    ]
   }
 ]}

@@ -1,6 +1,6 @@
 {
   "images": [
-"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg"
+"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg", "https://www.worldhistory.org/img/c/p/1200x627/15216.png"
   ],
   "slides": [{
     "number": 1,
@@ -169,9 +169,9 @@
       }
     ],
     "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
+      "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
+      "alt": "Map of Europe in 1450",
+      "description": "Map of Europe in 1450"
     }
   },
   {
@@ -194,9 +194,9 @@
       }
     ],
     "image": {
-      "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
-      "alt": "Map of Europe in 1450",
-      "description": "Map of Europe in 1450"
+      "image": "",
+      "alt": "",
+      "description": ""
     }
   },
   {

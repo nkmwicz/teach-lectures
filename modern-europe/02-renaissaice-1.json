@@ -335,5 +335,131 @@
         "color": "darkslategray"
       }
     ]
-  }
+  },
+  {
+    "number": 7.2,
+    "slide": true,
+    "centered": true,
+    "title": "Humanism",
+    "text": [
+      {
+        "text": "What was it not?",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Studia Humanitatis:",
+        "color": "lightgray",
+        "children": [
+          {
+            "text": "Grammar",
+            "color": "black"
+          },
+          {
+            "text": "poetry",
+            "color": "black"
+          },
+          {
+            "text": "rhetoric",
+            "color": "black"
+          },
+          {
+            "text": "history",
+            "color": "black"            
+          },
+          {
+            "text": "moral philosophy",
+            "color": "black"
+          }
+        ]
+      },
+      {
+        "text": "A common battlecry: recoving the glory of antiquity from the dark ages.",
+        "color": "darkslategray"
+      }
+    ]
+  },
+  {
+    "number": 7.3,
+    "slide": true,
+    "centered": true,
+    "title": "Humanism",
+    "text": [
+      {
+        "text": "What was it not?",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Studia Humanitatis:",
+        "color": "lightgray",
+        "children": [
+          {
+            "text": "Grammar",
+            "color": "lightgray"
+          },
+          {
+            "text": "poetry",
+            "color": "lightgray"
+          },
+          {
+            "text": "rhetoric",
+            "color": "lightgray"
+          },
+          {
+            "text": "history",
+            "color": "lightgray"            
+          },
+          {
+            "text": "moral philosophy",
+            "color": "lightgray"
+          }
+        ]
+      },
+      {
+        "text": "A common battlecry: recoving the glory of antiquity from the dark ages.",
+        "color": "darkslategray"
+      }
+    ]
+  },
+  {
+    "number": 7.4,
+    "slide": true,
+    "centered": true,
+    "title": "Humanism",
+    "text": [
+      {
+        "text": "What was it not?",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Studia Humanitatis:",
+        "color": "darkslategray",
+        "children": [
+          {
+            "text": "Grammar",
+            "color": "darkslategray"
+          },
+          {
+            "text": "poetry",
+            "color": "darkslategray"
+          },
+          {
+            "text": "rhetoric",
+            "color": "darkslategray"
+          },
+          {
+            "text": "history",
+            "color": "darkslategray"            
+          },
+          {
+            "text": "moral philosophy",
+            "color": "darkslategray"
+          }
+        ]
+      },
+      {
+        "text": "A common battlecry: recoving the glory of antiquity from the dark ages.",
+        "color": "lightgray"
+      }
+    ]
+  },
 ]}

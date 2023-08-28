@@ -1,6 +1,6 @@
 {
   "images": [
-"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg", "https://www.worldhistory.org/img/c/p/1200x627/15216.png"
+"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg", "https://www.worldhistory.org/img/c/p/1200x627/15216.png", "https://i0.wp.com/image.slidesharecdn.com/feudalismandhomageceremony-101118135600-phpapp02/95/feudalism-and-homage-ceremony-6-638.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -166,6 +166,56 @@
       {
         "text": "Orders of society: Church, Nobility, Everyone else.",
         "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
+      "alt": "Map of Europe in 1450",
+      "description": "Map of Europe in 1450"
+    }
+  },
+  {
+    "number": 4.2,
+    "slide": true,
+    "split": true,
+    "title": "The Medieval World",
+    "text": [
+      {
+        "text": "Small states",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Feudal Bonds",
+        "color": "lightgray"
+      },
+      {
+        "text": "Orders of society: Church, Nobility, Everyone else.",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://i0.wp.com/image.slidesharecdn.com/feudalismandhomageceremony-101118135600-phpapp02/95/feudalism-and-homage-ceremony-6-638.jpg",
+      "alt": "Image of Feudal Relationships.",
+      "description": "Image via Memory Drawer"
+    }
+  },
+  {
+    "number": 4.3,
+    "slide": true,
+    "split": true,
+    "title": "The Medieval World",
+    "text": [
+      {
+        "text": "Small states",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Feudal Bonds",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Orders of society: Church, Nobility, Everyone else.",
+        "color": "lightgray"
       }
     ],
     "image": {

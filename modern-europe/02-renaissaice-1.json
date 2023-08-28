@@ -75,6 +75,81 @@
     ]
   },
   {
+    "number": 3.2,
+    "slide": true,
+    "centered": true,
+    "title": "What was the Renaissance?",
+    "subTitle": "More than Humanism: A New Definition?",
+    "text": [
+      {
+        "text": "Large states with growing bureaucracies",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+        "color": "lightgray"
+      },
+      {
+        "text": "Dramatic cross-cultural interactions around the globe.",
+        "color": "darkslategray"
+      },
+      {
+        "text": "All driven by either humanism itself or inspired by the humanist movement.",
+        "color": "darkslategray"
+      }
+    ]
+  },
+  {
+    "number": 3.3,
+    "slide": true,
+    "centered": true,
+    "title": "What was the Renaissance?",
+    "subTitle": "More than Humanism: A New Definition?",
+    "text": [
+      {
+        "text": "Large states with growing bureaucracies",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Dramatic cross-cultural interactions around the globe.",
+        "color": "lightgray"
+      },
+      {
+        "text": "All driven by either humanism itself or inspired by the humanist movement.",
+        "color": "darkslategray"
+      }
+    ]
+  },
+  {
+    "number": 3.4,
+    "slide": true,
+    "centered": true,
+    "title": "What was the Renaissance?",
+    "subTitle": "More than Humanism: A New Definition?",
+    "text": [
+      {
+        "text": "Large states with growing bureaucracies",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Dramatic cross-cultural interactions around the globe.",
+        "color": "darkslategray"
+      },
+      {
+        "text": "All driven by either humanism itself or inspired by the humanist movement.",
+        "color": "lightgray"
+      }
+    ]
+  },
+  {
     "number": 4.1,
     "slide": true,
     "split": true,

@@ -227,7 +227,7 @@
   {
     "number": 5.1,
     "slide": true,
-    "split": true,
+    "centered": true,
     "title": "Medieval Scholasticism",
     "text": [
       {
@@ -242,17 +242,12 @@
         "text": "Method: Proof based system, using decontextualized truth nuggets",
         "color": "darkslategray"
       }
-    ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
-    }
+    ]
   },
   {
     "number": 5.2,
     "slide": true,
-    "split": true,
+    "centered": true,
     "title": "Medieval Scholasticism",
     "text": [
       {
@@ -267,17 +262,12 @@
         "text": "Method: Proof based system, using decontextualized truth nuggets",
         "color": "darkslategray"
       }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
+    ]
   },
   {
     "number": 5.3,
     "slide": true,
-    "split": true,
+    "centered": true,
     "title": "Medieval Scholasticism",
     "text": [
       {
@@ -292,12 +282,7 @@
         "text": "Method: Proof based system, using decontextualized truth nuggets",
         "color": "lightgray"
       }
-    ],
-    "image": {
-      "image": "",
-      "alt": "Image of Renaissance thinkers.",
-      "description": "Renaissance thinkers."
-    }
+    ]
   },
   {
     "number": 6.1,

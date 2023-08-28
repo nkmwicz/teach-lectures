@@ -293,5 +293,47 @@
       "url": "https://www.youtube.com/embed/Ii68tPIiZOo?start=50",
       "title": "The Witch Scene from Monty Python and the Holy Grail."
     }
+  },
+  {
+    "number": 7.1,
+    "slide": true,
+    "centered": true,
+    "title": "Humanism",
+    "text": [
+      {
+        "text": "What was it not?",
+        "color": "lightgray"
+      },
+      {
+        "text": "Studia Humanitatis:",
+        "color": "darkslategray",
+        "children": [
+          {
+            "text": "Grammar",
+            "color": "black"
+          },
+          {
+            "text": "poetry",
+            "color": "black"
+          },
+          {
+            "text": "rhetoric",
+            "color": "black"
+          },
+          {
+            "text": "history",
+            "color": "black"            
+          },
+          {
+            "text": "moral philosophy",
+            "color": "black"
+          }
+        ]
+      },
+      {
+        "text": "A common battlecry: recoving the glory of antiquity from the dark ages.",
+        "color": "darkslategray"
+      }
+    ]
   }
 ]}

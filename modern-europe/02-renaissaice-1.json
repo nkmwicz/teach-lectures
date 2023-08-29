@@ -1,6 +1,6 @@
 {
   "images": [
-"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg", "https://www.worldhistory.org/img/c/p/1200x627/15216.png", "https://i0.wp.com/image.slidesharecdn.com/feudalismandhomageceremony-101118135600-phpapp02/95/feudalism-and-homage-ceremony-6-638.jpg", "https://image1.slideserve.com/2409805/3-classes-of-medieval-society-l.jpg", "https://www.thoughtco.com/thmb/rZRsGxZDl26SnGe1EPy6ssTu2P8=/3318x2318/filters:fill(auto,1)/Florence-170003772-crop-56a0321b3df78cafdaa0743c.jpg", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg"
+"https://clipart-library.com/images/yTkrBoz7c.jpg","https://prodimage.images-bn.com/pimages/2940161402047_p0_v1_s1200x630.jpg", "https://www.worldhistory.org/img/c/p/1200x627/15216.png", "https://i0.wp.com/image.slidesharecdn.com/feudalismandhomageceremony-101118135600-phpapp02/95/feudalism-and-homage-ceremony-6-638.jpg", "https://image1.slideserve.com/2409805/3-classes-of-medieval-society-l.jpg", "https://www.thoughtco.com/thmb/rZRsGxZDl26SnGe1EPy6ssTu2P8=/3318x2318/filters:fill(auto,1)/Florence-170003772-crop-56a0321b3df78cafdaa0743c.jpg", "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg", "http://positivecounsel.com/wp-content/uploads/2014/03/Law-School.jpg"
   ],
   "slides": [{
     "number": 1,
@@ -470,7 +470,7 @@
     "text": [
       {
         "text": "Florence",
-        "color": "darkslategray"
+        "color": "lightgray"
       },
       {
         "text": "Francesca Petraca or Petrarch (1304-1374)",
@@ -495,12 +495,12 @@
       },
       {
         "text": "Francesca Petraca or Petrarch (1304-1374)",
-        "color": "darkslategray"
+        "color": "lightgray"
       }
     ],
     "image": {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
-      "alt": "Image of Petrach",
+      "alt": "Image of Petrarch",
       "description": "Petrarch"
     }
   },
@@ -525,6 +525,56 @@
     ],
     "image": {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+      "alt": "Image of Petrach",
+      "description": "Petrarch"
+    }
+  },
+  {
+    "number": 9.2,
+    "slide": true,
+    "split": true,
+    "title": "Spread of Humanism",
+    "text": [
+      {
+        "text": "Late-14th- and 15th-century Italy",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Humanism fit the times: rise of republics",
+        "color": "lightgray"
+      },
+      {
+        "text": "Growth in Law Schools",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+      "alt": "Image of Petrach",
+      "description": "Petrarch"
+    }
+  },
+  {
+    "number": 9.3,
+    "slide": true,
+    "split": true,
+    "title": "Spread of Humanism",
+    "text": [
+      {
+        "text": "Late-14th- and 15th-century Italy",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Humanism fit the times: rise of republics",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Growth in Law Schools",
+        "color": "lightgray"
+      }
+    ],
+    "image": {
+      "image": "http://positivecounsel.com/wp-content/uploads/2014/03/Law-School.jpg",
       "alt": "Image of Petrach",
       "description": "Petrarch"
     }

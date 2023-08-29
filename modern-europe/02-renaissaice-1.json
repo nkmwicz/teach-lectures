@@ -568,13 +568,11 @@
     "text": [
       {
         "text": "Humanism vs Scholasticism",
-        "color": "lightgray",
-        "children":[
-          {
-            "text": "Ex. Lorenzo Valla and the Donation of Constantine",
-            "color": "lightgray"
-          }
-        ]
+        "color": "lightgray"
+      },
+      {
+        "text": "Lorenzo Valla (1407-1457) and the Donation of Constantine",
+        "color": "darkslategray"
       },
       {
         "text": "Art",

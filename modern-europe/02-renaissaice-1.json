@@ -511,11 +511,77 @@
     "title": "Spread of Humanism",
     "text": [
       {
-        "text": "Florence",
+        "text": "Late-14th- and 15th-century Italy",
+        "color": "lightgray"
+      },
+      {
+        "text": "Humanism fit the times: rise of republics",
         "color": "darkslategray"
       },
       {
-        "text": "Francesca Petraca or Petrarch (1304-1374)",
+        "text": "Growth in Law Schools",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+      "alt": "Image of Petrach",
+      "description": "Petrarch"
+    }
+  },
+  {
+    "number": 10.1,
+    "slide": true,
+    "split": true,
+    "title": "Spread of Humanism Beyond the Alps",
+    "text": [
+      {
+        "text": "Italian Law Schools",
+        "color": "lightgray",
+        "children": [
+          {
+            "text": "Ex: University of Padua",
+            "color": "lightgray"
+          }
+        ]
+      },
+      {
+        "text": "Bureaucrats (kind of) in Royal Courts",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Jesuit Schools",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+      "alt": "Image of Petrach",
+      "description": "Petrarch"
+    }
+  },
+  {
+    "number": 11.1,
+    "slide": true,
+    "split": true,
+    "title": "Humanism: Implications",
+    "text": [
+      {
+        "text": "Humanism vs Scholasticism",
+        "color": "lightgray",
+        "children":[
+          {
+            "text": "Ex. Lorenzo Valla and the Donation of Constantine",
+            "color": "lightgray"
+          }
+        ]
+      },
+      {
+        "text": "Art",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Religious Humanism",
         "color": "darkslategray"
       }
     ],

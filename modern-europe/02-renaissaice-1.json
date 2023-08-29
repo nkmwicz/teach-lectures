@@ -537,13 +537,11 @@
     "text": [
       {
         "text": "Italian Law Schools",
-        "color": "lightgray",
-        "children": [
-          {
-            "text": "Ex: University of Padua",
-            "color": "lightgray"
-          }
-        ]
+        "color": "lightgray"
+      },
+      {
+        "text": "Example: University of Padua",
+        "color": "darkslategray"
       },
       {
         "text": "Bureaucrats (kind of) in Royal Courts",

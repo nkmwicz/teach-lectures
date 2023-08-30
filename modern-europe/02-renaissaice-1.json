@@ -799,7 +799,7 @@
     "text": [
       {
         "text": "Medieval Art and Realism",
-        "color": "darkslategray"
+        "color": "lightgray"
       },
       {
         "text": "Renaissance Art and Nominalism",
@@ -824,7 +824,7 @@
       },
       {
         "text": "Renaissance Art and Nominalism",
-        "color": "darkslategray"
+        "color": "lightgray"
       }
     ],
     "image": {

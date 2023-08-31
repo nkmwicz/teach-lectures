@@ -8,5 +8,71 @@
 		"title": "Renaissance, Part II",
     "intro": true,
     "subTitle": "Plus a Discussion"
-  }]
+  },
+  {
+    "number": 2.1,
+    "slide": true,
+    "centered": true,
+    "title": "The Renaissance Part II",
+    "text": [
+      {
+        "text":"How is Brotton's Renaissance different from Nauert's?"
+      }
+    ]
+  },
+  {
+    "number": 3.1,
+    "slide": true,
+    "centered": true,
+    "title": "What was the Renaissance?",
+    "subTitle": "More than Humanism: A New Definition?",
+    "text": [
+      {
+        "text": "Large states with growing bureaucracies",
+        "color": "lightgray"
+      },
+      {
+        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+        "color": "lightgray"
+      },
+      {
+        "text": "Dramatic cross-cultural interactions around the globe.",
+        "color": "lightgray"
+      },
+      {
+        "text": "All driven by either humanism itself or inspired by the humanist movement.",
+        "color": "lightgray"
+      }
+    ]
+  },
+  {
+    "number": 4.1,
+    "slide": true,
+    "split": true,
+    "title": "Changing International Situation?",
+    "text": [
+      {
+        "text": "Growing Mediterranean Trade 14th and 15th centuries",
+        "color": "lightgray"
+      },
+      {
+        "text": "Ottoman conquest of Constantinople (1453)",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Growing International Competition",
+        "color": "darkslategray"
+      },
+      {
+        "text": "Growing Centralized States",
+        "color": "darkslategray"
+      }
+    ],
+    "image": {
+      "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+      "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+      "description": "14th Century Trade Routes"
+    }
+  } 
+]
 }

@@ -541,25 +541,43 @@
     {
       "number": 8.1,
       "slide": true,
-      "centered": true,
-      "title": "Europe in 1400",
-      "images": [
+      "split": true,
+      "title": "A whole New System",
+      "text": [
         {
-          "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
-          "alt": "Map of European borders in 1450",
-          "description": "European Borders 1450"
+          "text": "Europe in 1450",
+          "color": "lightgray"
+        },
+        {
+          "text": "Europe in 1520",
+          "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
+        "alt": "Map of European borders in 1450",
+        "description": "European Borders 1450"
+      }
     },
     {
       "number": 8.2,
       "slide": true,
-      "centered": true,
-      "title": "Europe in 1520",
-      "images": {
-        "image": "",
-        "alt": "Map of European borders in 1400",
-        "description": "European Borders 1400"
+      "split": true,
+      "title": "A whole New System",
+      "text": [
+        {
+          "text": "Europe in 1450",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Europe in 1520",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
+        "alt": "Map of European borders in 1450",
+        "description": "European Borders 1450"
       }
     },
     {

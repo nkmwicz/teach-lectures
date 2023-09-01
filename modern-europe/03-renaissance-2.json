@@ -5,7 +5,9 @@
     "https://www.medievalists.net/wp-content/uploads/2013/04/florentinebanking.jpg",
     "https://www.ascendantfinancial.ca/wp-content/uploads/2020/12/What-is-the-Money-multiplier.jpg",
     "https://wallpaperaccess.com/full/2274236.jpg",
-    "https://www.royalement-votre.com/cartes/1400s.jpg"
+    "https://www.royalement-votre.com/cartes/1400s.jpg",
+    "https://www.euratlas.net/history/europe/iberica/peninsula_iberica_1400.jpg",
+    "https://www.euratlas.net/history/europe/1500/entity_1122.jpg"
   ],
   "slides": [
     {
@@ -479,7 +481,7 @@
       }
     },
     {
-      "number": 7.3,
+      "number": 7.4,
       "slide": true,
       "split": true,
       "title": "Growing Centralized States",
@@ -502,7 +504,7 @@
         }
       ],
       "image": {
-        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "image": "https://www.euratlas.net/history/europe/iberica/peninsula_iberica_1400.jpg",
         "alt": "Map of Spain in 1400",
         "description": "Map of Spain in 1400"
       }
@@ -531,7 +533,7 @@
         }
       ],
       "image": {
-        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "image": "https://www.euratlas.net/history/europe/1500/entity_1122.jpg",
         "alt": "Map of Spain in 1500",
         "description": "Map of Spain in 1500"
       }

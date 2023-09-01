@@ -710,7 +710,8 @@
       "number": 10.1,
       "slide": true,
       "centered": true,
-      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "title": "Created Environment that needed",
+      "subTitle": "Humanist trained Bureaucrats",
       "text": [
         {
           "text": "New Courtly Positions",
@@ -734,7 +735,8 @@
       "number": 10.2,
       "slide": true,
       "centered": true,
-      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "title": "Created Environment that needed",
+      "subTitle": "Humanist trained Bureaucrats",
       "text": [
         {
           "text": "New Courtly Positions",
@@ -758,7 +760,8 @@
       "number": 10.3,
       "slide": true,
       "centered": true,
-      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "title": "Created Environment that needed",
+      "subTitle": "Humanist trained Bureaucrats",
       "text": [
         {
           "text": "New Courtly Positions",
@@ -782,7 +785,8 @@
       "number": 10.4,
       "slide": true,
       "centered": true,
-      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "title": "Created Environment that needed",
+      "subTitle": "Humanist trained Bureaucrats",
       "text": [
         {
           "text": "New Courtly Positions",
@@ -824,6 +828,81 @@
         {
           "text": "Artists, sculptors, builders considered craftsmen",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment of Patronage",
+      "subTitle": "Moved Center of Culture from Universities to Courts",
+      "text": [
+        {
+          "text": "Medieval: universities / monestaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Renaissance: princely courts",
+          "color": "lightgray"
+        },
+        {
+          "text": "Authors and patrons",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artists, sculptors, builders considered craftsmen",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment of Patronage",
+      "subTitle": "Moved Center of Culture from Universities to Courts",
+      "text": [
+        {
+          "text": "Medieval: universities / monestaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Renaissance: princely courts",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Authors and patrons",
+          "color": "lightgray"
+        },
+        {
+          "text": "Artists, sculptors, builders considered craftsmen",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment of Patronage",
+      "subTitle": "Moved Center of Culture from Universities to Courts",
+      "text": [
+        {
+          "text": "Medieval: universities / monestaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Renaissance: princely courts",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Authors and patrons",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artists, sculptors, builders considered craftsmen",
+          "color": "lightgray"
         }
       ]
     }

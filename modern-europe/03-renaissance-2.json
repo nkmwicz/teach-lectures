@@ -607,6 +607,106 @@
       }
     },
     {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "Growing International Competition",
+      "text": [
+        {
+          "text": "Ottoman Siege of Otranto (1480-1481)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Italian Wars (1494-1559)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ottoman Habsburg Wars (1526-1572)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "alt": "Map Showing location of Otranto",
+        "description": "Otranto Location"
+      }
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "Growing International Competition",
+      "text": [
+        {
+          "text": "Ottoman Siege of Otranto (1480-1481)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Italian Wars (1494-1559)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ottoman Habsburg Wars (1526-1572)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.scrye.com/~station/hist190/map.jpg",
+        "alt": "Map Showing location of Otranto",
+        "description": "Otranto Location"
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "Growing International Competition",
+      "text": [
+        {
+          "text": "Ottoman Siege of Otranto (1480-1481)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Italian Wars (1494-1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Habsburg Wars (1526-1572)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
+        "alt": "Map of Europe 1450",
+        "description": "Europ, 1450"
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "Growing International Competition",
+      "text": [
+        {
+          "text": "Ottoman Siege of Otranto (1480-1481)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Italian Wars (1494-1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Habsburg Wars (1526-1572)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://www.scrye.com/~station/hist190/map.jpg",
+        "alt": "Map of Europe 1560",
+        "description": "Europe 1560"
+      }
+    },
+    {
       "number": 10.1,
       "slide": true,
       "centered": true,
@@ -614,11 +714,11 @@
       "text": [
         {
           "text": "New Courtly Positions",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Diplomats",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Treasurers",
@@ -631,7 +731,7 @@
       ]
     },
     {
-      "number": 10,
+      "number": 10.2,
       "slide": true,
       "centered": true,
       "title": "Created Environment that needed Humanist trained Bureaucrats",
@@ -705,7 +805,7 @@
     {
       "number": 11.1,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Created Environment of Patronage",
       "subTitle": "Moved Center of Culture from Universities to Courts",
       "text": [
@@ -725,12 +825,7 @@
           "text": "Artists, sculptors, builders considered craftsmen",
           "color": "darkslategray"
         }
-      ],
-      "image": {
-        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
-        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
-        "description": "14th Century Trade Routes"
-      }
+      ]
     }
   ]
 }

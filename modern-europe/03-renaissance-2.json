@@ -8,7 +8,8 @@
     "https://www.royalement-votre.com/cartes/1400s.jpg",
     "https://www.euratlas.net/history/europe/iberica/peninsula_iberica_1400.jpg",
     "https://www.euratlas.net/history/europe/1500/entity_1122.jpg",
-    "https://www.scrye.com/~station/hist190/map.jpg"
+    "https://www.scrye.com/~station/hist190/map.jpg",
+    "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi7gadrynvcm21.png"
   ],
   "slides": [
     {
@@ -537,6 +538,35 @@
         "image": "https://www.euratlas.net/history/europe/1500/entity_1122.jpg",
         "alt": "Map of Spain in 1500",
         "description": "Map of Spain in 1500"
+      }
+    },
+    {
+      "number": 7.5,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Ottoman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain (Castile/Aragon)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles V (r. 1519-1556)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi7gadrynvcm21.png",
+        "alt": "Map of Charles V's Lands",
+        "description": "Map of Charles V's Lands"
       }
     },
     {

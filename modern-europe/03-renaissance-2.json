@@ -1,5 +1,7 @@
 {
-  "images": [],
+  "images": [
+    "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp"
+  ],
   "slides": [
     {
       "number": 1,
@@ -205,9 +207,96 @@
         }
       ],
       "image": {
-        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
-        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
-        "description": "14th Century Trade Routes"
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Ottoman Conquest of Constantinople (1453)",
+      "text": [
+        {
+          "text": "Many Byzantines to Italy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mehmed II (r. 1432-1481) and Constantinople/Istanbul",
+          "color": "lightgray"
+        },
+        {
+          "text": "A New Metropolis",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Conquers Mamluks (1517)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "Ottoman Conquest of Constantinople (1453)",
+      "text": [
+        {
+          "text": "Many Byzantines to Italy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mehmed II (r. 1432-1481) and Constantinople/Istanbul",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A New Metropolis",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ottoman Conquers Mamluks (1517)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
+      "title": "Ottoman Conquest of Constantinople (1453)",
+      "text": [
+        {
+          "text": "Many Byzantines to Italy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mehmed II (r. 1432-1481) and Constantinople/Istanbul",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A New Metropolis",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Conquers Mamluks (1517)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
       }
     },
     {
@@ -288,7 +377,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Artists, sculptors, builders were craftsmen",
+          "text": "Artists, sculptors, builders considered craftsmen",
           "color": "darkslategray"
         }
       ],

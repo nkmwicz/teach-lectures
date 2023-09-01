@@ -1,78 +1,302 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Renaissance, Part II",
-    "intro": true,
-    "subTitle": "Plus a Discussion"
-  },
-  {
-    "number": 2.1,
-    "slide": true,
-    "centered": true,
-    "title": "The Renaissance Part II",
-    "text": [
-      {
-        "text":"How is Brotton's Renaissance different from Nauert's?"
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Renaissance, Part II",
+      "intro": true,
+      "subTitle": "Plus a Discussion"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Renaissance Part II",
+      "text": [
+        {
+          "text": "How is Brotton's Renaissance different from Nauert's?"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "centered": true,
+      "title": "What was the Renaissance?",
+      "subTitle": "More than Humanism: A New Definition?",
+      "text": [
+        {
+          "text": "Large states with growing bureaucracies",
+          "color": "lightgray"
+        },
+        {
+          "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+          "color": "lightgray"
+        },
+        {
+          "text": "Dramatic cross-cultural interactions around the globe.",
+          "color": "lightgray"
+        },
+        {
+          "text": "All driven by either humanism itself or inspired by the humanist movement.",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "Why did Humanism lead to the Renaissance?",
+      "text": [
+        {
+          "text": "Put another way: why didn't the renwal of antiquity remain an oddity of Italian Republics?",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "cewered": true,
+      "title": "Changing International Situation?",
+      "text": [
+        {
+          "text": "Growing Trade in 14th and 15th centuries",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ottoman conquest of Constantinople (1453)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing International Competition",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "centered": true,
+      "slide": true,
+      "title": "Changing International Situation?",
+      "text": [
+        {
+          "text": "Growing Trade in 14th and 15th centuries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman conquest of Constantinople (1453)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing International Competition",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "centered": true,
+      "slide": true,
+      "title": "Changing International Situation?",
+      "text": [
+        {
+          "text": "Growing Trade in 14th and 15th centuries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman conquest of Constantinople (1453)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing International Competition",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "centered": true,
+      "slide": true,
+      "title": "Changing International Situation?",
+      "text": [
+        {
+          "text": "Growing Trade in 14th and 15th centuries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman conquest of Constantinople (1453)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing International Competition",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Growing Trade in 14th and 15th centuries",
+      "text": [
+        {
+          "text": "Venetian and Genoese trade grew during 1200-1300s",
+          "color": "lightgray"
+        },
+        {
+          "text": "New Innovations in Banking, Finance, and Commerce (1300s-1400s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Increased Lending Created a money multiplier effect",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banking Families became major lenders to states",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+        "description": "14th Century Trade Routes"
       }
-    ]
-  },
-  {
-    "number": 3.1,
-    "slide": true,
-    "centered": true,
-    "title": "What was the Renaissance?",
-    "subTitle": "More than Humanism: A New Definition?",
-    "text": [
-      {
-        "text": "Large states with growing bureaucracies",
-        "color": "lightgray"
-      },
-      {
-        "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
-        "color": "lightgray"
-      },
-      {
-        "text": "Dramatic cross-cultural interactions around the globe.",
-        "color": "lightgray"
-      },
-      {
-        "text": "All driven by either humanism itself or inspired by the humanist movement.",
-        "color": "lightgray"
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Ottoman Conquest of Constantinople (1453)",
+      "text": [
+        {
+          "text": "Many Wealthy Byzantines Fled to Italy",
+          "color": "lightgray"
+        },
+        {
+          "text": "Mehmed II (r. 1432-1481) remade Constantinople/Istanbul",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Istanbul Became a Trading Metropolis",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Conquers Mamluks (1517): Monopoly on Eastern Trade",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+        "description": "14th Century Trade Routes"
       }
-    ]
-  },
-  {
-    "number": 4.1,
-    "slide": true,
-    "split": true,
-    "title": "Changing International Situation?",
-    "text": [
-      {
-        "text": "Growing Trade in 14th and 15th centuries",
-        "color": "lightgray"
-      },
-      {
-        "text": "Ottoman conquest of Constantinople (1453)",
-        "color": "darkslategray"
-      },
-      {
-        "text": "Growing International Competition",
-        "color": "darkslategray"
-      },
-      {
-        "text": "Growing Centralized States",
-        "color": "darkslategray"
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "Growing International Competition",
+      "text": [
+        {
+          "text": "Venetian and Genoese grew trade during 1200-1300s",
+          "color": "lightgray"
+        },
+        {
+          "text": "New Innovations in Banking, Finance, and Commerce",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created a Centralized location of coinage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+        "description": "14th Century Trade Routes"
       }
-    ],
-    "image": {
-      "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
-      "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
-      "description": "14th Century Trade Routes"
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Venetian and Genoese grew trade during 1200-1300s",
+          "color": "lightgray"
+        },
+        {
+          "text": "New Innovations in Banking, Finance, and Commerce",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created a Centralized location of coinage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Centralized States",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+        "description": "14th Century Trade Routes"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Created Environment of Patronage",
+      "subTitle": "Moved Center of Culture from Universities to Courts",
+      "text": [
+        {
+          "text": "Medieval authors were at universities and Monestaries",
+          "color": "lightgray"
+        },
+        {
+          "text": "Renaissance authors were at princely courts",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Authors wrote to please their patron",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artists, sculptors, builders were craftsmen",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
+        "description": "14th Century Trade Routes"
+      }
     }
-  } 
-]
+  ]
 }

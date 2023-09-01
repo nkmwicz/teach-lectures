@@ -934,6 +934,118 @@
           "color": "lightgray"
         }
       ]
+    },
+    {
+      "number": 12.1,
+      "slide": true,
+      "split": true,
+      "title": "Some Cross Cultural Examples",
+      "text": [
+        {
+          "text": "Sultan Suleiman (1520-1566)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Hagia Sophia",
+          "color": "darkslategray"
+        },
+        {
+          "image": "St. Peter's Basilica",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bellinis' St. Mark's Basilica",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i1.wp.com/www.britishmuseum.org/collectionimages/AN00053/AN00053412_001_l.jpg",
+        "alt": "Image of Suleiman's Crown"
+      }
+    },
+    {
+      "number": 12.2,
+      "slide": true,
+      "split": true,
+      "title": "Some Cross Cultural Examples",
+      "text": [
+        {
+          "text": "Sultan Suleiman (1520-1566)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hagia Sophia",
+          "color": "lightgray"
+        },
+        {
+          "image": "St. Peter's Basilica",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bellinis' St. Mark's Basilica",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hagia_Sophia%2C_Constantinople%2C_Turkey%2C_ca._1897.jpg",
+        "alt": "Image of the Hagia Sophia"
+      }
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "split": true,
+      "title": "Some Cross Cultural Examples",
+      "text": [
+        {
+          "text": "Sultan Suleiman (1520-1566)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hagia Sophia",
+          "color": "darkslategray"
+        },
+        {
+          "image": "St. Peter's Basilica",
+          "color": "lightgray"
+        },
+        {
+          "text": "Bellinis' St. Mark's Basilica",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Petersdom_von_Engelsburg_gesehen.jpg",
+        "alt": "Image of St. Peter's Basilica"
+      }
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "split": true,
+      "title": "Some Cross Cultural Examples",
+      "text": [
+        {
+          "text": "Sultan Suleiman (1520-1566)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hagia Sophia",
+          "color": "darkslategray"
+        },
+        {
+          "image": "St. Peter's Basilica",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bellinis' St. Mark's Basilica",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gentile_e_giovanni_bellini%2C_predica_di_san_marco_in_alessandria_01.jpg",
+        "alt": "Image of St. Peter's Basilica"
+      }
     }
   ]
 }

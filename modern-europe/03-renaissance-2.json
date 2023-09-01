@@ -1,6 +1,10 @@
 {
   "images": [
-    "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp"
+    "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+    "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+    "https://www.medievalists.net/wp-content/uploads/2013/04/florentinebanking.jpg",
+    "https://www.ascendantfinancial.ca/wp-content/uploads/2020/12/What-is-the-Money-multiplier.jpg",
+    "https://wallpaperaccess.com/full/2274236.jpg"
   ],
   "slides": [
     {
@@ -184,6 +188,93 @@
       }
     },
     {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "Growing Trade in 14th and 15th centuries",
+      "text": [
+        {
+          "text": "Increasing Trade (1200-1300s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banking, Finance, and Commerce (1300s-1400s)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Money multiplier effect",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lending to States",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.medievalists.net/wp-content/uploads/2013/04/florentinebanking.jpg",
+        "alt": "Image of early modern money lenders",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "split": true,
+      "title": "Growing Trade in 14th and 15th centuries",
+      "text": [
+        {
+          "text": "Increasing Trade (1200-1300s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banking, Finance, and Commerce (1300s-1400s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Money multiplier effect",
+          "color": "lightgray"
+        },
+        {
+          "text": "Lending to States",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.ascendantfinancial.ca/wp-content/uploads/2020/12/What-is-the-Money-multiplier.jpg",
+        "alt": "Image of globe and coins: what is the money multiplier?",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "split": true,
+      "title": "Growing Trade in 14th and 15th centuries",
+      "text": [
+        {
+          "text": "Increasing Trade (1200-1300s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banking, Finance, and Commerce (1300s-1400s)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Money multiplier effect",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lending to States",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://wallpaperaccess.com/full/2274236.jpg",
+        "alt": "Image of gold coins",
+        "description": ""
+      }
+    },
+    {
       "number": 6.1,
       "slide": true,
       "split": true,
@@ -331,6 +422,28 @@
     {
       "number": 8.1,
       "slide": true,
+      "centered": true,
+      "title": "Europe in 1400",
+      "images": {
+        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+        "alt": "Map of European borders in 1400",
+        "description": "European Borders 1400"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "centered": true,
+      "title": "Europe in 1520",
+      "images": {
+        "image": "",
+        "alt": "Map of European borders in 1400",
+        "description": "European Borders 1400"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
       "split": true,
       "title": "Growing International Competition",
       "text": [
@@ -358,7 +471,7 @@
       }
     },
     {
-      "number": 9.1,
+      "number": 10.1,
       "slide": true,
       "split": true,
       "title": "Created Environment of Patronage",

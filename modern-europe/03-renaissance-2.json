@@ -978,7 +978,7 @@
           "color": "lightgray"
         },
         {
-          "image": "St. Peter's Basilica",
+          "text": "St. Peter's Basilica",
           "color": "darkslategray"
         },
         {
@@ -1006,7 +1006,7 @@
           "color": "darkslategray"
         },
         {
-          "image": "St. Peter's Basilica",
+          "text": "St. Peter's Basilica",
           "color": "lightgray"
         },
         {
@@ -1020,7 +1020,7 @@
       }
     },
     {
-      "number": 12.3,
+      "number": 12.4,
       "slide": true,
       "split": true,
       "title": "Some Cross Cultural Examples",
@@ -1034,7 +1034,7 @@
           "color": "darkslategray"
         },
         {
-          "image": "St. Peter's Basilica",
+          "text": "St. Peter's Basilica",
           "color": "darkslategray"
         },
         {

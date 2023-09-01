@@ -7,7 +7,8 @@
     "https://wallpaperaccess.com/full/2274236.jpg",
     "https://www.royalement-votre.com/cartes/1400s.jpg",
     "https://www.euratlas.net/history/europe/iberica/peninsula_iberica_1400.jpg",
-    "https://www.euratlas.net/history/europe/1500/entity_1122.jpg"
+    "https://www.euratlas.net/history/europe/1500/entity_1122.jpg",
+    "https://www.scrye.com/~station/hist190/map.jpg"
   ],
   "slides": [
     {
@@ -570,14 +571,14 @@
           "color": "darkslategray"
         },
         {
-          "text": "Europe in 1520",
+          "text": "Europe in 1560",
           "color": "lightgray"
         }
       ],
       "image": {
-        "image": "https://www.worldhistory.org/img/c/p/1200x627/15216.png",
-        "alt": "Map of European borders in 1450",
-        "description": "European Borders 1450"
+        "image": "https://www.scrye.com/~station/hist190/map.jpg",
+        "alt": "Map of European borders in 1560",
+        "description": "European Borders 1560"
       }
     },
     {
@@ -600,9 +601,9 @@
         }
       ],
       "image": {
-        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
-        "alt": "Map of Hanseatic, Venetian, and Genoese trade routes in the 14th century",
-        "description": "14th Century Trade Routes"
+        "image": "https://1.bp.blogspot.com/-BGevAeZt4dw/XT60NjJYKHI/AAAAAAAABUo/JyAj2ecAUiEQWkAyw-feSt0TuCrDMhTiQCLcBGAs/s1600/otranto.jpg",
+        "alt": "Map Showing location of Otranto",
+        "description": "Otranto Location"
       }
     },
     {
@@ -613,11 +614,11 @@
       "text": [
         {
           "text": "New Courtly Positions",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Diplomats",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Treasurers",

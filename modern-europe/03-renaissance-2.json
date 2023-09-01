@@ -4,7 +4,8 @@
     "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
     "https://www.medievalists.net/wp-content/uploads/2013/04/florentinebanking.jpg",
     "https://www.ascendantfinancial.ca/wp-content/uploads/2020/12/What-is-the-Money-multiplier.jpg",
-    "https://wallpaperaccess.com/full/2274236.jpg"
+    "https://wallpaperaccess.com/full/2274236.jpg",
+    "https://www.royalement-votre.com/cartes/1400s.jpg"
   ],
   "slides": [
     {
@@ -420,15 +421,133 @@
       }
     },
     {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Ottoman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "France",
+          "color": "lightgray"
+        },
+        {
+          "text": "Spain (Castile/Aragon)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles V (r. 1519-1556)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.royalement-votre.com/cartes/1400s.jpg",
+        "alt": "Map of France in 1400",
+        "description": "Map of France in 1400"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Ottoman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "France",
+          "color": "lightgray"
+        },
+        {
+          "text": "Spain (Castile/Aragon)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles V (r. 1519-1556)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "alt": "Map of France in 1500",
+        "description": "Map of France in 1500"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Ottoman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain (Castile/Aragon)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Charles V (r. 1519-1556)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "alt": "Map of Spain in 1400",
+        "description": "Map of Spain in 1400"
+      }
+    },
+    {
+      "number": 7.5,
+      "slide": true,
+      "split": true,
+      "title": "Growing Centralized States",
+      "text": [
+        {
+          "text": "Ottoman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain (Castile/Aragon)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Charles V (r. 1519-1556)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.euratlas.net/history/europe/1500/entity_1225.jpg",
+        "alt": "Map of Spain in 1500",
+        "description": "Map of Spain in 1500"
+      }
+    },
+    {
       "number": 8.1,
       "slide": true,
       "centered": true,
       "title": "Europe in 1400",
-      "images": {
-        "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
-        "alt": "Map of European borders in 1400",
-        "description": "European Borders 1400"
-      }
+      "images": [
+        {
+          "image": "https://i.pinimg.com/736x/23/20/fb/2320fbbd4a274e9241e1d369f32506c1--mediterranean-sea-th-century.jpg",
+          "alt": "Map of European borders in 1400",
+          "description": "European Borders 1400"
+        }
+      ]
     },
     {
       "number": 8.2,
@@ -448,19 +567,15 @@
       "title": "Growing International Competition",
       "text": [
         {
-          "text": "Venetian and Genoese grew trade during 1200-1300s",
+          "text": "Ottoman Siege of Otranto (1480-1481)",
           "color": "lightgray"
         },
         {
-          "text": "New Innovations in Banking, Finance, and Commerce",
+          "text": "The Italian Wars (1494-1559)",
           "color": "darkslategray"
         },
         {
-          "text": "Created a Centralized location of coinage",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Growing Centralized States",
+          "text": "Ottoman Habsburg Wars (1526-1572)",
           "color": "darkslategray"
         }
       ],
@@ -472,6 +587,102 @@
     },
     {
       "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "text": [
+        {
+          "text": "New Courtly Positions",
+          "color": "lightgray"
+        },
+        {
+          "text": "Diplomats",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treasurers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Secretaries",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "text": [
+        {
+          "text": "New Courtly Positions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diplomats",
+          "color": "lightgray"
+        },
+        {
+          "text": "Treasurers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Secretaries",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.3,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "text": [
+        {
+          "text": "New Courtly Positions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diplomats",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treasurers",
+          "color": "lightgray"
+        },
+        {
+          "text": "Secretaries",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.4,
+      "slide": true,
+      "centered": true,
+      "title": "Created Environment that needed Humanist trained Bureaucrats",
+      "text": [
+        {
+          "text": "New Courtly Positions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diplomats",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treasurers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Secretaries",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
       "slide": true,
       "split": true,
       "title": "Created Environment of Patronage",

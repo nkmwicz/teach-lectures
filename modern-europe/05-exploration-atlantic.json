@@ -1,12 +1,24 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Age of Exploration",
-    "intro": true,
-    "subTitle": "Part II: The Atlantic"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Age of Exploration",
+      "intro": true,
+      "subTitle": "The Indian & Atlantic Oceans & Consequences"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "split": true,
+      "title": "Age of Exploration",
+      "text": [
+        {
+          "text": "How is Brotton's Renaissance different from Nauert's?",
+          "color": "lightgray"
+        }
+      ]
+    }
+  ]
 }

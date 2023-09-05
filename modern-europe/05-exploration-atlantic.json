@@ -1,5 +1,5 @@
 {
-  "images": [],
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png"],
   "slides": [
     {
       "number": 1,
@@ -11,14 +11,140 @@
     {
       "number": 2.1,
       "slide": true,
-      "split": true,
-      "title": "Age of Exploration",
+      "centered": true,
+      "title": "Age of Exploration and Consequences",
       "text": [
         {
-          "text": "How is Brotton's Renaissance different from Nauert's?",
+          "text": "Portuguese in Indian Ocean",
+          "color": "lightgray"
+        },
+        {
+          "text": "Spanish in Americas",
+          "color": "lightgray"
+        },
+        {
+          "text": "Columbian Exchange",
+          "color": "lightgray"
+        },
+        {
+          "text": "Silver & Price Revolution",
           "color": "lightgray"
         }
       ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Wealth and the East before the Age of Exploration",
+      "text": [
+        {
+          "text": "The Mongol Empire (13th Century)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Marco Polo (1254-1324)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Northern_Yuan_and_Golden_Horde.svg",
+        "alt": "Map of Mongol Successor States",
+        "description": "Map of Mongol Successor States"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Wealth and the East before the Age of Exploration",
+      "text": [
+        {
+          "text": "The Mongol Empire (13th Century)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marco Polo (1254-1324)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png",
+        "alt": "Map of the route of Marco Polo",
+        "description": "Map of the route of Marco Polo"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the 15th century",
+      "text": [
+        {
+          "text": "Portugal and North Africa",
+          "color": "lightgray"
+        },
+        {
+          "text": "Island Hopping",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Relationships with West Africans",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the Indian Ocean",
+      "text": [
+        {
+          "text": "Vasco da Gama (1498-1500)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Indian Ocean: A Vibrant Naval Environment",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alfonso da Albuquerque (1453-1515)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Ottomans Counter the Portuguese",
+      "text": [
+        {
+          "text": "Ottoman Empire Conquers Mamluks, 1517",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ibrahim Pasha",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish in the Americas",
     }
   ]
 }

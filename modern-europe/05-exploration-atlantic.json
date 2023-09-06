@@ -308,6 +308,31 @@
       }
     },
     {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "Ottomans Counter the Portuguese",
+      "text": [
+        {
+          "text": "Ottoman Empire Conquers Mamluks, 1517",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ibrahim Pasha",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Victories and Abandonment in 1580",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://commons.princeton.edu/mg/wp-content/uploads/2017/04/MG-The_Turks_and_Portuguese_in_the_Indian_Ocean_10th-16th_Centuries.jpg",
+        "alt": "Map of Ottoman and Portuguese Conflicts, part 2",
+        "description": "Map of Ottoman and Portuguese Conflicts, part 2"
+      }
+    },
+    {
       "number": 7.1,
       "slide": true,
       "split": true,

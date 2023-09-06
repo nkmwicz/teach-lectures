@@ -1,6 +1,7 @@
 {
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png"
+    "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png",
+    "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg"
   ],
   "slides": [
     {
@@ -153,7 +154,7 @@
           "color": "lightgray"
         },
         {
-          "text": "Reconquista & Grenada (1492)",
+          "text": "Reconquista & Granada (1492)",
           "color": "darkslategray"
         },
         {
@@ -162,9 +163,9 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg",
+        "alt": "Map of Castile's, Aragon's, and Granada's incorporation into Spain",
+        "description": "Map of Castile's, Aragon's, and Granada's incorporation into Spain"
       }
     }
   ]

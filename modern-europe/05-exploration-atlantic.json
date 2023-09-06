@@ -2,7 +2,10 @@
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png",
     "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png"
+    "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Retrato_de_Afonso_de_Albuquerque_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png",
+    "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+    "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15561099/image/f8734ec4286dee74a0bc1c99928d0947"
   ],
   "slides": [
     {
@@ -179,7 +182,7 @@
       }
     },
     {
-      "number": 5.1,
+      "number": 5.2,
       "slide": true,
       "split": true,
       "title": "Portuguese in the Indian Ocean",
@@ -198,13 +201,13 @@
         }
       ],
       "image": {
-        "image": "https://i.pinimg.com/originals/ac/f0/4a/acf04af7eaa0ef022a38973614b304d5.gif",
+        "image": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15561099/image/f8734ec4286dee74a0bc1c99928d0947",
         "alt": "Map of Indian Ocean Trade Routes in 1500",
         "description": "Map of Indian Ocean Trade Routes in 1500"
       }
     },
     {
-      "number": 5.1,
+      "number": 5.3,
       "slide": true,
       "split": true,
       "title": "Portuguese in the Indian Ocean",
@@ -218,14 +221,14 @@
           "color": "darkslategray"
         },
         {
-          "text": "Alfonso da Albuquerque (1453-1515)",
+          "text": "Alfonso da Albuquerque (1453-1515): the Cartaz System",
           "color": "lightgray"
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
-        "alt": "Image of Vasco da Gama",
-        "description": "Vasco da Gama"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Retrato_de_Afonso_de_Albuquerque_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png",
+        "alt": "Image of Alfonso da Albuquerque",
+        "description": "Alfonso da Albuquerque"
       }
     },
     {
@@ -243,9 +246,62 @@
           "color": "darkslategray"
         },
         {
-          "text": ""
+          "text": "Ottoman Victories and Abandonment"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Ottomans Counter the Portuguese",
+      "text": [
+        {
+          "text": "Ottoman Empire Conquers Mamluks, 1517",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ibrahim Pasha",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Victories and Abandonment"
+        }
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Ottomans Counter the Portuguese",
+      "text": [
+        {
+          "text": "Ottoman Empire Conquers Mamluks, 1517",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ibrahim Pasha",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Victories and Abandonment"
+        }
+      ],
+      "image": {
+        "image": "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
+        "alt": "Map of Ottoman Conquests (1359-1856)",
+        "description": "Ottoman Expansion (1359-1856)"
+      }
     },
     {
       "number": 7.1,

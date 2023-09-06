@@ -655,7 +655,7 @@
     {
       "number": 10.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "New Wealth from Americas",
       "text": [
         {
@@ -666,17 +666,22 @@
           "text": "Potosi Silver Mine 1545",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://hadaril.github.io/nextgen/1550.png",
+        "alt": "Map of globe 1550",
+        "description": "Map of globe 1550"
+      }
     },
     {
       "number": 10.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "New Wealth from Americas",
       "text": [
         {
           "text": "Portuguese in Brazil: Sugar",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Potosi Silver Mine 1545",

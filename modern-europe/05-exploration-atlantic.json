@@ -5,7 +5,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png",
     "https://upload.wikimedia.org/wikipedia/commons/a/ae/Retrato_de_Afonso_de_Albuquerque_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png",
     "https://www.istanbulclues.com/wp-content/uploads/2016/11/Ottoman-Empire-Map-At-Its-Height-Peak-Sultan-Army-Soldiers.jpg.webp",
-    "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15561099/image/f8734ec4286dee74a0bc1c99928d0947"
+    "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15561099/image/f8734ec4286dee74a0bc1c99928d0947",
+    "https://truthisbetterthanfiction.files.wordpress.com/2013/01/cortmap1.gif"
   ],
   "slides": [
     {
@@ -405,9 +406,125 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
+        "alt": "Image of Hernan Cortes",
+        "description": "Image of Hernan Cortes"
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Aztecs",
+      "text": [
+        {
+          "text": "Hernan Cortes (1485-1547)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Native Allies: Dona Marina",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Tlaxcala",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain and Allies conquer Tenochtitlan (1521)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://truthisbetterthanfiction.files.wordpress.com/2013/01/cortmap1.gif",
+        "alt": "Map of Hernan Cortes conquests of Aztecs",
+        "description": "Map of Hernan Cortes conquests of Aztecs"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Aztecs",
+      "text": [
+        {
+          "text": "Hernan Cortes (1485-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Dona Marina",
+          "color": "lightgray"
+        },
+        {
+          "text": "Native Allies: Tlaxcala",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain and Allies conquer Tenochtitlan (1521)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg",
+        "alt": "Image of Dona Marina",
+        "description": "Dona Marina"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Aztecs",
+      "text": [
+        {
+          "text": "Hernan Cortes (1485-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Dona Marina",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Tlaxcala",
+          "color": "lightgray"
+        },
+        {
+          "text": "Spain and Allies conquer Tenochtitlan (1521)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg",
+        "alt": "Image of Dona Marina",
+        "description": "Dona Marina"
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Aztecs",
+      "text": [
+        {
+          "text": "Hernan Cortes (1485-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Dona Marina",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Tlaxcala",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain and Allies conquer Tenochtitlan (1521)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://truthisbetterthanfiction.files.wordpress.com/2013/01/cortmap1.gif",
+        "alt": "Map of Hernan Cortes conquests of Aztecs",
+        "description": "Map of Hernan Cortes conquests of Aztecs"
       }
     },
     {

@@ -332,6 +332,56 @@
       }
     },
     {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Spanish in the Americas",
+      "text": [
+        {
+          "text": "Ferdinand and Isabella",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Reconquista & Granada (1492)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Christopher Columbus (1451-1506)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg",
+        "alt": "Map of Castile's, Aragon's, and Granada's incorporation into Spain",
+        "description": "Map of Castile's, Aragon's, and Granada's incorporation into Spain"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "Spanish in the Americas",
+      "text": [
+        {
+          "text": "Ferdinand and Isabella",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Reconquista & Granada (1492)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Christopher Columbus (1451-1506)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Viajes_de_colon_en.svg",
+        "alt": "Map of Columbus's voyages",
+        "description": "Map of Colunus's voyages"
+      }
+    },
+    {
       "number": 8.1,
       "slide": true,
       "split": true,

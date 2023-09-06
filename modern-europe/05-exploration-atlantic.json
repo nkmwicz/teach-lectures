@@ -1,7 +1,8 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png",
-    "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg"
+    "https://1.bp.blogspot.com/-0CEh2cKbc98/VnBqsFTKiDI/AAAAAAAADlY/LJ2PiF4KtYE/s640/Temp%2B1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png"
   ],
   "slides": [
     {
@@ -97,9 +98,59 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png",
+        "alt": "Map of Portuguese Expansion in the late-15th century",
+        "description": "Map of Portuguese Expansion in the late-15th century"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the 15th century",
+      "text": [
+        {
+          "text": "Portugal and North Africa",
+          "color": "lightgray"
+        },
+        {
+          "text": "Island Hopping",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Relationships with West Africans",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png",
+        "alt": "Map of Portuguese Expansion in the late-15th century",
+        "description": "Map of Portuguese Expansion in the late-15th century"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the 15th century",
+      "text": [
+        {
+          "text": "Portugal and North Africa",
+          "color": "lightgray"
+        },
+        {
+          "text": "Island Hopping",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Relationships with West Africans",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Africa_Portuguese_Empire_1342-1801.png",
+        "alt": "Map of Portuguese Expansion in the late-15th century",
+        "description": "Map of Portuguese Expansion in the late-15th century"
       }
     },
     {
@@ -122,9 +173,59 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+        "alt": "Image of Vasco da Gama",
+        "description": "Vasco da Gama"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the Indian Ocean",
+      "text": [
+        {
+          "text": "Vasco da Gama (1498-1500)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Indian Ocean: A Vibrant Naval Environment",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alfonso da Albuquerque (1453-1515)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/originals/ac/f0/4a/acf04af7eaa0ef022a38973614b304d5.gif",
+        "alt": "Map of Indian Ocean Trade Routes in 1500",
+        "description": "Map of Indian Ocean Trade Routes in 1500"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the Indian Ocean",
+      "text": [
+        {
+          "text": "Vasco da Gama (1498-1500)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Indian Ocean: A Vibrant Naval Environment",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alfonso da Albuquerque (1453-1515)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+        "alt": "Image of Vasco da Gama",
+        "description": "Vasco da Gama"
       }
     },
     {
@@ -140,6 +241,9 @@
         {
           "text": "Ibrahim Pasha",
           "color": "darkslategray"
+        },
+        {
+          "text": ""
         }
       ]
     },
@@ -167,6 +271,120 @@
         "alt": "Map of Castile's, Aragon's, and Granada's incorporation into Spain",
         "description": "Map of Castile's, Aragon's, and Granada's incorporation into Spain"
       }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Aztecs",
+      "text": [
+        {
+          "text": "Hernan Cortes (1485-1547)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Native Allies: Dona Marina",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Native Allies: Tlaxcala",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spain and Allies conquer Tenochtitlan (1521)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Inca (1532-1572)",
+      "text": [
+        {
+          "text": "Francisco Pizarro (1478-1541)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Inca Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Support of Native Allies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "New Wealth from Americas",
+      "text": [
+        {
+          "text": "Portuguese in Brazil: Sugar",
+          "color": "lightgray"
+        },
+        {
+          "text": "Potosi Silver Mine 1545",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Impacts: Columbian Exchange",
+      "text": [
+        {
+          "text": "Diseases",
+          "color": "lightgray"
+        },
+        {
+          "text": "Animals",
+          "color": "darkslategray"
+        },
+        {
+          "text": "plants",
+          "color": "darkslategray"
+        },
+        {
+          "text": "people",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 12.1,
+      "slide": true,
+      "centered": true,
+      "title": "Silver & Price Revolution",
+      "text": [
+        {
+          "text": "Silver Trade",
+          "color": "lightgray"
+        },
+        {
+          "text": "Silver Exchange Rates",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Devaluation of Coinage",
+          "color": "darkslategray"
+        }
+      ]
     }
   ]
 }

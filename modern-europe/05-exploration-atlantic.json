@@ -547,6 +547,56 @@
         }
       ],
       "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Portrait_of_Francisco_Pizarro.jpg",
+        "alt": "Image of Francisco Pizarro",
+        "description": "Francisco Pizarro"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Inca (1532-1572)",
+      "text": [
+        {
+          "text": "Francisco Pizarro (1478-1541)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inca Empire",
+          "color": "lightgray"
+        },
+        {
+          "text": "Support of Native Allies to Spainfr",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Inca_Expansion.svg",
+        "alt": "Map of Inca empire",
+        "description": "Inca Empire"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Spanish conquest of the Inca (1532-1572)",
+      "text": [
+        {
+          "text": "Francisco Pizarro (1478-1541)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Inca Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Support of Native Allies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
         "image": "",
         "alt": "",
         "description": ""

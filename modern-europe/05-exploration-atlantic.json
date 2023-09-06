@@ -246,7 +246,8 @@
           "color": "darkslategray"
         },
         {
-          "text": "Ottoman Victories and Abandonment"
+          "text": "Ottoman Victories and Abandonment in 1580",
+          "color": "darkslategray"
         }
       ],
       "image": {
@@ -256,21 +257,22 @@
       }
     },
     {
-      "number": 6.1,
+      "number": 6.2,
       "slide": true,
       "split": true,
       "title": "Ottomans Counter the Portuguese",
       "text": [
         {
           "text": "Ottoman Empire Conquers Mamluks, 1517",
-          "color": "lightgray"
-        },
-        {
-          "text": "Ibrahim Pasha",
           "color": "darkslategray"
         },
         {
-          "text": "Ottoman Victories and Abandonment"
+          "text": "Ibrahim Pasha",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ottoman Victories and Abandonment in 1580",
+          "color": "darkslategray"
         }
       ],
       "image": {
@@ -280,21 +282,22 @@
       }
     },
     {
-      "number": 6.1,
+      "number": 6.3,
       "slide": true,
       "split": true,
       "title": "Ottomans Counter the Portuguese",
       "text": [
         {
           "text": "Ottoman Empire Conquers Mamluks, 1517",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Ibrahim Pasha",
           "color": "darkslategray"
         },
         {
-          "text": "Ottoman Victories and Abandonment"
+          "text": "Ottoman Victories and Abandonment in 1580",
+          "color": "lightgray"
         }
       ],
       "image": {

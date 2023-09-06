@@ -233,6 +233,31 @@
       }
     },
     {
+      "number": 5.4,
+      "slide": true,
+      "split": true,
+      "title": "Portuguese in the Indian Ocean",
+      "text": [
+        {
+          "text": "Vasco da Gama (1498-1500)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Indian Ocean: A Vibrant Naval Environment",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alfonso da Albuquerque (1453-1515): the Cartaz System",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15561099/image/f8734ec4286dee74a0bc1c99928d0947",
+        "alt": "Map of Indian Ocean Trade Routes in 1500",
+        "description": "Map of Indian Ocean Trade Routes in 1500"
+      }
+    },
+    {
       "number": 6.1,
       "slide": true,
       "split": true,

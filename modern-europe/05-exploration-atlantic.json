@@ -622,7 +622,7 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Inca_Expansion.svg",
+        "image": "https://bou.org.uk/wp-content/uploads/2020/08/ibi12867-fig-0001-m.jpg",
         "alt": "Map of Inca empire",
         "description": "Inca Empire"
       }
@@ -635,7 +635,7 @@
       "text": [
         {
           "text": "Francisco Pizarro (1478-1541)",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Inca Empire",
@@ -643,13 +643,13 @@
         },
         {
           "text": "Support of Native Allies",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://bou.org.uk/wp-content/uploads/2020/08/ibi12867-fig-0001-m.jpg",
+        "alt": "Map of Inca empire",
+        "description": "Inca Empire"
       }
     },
     {
@@ -665,6 +665,22 @@
         {
           "text": "Potosi Silver Mine 1545",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "New Wealth from Americas",
+      "text": [
+        {
+          "text": "Portuguese in Brazil: Sugar",
+          "color": "lightgray"
+        },
+        {
+          "text": "Potosi Silver Mine 1545",
+          "color": "lightgray"
         }
       ]
     },
@@ -693,6 +709,78 @@
       ]
     },
     {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Impacts: Columbian Exchange",
+      "text": [
+        {
+          "text": "Diseases",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Animals",
+          "color": "lightgray"
+        },
+        {
+          "text": "plants",
+          "color": "darkslategray"
+        },
+        {
+          "text": "people",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Impacts: Columbian Exchange",
+      "text": [
+        {
+          "text": "Diseases",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Animals",
+          "color": "darkslategray"
+        },
+        {
+          "text": "plants",
+          "color": "lightgray"
+        },
+        {
+          "text": "people",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "Impacts: Columbian Exchange",
+      "text": [
+        {
+          "text": "Diseases",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Animals",
+          "color": "darkslategray"
+        },
+        {
+          "text": "plants",
+          "color": "darkslategray"
+        },
+        {
+          "text": "people",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
       "number": 12.1,
       "slide": true,
       "centered": true,
@@ -709,6 +797,46 @@
         {
           "text": "Devaluation of Coinage",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 12.2,
+      "slide": true,
+      "centered": true,
+      "title": "Silver & Price Revolution",
+      "text": [
+        {
+          "text": "Silver Trade",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Silver Exchange Rates",
+          "color": "lightgray"
+        },
+        {
+          "text": "Devaluation of Coinage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "centered": true,
+      "title": "Silver & Price Revolution",
+      "text": [
+        {
+          "text": "Silver Trade",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Silver Exchange Rates",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Devaluation of Coinage",
+          "color": "lightgray"
         }
       ]
     }

@@ -111,11 +111,11 @@
       "text": [
         {
           "text": "Portugal and North Africa",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Island Hopping",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Relationships with West Africans",
@@ -136,7 +136,7 @@
       "text": [
         {
           "text": "Portugal and North Africa",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Island Hopping",
@@ -144,7 +144,7 @@
         },
         {
           "text": "Relationships with West Africans",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ],
       "image": {
@@ -186,11 +186,11 @@
       "text": [
         {
           "text": "Vasco da Gama (1498-1500)",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Indian Ocean: A Vibrant Naval Environment",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Alfonso da Albuquerque (1453-1515)",
@@ -211,7 +211,7 @@
       "text": [
         {
           "text": "Vasco da Gama (1498-1500)",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Indian Ocean: A Vibrant Naval Environment",
@@ -219,7 +219,7 @@
         },
         {
           "text": "Alfonso da Albuquerque (1453-1515)",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ],
       "image": {

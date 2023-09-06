@@ -1,5 +1,7 @@
 {
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png"],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/38/Route_of_Marco_Polo.png"
+  ],
   "slides": [
     {
       "number": 1,
@@ -145,6 +147,25 @@
       "slide": true,
       "split": true,
       "title": "Spanish in the Americas",
+      "text": [
+        {
+          "text": "Ferdinand and Isabella",
+          "color": "lightgray"
+        },
+        {
+          "text": "Reconquista & Grenada (1492)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Christopher Columbus (1451-1506)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
     }
   ]
 }

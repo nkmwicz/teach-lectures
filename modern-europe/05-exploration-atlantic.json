@@ -682,7 +682,12 @@
           "text": "Potosi Silver Mine 1545",
           "color": "lightgray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://hadaril.github.io/nextgen/1550.png",
+        "alt": "Map of globe 1550",
+        "description": "Map of globe 1550"
+      }
     },
     {
       "number": 11.1,

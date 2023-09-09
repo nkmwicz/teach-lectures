@@ -7,5 +7,54 @@
     "intro": true,
     "slide": true,
 		"title": "The Reformation"
-  }]
+  },
+{
+  "number": 2,
+  "slide": true,
+  "title": "The Medieval Church",
+  "split": true,
+  "text": [
+    {
+      "text": "The Mass",
+      "color": "lightgray"
+    },
+    {
+      "text": "Purgatury",
+      "color": "darkslategray"
+    },
+    {
+      "text": "Good Works",
+      "color": "darkslategray"
+    },
+    {
+      "text": "The Spiritual Economy",
+      "color": "darkslategray"
+    }
+  ] 
+},
+{
+  "number": 3,
+  "slide": true,
+  "title": "Early Challenges to the Church",
+  "split": true,
+  "text": [
+    {
+      "text": "",
+      "color": "lightgray"
+    }
+  ] 
+},
+{
+  "number": 4,
+  "slide": true,
+  "title": "Early Challenges to the Church",
+  "split": true,
+  "text": [
+    {
+      "text": "",
+      "color": "lightgray"
+    }
+  ] 
+}
+]
 }

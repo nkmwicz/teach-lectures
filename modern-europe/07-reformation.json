@@ -1,5 +1,19 @@
 {
-  "images": [],
+  "images": [
+    "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Question_mark3.svg/348px-Question_mark3.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
+    "https://www.worldeasyguides.com/wp-content/uploads/2014/05/Munster-on-map-of-Germany.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+    "https://en.wikipedia.org/wiki/Henry_VIII#/media/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+    "https://en.wikipedia.org/wiki/Edward_VI#/media/File:Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+    "https://en.wikipedia.org/wiki/Mary_I_of_England#/media/File:Anthonis_Mor_001.jpg",
+    "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -148,7 +162,7 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg",
         "alt": "Image of John Wyclif",
         "description": "John Wyclif"
       }

@@ -487,7 +487,7 @@
       ]
     },
     {
-      "number": 7,
+      "number": 7.1,
       "slide": true,
       "title": "The Reformation Spreads",
       "split": true,
@@ -510,19 +510,106 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg",
+        "alt": "Image of Printing Press",
+        "description": "Printing Press"
       }
     },
     {
-      "number": 8,
+      "number": 7.2,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "lightgray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
+        "alt": "Image of Huldrych Zwingli",
+        "description": "Huldrych Zwingli"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "lightgray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldeasyguides.com/wp-content/uploads/2014/05/Munster-on-map-of-Germany.jpg",
+        "alt": "Map of Munster",
+        "description": "Munster"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+        "alt": "Image of John Calvin",
+        "description": "John Calvin"
+      }
+    },
+    {
+      "number": 8.1,
       "slide": true,
       "title": "The English Reformoation",
       "split": true,
       "text": [
         {
-          "text": "Henri VIII (r. 1509-1547)",
+          "text": "Henry VIII (r. 1509-1547)",
           "color": "lightgray"
         },
         {
@@ -530,7 +617,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Mry I (r. 1553-1558)",
+          "text": "Mary I (r. 1553-1558)",
           "color": "darkslategray"
         },
         {
@@ -539,9 +626,96 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://en.wikipedia.org/wiki/Henry_VIII#/media/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "alt": "Image of Henry VIII",
+        "description": "Henry VIII"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Edward_VI#/media/File:Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "alt": "Image of Edward VI",
+        "description": "Edward VI"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Mary_I_of_England#/media/File:Anthonis_Mor_001.jpg",
+        "alt": "Image of Mary I",
+        "description": "Mary I"
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
       }
     }
   ]

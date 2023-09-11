@@ -1,60 +1,131 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "The Reformation"
-  },
-{
-  "number": 2,
-  "slide": true,
-  "title": "The Medieval Church",
-  "split": true,
-  "text": [
+  "images": [],
+  "slides": [
     {
-      "text": "The Mass",
-      "color": "lightgray"
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "The Reformation"
     },
     {
-      "text": "Purgatury",
-      "color": "darkslategray"
+      "number": 2,
+      "slide": true,
+      "title": "The Medieval Church",
+      "split": true,
+      "text": [
+        {
+          "text": "The Mass",
+          "color": "lightgray"
+        },
+        {
+          "text": "Purgatury",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Good Works",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Spiritual Economy",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
-      "text": "Good Works",
-      "color": "darkslategray"
+      "number": 3,
+      "slide": true,
+      "title": "Early Challenges to the Church",
+      "split": true,
+      "text": [
+        {
+          "text": "John Wyclif (1328-1384)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jan Hus (1370-1415)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Why Limited Impact?",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
-      "text": "The Spiritual Economy",
-      "color": "darkslategray"
-    }
-  ] 
-},
-{
-  "number": 3,
-  "slide": true,
-  "title": "Early Challenges to the Church",
-  "split": true,
-  "text": [
+      "number": 4,
+      "slide": true,
+      "title": "Setting the Foundations for Change",
+      "split": true,
+      "text": [
+        {
+          "text": "Modern Devotion",
+          "color": "lightgray"
+        },
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Humanism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Desidarius Erasmus (1466-1536)",
+          "color": "darkslategray"
+        }
+      ]
+    },
     {
-      "text": "",
-      "color": "lightgray"
-    }
-  ] 
-},
-{
-  "number": 4,
-  "slide": true,
-  "title": "Early Challenges to the Church",
-  "split": true,
-  "text": [
+      "number": 5,
+      "slide": true,
+      "title": "Theology of Martin Luther (1483-1546)",
+      "split": true,
+      "text": [
+        {
+          "text": "Augustinian Monk",
+          "color": "lightgray"
+        },
+        {
+          "text": "Salvation by Grace Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Only Recourse by Faith Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Know God by Scripture Alone",
+          "color": "darkslategray"
+        }
+      ]
+    },
     {
-      "text": "",
-      "color": "lightgray"
+      "number": 6,
+      "slide": true,
+      "title": "The Rupture",
+      "split": true,
+      "text": [
+        {
+          "text": "95 Theses (1517)",
+          "color": "lightgray"
+        },
+        {}
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "lightgray"
+        },
+        {
+          "text": ""
+        }
+      ]
     }
-  ] 
-}
-]
+  ]
 }

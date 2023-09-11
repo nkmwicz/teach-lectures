@@ -103,13 +103,24 @@
       "number": 6,
       "slide": true,
       "title": "The Rupture",
-      "split": true,
+      "centered": true,
       "text": [
         {
-          "text": "95 Theses (1517)",
+          "text": "Indulgences",
           "color": "lightgray"
         },
-        {}
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
       ]
     },
     {
@@ -123,9 +134,52 @@
           "color": "lightgray"
         },
         {
-          "text": ""
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henri VIII (r. 1509-1547)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mry I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
     }
   ]
 }

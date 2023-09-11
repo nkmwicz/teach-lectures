@@ -1,6 +1,5 @@
 {
   "images": [
-    "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Question_mark3.svg/348px-Question_mark3.svg.png",
@@ -9,10 +8,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
     "https://www.worldeasyguides.com/wp-content/uploads/2014/05/Munster-on-map-of-Germany.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
-    "https://en.wikipedia.org/wiki/Henry_VIII#/media/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
-    "https://en.wikipedia.org/wiki/Edward_VI#/media/File:Circle_of_William_Scrots_Edward_VI_of_England.jpg",
-    "https://en.wikipedia.org/wiki/Mary_I_of_England#/media/File:Anthonis_Mor_001.jpg",
-    "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg"
   ],
   "slides": [
     {
@@ -640,7 +639,7 @@
         }
       ],
       "image": {
-        "image": "https://en.wikipedia.org/wiki/Henry_VIII#/media/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
         "alt": "Image of Henry VIII",
         "description": "Henry VIII"
       }
@@ -669,7 +668,7 @@
         }
       ],
       "image": {
-        "image": "https://en.wikipedia.org/wiki/Edward_VI#/media/File:Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
         "alt": "Image of Edward VI",
         "description": "Edward VI"
       }
@@ -698,7 +697,7 @@
         }
       ],
       "image": {
-        "image": "https://en.wikipedia.org/wiki/Mary_I_of_England#/media/File:Anthonis_Mor_001.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
         "alt": "Image of Mary I",
         "description": "Mary I"
       }
@@ -727,7 +726,7 @@
         }
       ],
       "image": {
-        "image": "https://en.wikipedia.org/wiki/Elizabeth_I#/media/File:Darnley_stage_3.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
         "alt": "Image of Elizabeth I",
         "description": "Elizabeth I"
       }

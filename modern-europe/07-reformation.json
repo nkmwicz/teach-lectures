@@ -122,7 +122,7 @@
           "color": "darkslategray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
         "alt": "Image of John Wyclif",
         "description": "John Wyclif"
@@ -147,7 +147,7 @@
           "color": "darkslategray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
         "alt": "Image of John Wyclif",
         "description": "John Wyclif"
@@ -172,7 +172,7 @@
           "color": "lightgray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Question_mark3.svg/348px-Question_mark3.svg.png",
         "alt": "Image of a Question Mark",
         "description": ""
@@ -382,93 +382,6 @@
         {
           "text": "Know God by Scripture Alone",
           "color": "lightgray"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
-        "alt": "Image of Martin Luther",
-        "description": "Martin Luther"
-      }
-    },
-    {
-      "number": 5,
-      "slide": true,
-      "title": "Theology of Martin Luther (1483-1546)",
-      "split": true,
-      "text": [
-        {
-          "text": "Augustinian Monk",
-          "color": "lightgray"
-        },
-        {
-          "text": "Salvation by Grace Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Only Recourse by Faith Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Know God by Scripture Alone",
-          "color": "darkslategray"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
-        "alt": "Image of Martin Luther",
-        "description": "Martin Luther"
-      }
-    },
-    {
-      "number": 5,
-      "slide": true,
-      "title": "Theology of Martin Luther (1483-1546)",
-      "split": true,
-      "text": [
-        {
-          "text": "Augustinian Monk",
-          "color": "lightgray"
-        },
-        {
-          "text": "Salvation by Grace Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Only Recourse by Faith Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Know God by Scripture Alone",
-          "color": "darkslategray"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
-        "alt": "Image of Martin Luther",
-        "description": "Martin Luther"
-      }
-    },
-    {
-      "number": 5,
-      "slide": true,
-      "title": "Theology of Martin Luther (1483-1546)",
-      "split": true,
-      "text": [
-        {
-          "text": "Augustinian Monk",
-          "color": "lightgray"
-        },
-        {
-          "text": "Salvation by Grace Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Only Recourse by Faith Alone",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Know God by Scripture Alone",
-          "color": "darkslategray"
         }
       ],
       "image": {

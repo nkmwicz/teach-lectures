@@ -391,7 +391,7 @@
       }
     },
     {
-      "number": 6,
+      "number": 6.1,
       "slide": true,
       "title": "The Rupture",
       "centered": true,
@@ -411,6 +411,78 @@
         {
           "text": "Diet of Worms (1521)",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "lightgray"
         }
       ]
     },

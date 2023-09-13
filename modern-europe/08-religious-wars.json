@@ -394,6 +394,58 @@
       }
     },
     {
+      "number": 6,
+      "slide": true,
+      "title": "Round 2: Outcomes",
+      "subTitle": "French Wars of Religion",
+      "centered": true,
+      "text": [
+        {
+          "text": "Henri IV (r. 1598-1610)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edict of Nantes (1598)",
+          "color": "lightgray"
+        },
+        {
+          "text": "State within a State",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "title": "Round 2: Outcomes",
+      "subTitle": "French Wars of Religion",
+      "centered": true,
+      "text": [
+        {
+          "text": "Henri IV (r. 1598-1610)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edict of Nantes (1598)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "State within a State",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
       "number": 7.1,
       "slide": true,
       "title": "Round 3: The 30 Years' War",

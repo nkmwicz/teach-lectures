@@ -64,7 +64,7 @@
       ]
     },
     {
-      "number": 4,
+      "number": 4.1,
       "slide": true,
       "title": "Round 1: Outcomes",
       "centered": true,
@@ -80,6 +80,46 @@
         {
           "text": "Whose region, his/her religion",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "Round 1: Outcomes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Some toleration",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Cuius Regio eius religio",
+          "color": "lightgray"
+        },
+        {
+          "text": "Whose region, his/her religion",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "Round 1: Outcomes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Some toleration",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Cuius Regio eius religio",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Whose region, his/her religion",
+          "color": "lightgray"
         }
       ]
     },

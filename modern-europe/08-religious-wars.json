@@ -3,7 +3,9 @@
     "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Protestant_Union_within_the_Holy_Roman_Empire_%28c._1610%29.svg",
     "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/5/57/Karel_Svoboda_Defenestrace.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Karel_Svoboda_Defenestrace.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/34/Massacre_de_Vassy_1562_print_by_Hogenberg_end_of_16th_century.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg"
   ],
   "slides": [
     {
@@ -82,7 +84,7 @@
       ]
     },
     {
-      "number": 5,
+      "number": 5.1,
       "slide": true,
       "title": "Round 2: French Wars of Religion",
       "split": true,
@@ -108,6 +110,93 @@
         "image": "",
         "alt": "",
         "description": ""
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "Round 2: French Wars of Religion",
+      "split": true,
+      "text": [
+        {
+          "text": "Calvinists preaching",
+          "color": "darkslategray"
+        },
+        {
+          "text": "End of Italian Wars (1494-1559)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Massacre of Vassy (1562)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "St. Bartholomew Day Massacre (1572)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Tournament_between_Henry_II_and_Lorges.jpg",
+        "alt": "Painting of the tournament that killed Henri II",
+        "description": "Painting of the tournament that killed Henri II"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "Round 2: French Wars of Religion",
+      "split": true,
+      "text": [
+        {
+          "text": "Calvinists preaching",
+          "color": "darkslategray"
+        },
+        {
+          "text": "End of Italian Wars (1494-1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Massacre of Vassy (1562)",
+          "color": "lightgray"
+        },
+        {
+          "text": "St. Bartholomew Day Massacre (1572)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Massacre_de_Vassy_1562_print_by_Hogenberg_end_of_16th_century.jpg",
+        "alt": "Painting of the Massacre of Vassy",
+        "description": "Massacre of Vassy"
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "title": "Round 2: French Wars of Religion",
+      "split": true,
+      "text": [
+        {
+          "text": "Calvinists preaching",
+          "color": "darkslategray"
+        },
+        {
+          "text": "End of Italian Wars (1494-1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Massacre of Vassy (1562)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "St. Bartholomew Day Massacre (1572)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg",
+        "alt": "Paintin of the St. Bartholomew's Day Massacre",
+        "description": "The St. Batholomew's Day Massacre"
       }
     },
     {

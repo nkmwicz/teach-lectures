@@ -15,7 +15,7 @@
       "title": "The Wars of Religion"
     },
     {
-      "number": 2,
+      "number": 2.1,
       "slide": true,
       "title": "The Wars of Religion",
       "subTitle": "Common Assumptions",
@@ -38,6 +38,60 @@
         {
           "text": "Religious Wars and Religious Riots",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "The Wars of Religion",
+      "subTitle": "Common Assumptions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Providentialism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Millinarianism",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "The end times are coming",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Religious Wars and Religious Riots",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "The Wars of Religion",
+      "subTitle": "Common Assumptions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Providentialism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Millinarianism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "The end times are coming",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Religious Wars and Religious Riots",
+          "color": "lightgray"
         }
       ]
     },

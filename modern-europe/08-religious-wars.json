@@ -1,5 +1,10 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Protestant_Union_within_the_Holy_Roman_Empire_%28c._1610%29.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Karel_Svoboda_Defenestrace.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -27,13 +32,374 @@
               "color": "darkslategray"
             }
           ]
+        },
+        {
+          "text": "Religious Wars and Religious Riots",
+          "color": "darkslategray"
         }
       ]
     },
     {
       "number": 3,
       "slide": true,
-      "title": "The Wars of Religion"
+      "title": "Round 1: Swiss Wars and the Schmalkaldic War",
+      "text": [
+        {
+          "text": "Zwingli and the Swiss Wars",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles V & the Imperial Diet of Augsburg (1530)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Schmalkaldic League",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War (1546-1547) & Peace of Augsburg (1555)"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "title": "Round 1: Outcomes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Some toleration",
+          "color": "lightgray"
+        },
+        {
+          "text": "Cuius Regio eius religio",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Whose region, his/her religion",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "title": "Round 2: French Wars of Religion",
+      "split": true,
+      "text": [
+        {
+          "text": "Calvinists preaching",
+          "color": "lightgray"
+        },
+        {
+          "text": "End of Italian Wars (1494-1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Massacre of Vassy (1562)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "St. Bartholomew Day Massacre (1572)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "title": "Round 2: Outcomes",
+      "subTitle": "French Wars of Religion",
+      "centered": true,
+      "text": [
+        {
+          "text": "Henri IV (r. 1598-1610)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Edict of Nantes (1598)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "State within a State",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "title": "Round 3: The 30 Years' War",
+      "subTitle": "The start",
+      "split": true,
+      "text": [
+        {
+          "text": "Problem with Peace of Augsburg",
+          "color": "lightgray"
+        },
+        {
+          "text": "Protestant Union (1608) vs Catholic League (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand of Styria, King of Bohemia (r. 1617-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Defenestration of Prague (1618)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg",
+        "alt": "Image of Front Page of the Peace of Augsburg",
+        "description": "Front Page of the Peace of Augsburg"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "title": "Round 3: The 30 Years' War",
+      "subTitle": "The start",
+      "split": true,
+      "text": [
+        {
+          "text": "Problem with Peace of Augsburg",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Protestant Union (1608) vs Catholic League (1608)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ferdinand of Styria, King of Bohemia (r. 1617-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Defenestration of Prague (1618)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Protestant_Union_within_the_Holy_Roman_Empire_%28c._1610%29.svg",
+        "alt": "Map of Protestant Union State",
+        "description": "Map of Protestant Union States"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "Round 3: The 30 Years' War",
+      "subTitle": "The start",
+      "split": true,
+      "text": [
+        {
+          "text": "Problem with Peace of Augsburg",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Protestant Union (1608) vs Catholic League (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand of Styria, King of Bohemia (r. 1617-1637)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Defenestration of Prague (1618)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg",
+        "alt": "Image of Ferdinand of Styria",
+        "description": "Image of Ferdinand of Styria"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "title": "Round 3: The 30 Years' War",
+      "subTitle": "The start",
+      "split": true,
+      "text": [
+        {
+          "text": "Problem with Peace of Augsburg",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Protestant Union (1608) vs Catholic League (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand of Styria, King of Bohemia (r. 1617-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Defenestration of Prague (1618)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Karel_Svoboda_Defenestrace.jpg",
+        "alt": "Painting of the Defenestration of Prague",
+        "description": "Painting of the Defenestration of Prague"
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "title": "Round 3:",
+      "subTitle": "The Thirty Years War Intensifies",
+      "centered": true,
+      "text": [
+        {
+          "text": "Catholic Successes",
+          "color": "lightgray"
+        },
+        {
+          "text": "Ferdinand become Holy Roman Emperor (r. 1619-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edict of Restitution (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The War Expands",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "Round 3:",
+      "subTitle": "The Thirty Years War Intensifies",
+      "centered": true,
+      "text": [
+        {
+          "text": "Catholic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand become Holy Roman Emperor (r. 1619-1637)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Edict of Restitution (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The War Expands",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "Round 3:",
+      "subTitle": "The Thirty Years War Intensifies",
+      "centered": true,
+      "text": [
+        {
+          "text": "Catholic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand become Holy Roman Emperor (r. 1619-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edict of Restitution (1629)",
+          "color": "lightgray"
+        },
+        {
+          "text": "The War Expands",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "title": "Round 3:",
+      "subTitle": "The Thirty Years War Intensifies",
+      "centered": true,
+      "text": [
+        {
+          "text": "Catholic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ferdinand become Holy Roman Emperor (r. 1619-1637)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edict of Restitution (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The War Expands",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "title": "Round 3: Outcomes",
+      "subTitle": "The 30 Years' War Ends",
+      "centered": true,
+      "text": [
+        {
+          "text": "Devestation of the War",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Peace of Westphalia (1648)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "title": "Round 3: Outcomes",
+      "subTitle": "The 30 Years' War Ends",
+      "centered": true,
+      "text": [
+        {
+          "text": "Devestation of the War",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Peace of Westphalia (1648)",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "title": "Next Meeting",
+      "centered": true,
+      "text": [
+        {
+          "text": "Discussion on Friday"
+        }
+      ]
     }
   ]
 }

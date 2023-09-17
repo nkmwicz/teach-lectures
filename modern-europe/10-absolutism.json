@@ -1,5 +1,8 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Charles_Howard%2C_11th_Duke_of_Norfolk_by_Thomas_Gainsborough.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -84,7 +87,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "2nd Wars of Religion",
+          "text": "2nd Wars of Religion in France",
           "color": "darkslategray"
         }
       ],
@@ -114,6 +117,277 @@
           "color": "darkslategray"
         }
       ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "The Fronde (or Revolt): 1648-1653",
+      "text": [
+        {
+          "text": "Anne of Austria, regent (r. 1643-1651)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jules Mazarin (1602-1666)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Rebellion of Parlementaires and Great Nobles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis XIV declares his majority (1651)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "split": true,
+      "title": "Absolutism of Louis XIV (r. 1643-1715)",
+      "text": [
+        {
+          "text": "Louis XIV declares personal rule (1661)"
+        },
+        {
+          "text": "Expansion of the Intendants and Taxation",
+          "color": "lightgray"
+        },
+        {
+          "text": "Centralization of the Military",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expanded role of the royal court: Versailles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism in France",
+      "subTitle": "Outcomes",
+      "text": [
+        {
+          "text": "Cooperation with Elites",
+          "color": "lightgray"
+        },
+        {
+          "text": "Government controlled by 2% of the population",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "split": true,
+      "title": "Constitutionalism in England",
+      "text": [
+        {
+          "text": "James I (r. 1567-1625, 1603-1625)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Problems",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "split": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Causing a Break",
+      "text": [
+        {
+          "text": "Dissolves Parliament (1629)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Religious Problems: Wife",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Calvinism in Scotland",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Scottish nobles invade (1640)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 11,
+      "slide": true,
+      "centered": true,
+      "title": "English Revolution (1642-1651)",
+      "text": [
+        {
+          "text": "Parliament Recalled (1640)",
+          "color": "lightgray"
+        },
+        {
+          "text": "King's army & Parliament's army",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fighting Begin in 1642",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "Interregnum (1649-1660)",
+      "text": [
+        {
+          "text": "Oliver Cromwell (1599-1658)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Charles I captured and executed (1649)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Institute of Government (1653)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 13,
+      "slide": true,
+      "split": true,
+      "title": "The Glorious Revolution (1688)",
+      "text": [
+        {
+          "text": "Charles II (r. 1660-1685)",
+          "color": "lightgray"
+        },
+        {
+          "text": "James II (r. 1685-1688)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Revolution: William and Mary (r.1689-1702)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "Outcomes",
+      "text": [
+        {
+          "text": "The Rise of the Gentry",
+          "color": "lightgray"
+        },
+        {
+          "text": "Voting Rights: ~2-3% of the population",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles Howard, Duke of Norfolk (1746-1815)",
+          "color": "darkslategray"
+        }
+      ],
+      "iamge": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
+        "alt": "Painting of Mr and Mrs Andrews (1750)",
+        "description": "Painting of Mr and Mrs Andrews (1750)"
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "Outcomes",
+      "text": [
+        {
+          "text": "The Rise of the Gentry",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Voting Rights: ~2-3% of the population",
+          "color": "lightgray"
+        },
+        {
+          "text": "Charles Howard, Duke of Norfolk (1746-1815)",
+          "color": "darkslategray"
+        }
+      ],
+      "iamge": {
+        "image": "",
+        "alt": "no image",
+        "description": ""
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "Outcomes",
+      "text": [
+        {
+          "text": "The Rise of the Gentry",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Voting Rights: ~2-3% of the population",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles Howard, Duke of Norfolk (1746-1815)",
+          "color": "lightgray"
+        }
+      ],
+      "iamge": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Charles_Howard%2C_11th_Duke_of_Norfolk_by_Thomas_Gainsborough.jpg",
+        "alt": "Image of Charles Howard, Duke of Norfolk",
+        "description": ""
+      }
     }
   ]
 }

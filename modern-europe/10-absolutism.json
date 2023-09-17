@@ -5,18 +5,113 @@
       "number": 1,
       "intro": true,
       "slide": true,
-      "title": "Absolutism vs Constitutionalism"
+      "title": "Absolutism vs Constitutionalism",
+      "subTitle": "The French System vs The English System"
     },
     {
       "number": 2,
       "slide": true,
       "centered": true,
-      "title": "Absolutism vs Constitutionalism",
-      "subTitle": "The French System vs The English System",
+      "title": "Absolutism",
       "text": [
         {
-          "text": "Absolutism vs Constitutionalism",
+          "text": "The System Before Absolutism",
           "color": "lightgray"
+        },
+        {
+          "text": "End of the Wars of Religion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Fundamental Problem:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Composite States",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism, Part II",
+      "text": [
+        {
+          "text": "Absolutism: What was it not?",
+          "color": "lightgray"
+        },
+        {
+          "text": "Absolutism: What was it?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where was it?",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "France",
+              "color": "darkslategray"
+            },
+            {
+              "text": "spain",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Holy Roman Empire",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "More Struggles",
+      "text": [
+        {
+          "text": "Louis XIII (r. 1610-1643)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Armand-Jean du Plessis, Cardinal Richelieu (1585-1642)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd Wars of Religion",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "The French System:",
+      "subTitle": "Centralizing Patronage",
+      "text": [
+        {
+          "text": "Cultural Patronage",
+          "color": "lightgray"
+        },
+        {
+          "text": "Intendants",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Nobles and the Army",
+          "color": "darkslategray"
         }
       ]
     }

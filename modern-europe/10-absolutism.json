@@ -12,7 +12,13 @@
       "slide": true,
       "centered": true,
       "title": "Absolutism vs Constitutionalism",
-      "subTitle": "The French System vs The English System"
+      "subTitle": "The French System vs The English System",
+      "text": [
+        {
+          "text": "Absolutism vs Constitutionalism",
+          "color": "lightgray"
+        }
+      ]
     }
   ]
 }

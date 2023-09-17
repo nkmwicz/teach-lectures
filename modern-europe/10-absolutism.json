@@ -333,7 +333,7 @@
           "color": "darkslategray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
         "alt": "Painting of Mr and Mrs Andrews (1750)",
         "description": "Painting of Mr and Mrs Andrews (1750)"
@@ -358,7 +358,7 @@
           "color": "darkslategray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "",
         "alt": "no image",
         "description": ""
@@ -383,7 +383,7 @@
           "color": "lightgray"
         }
       ],
-      "iamge": {
+      "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Charles_Howard%2C_11th_Duke_of_Norfolk_by_Thomas_Gainsborough.jpg",
         "alt": "Image of Charles Howard, Duke of Norfolk",
         "description": ""

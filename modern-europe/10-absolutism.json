@@ -1,17 +1,17 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "Absolutism"
-  },
-{
-  "number": 2,
-  "slide": true,
-	"title": "Absolutism vs Constitutionalism",
-  "subTitle": "The French System vs The English System"
-}]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "Absolutism"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Absolutism vs Constitutionalism",
+      "subTitle": "The French System vs The English System"
+    }
+  ]
 }

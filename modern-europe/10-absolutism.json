@@ -9,7 +9,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/d/df/After_Rubens_-_Anne_of_Austria%2C_Queen_of_France_-_Versailles_MV_3410.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/2/22/Episode_of_the_Fronde_at_the_Faubourg_Saint-Antoine_by_the_Walls_of_the_Bastille.png",
     "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg"
   ],
   "slides": [
     {
@@ -653,7 +654,7 @@
       }
     },
     {
-      "number": 10,
+      "number": 10.1,
       "slide": true,
       "split": true,
       "title": "Charles I (r. 1625-1649)",
@@ -677,8 +678,98 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Portrait of Charles I of England",
+        "description": ""
+      }
+    },
+    {
+      "number": 10.2,
+      "slide": true,
+      "split": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Causing a Break",
+      "text": [
+        {
+          "text": "Dissolves Parliament (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Wife",
+          "color": "lightgray"
+        },
+        {
+          "text": "Religious Problems: Calvinism in Scotland",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Scottish nobles invade (1640)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Portrait of Charles I of England",
+        "description": ""
+      }
+    },
+    {
+      "number": 10.3,
+      "slide": true,
+      "split": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Causing a Break",
+      "text": [
+        {
+          "text": "Dissolves Parliament (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Wife",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Calvinism in Scotland",
+          "color": "lightgray"
+        },
+        {
+          "text": "Scottish nobles invade (1640)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Portrait of Charles I of England",
+        "description": ""
+      }
+    },
+    {
+      "number": 10.4,
+      "slide": true,
+      "split": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Causing a Break",
+      "text": [
+        {
+          "text": "Dissolves Parliament (1629)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Wife",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Problems: Calvinism in Scotland",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Scottish nobles invade (1640)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Portrait of Charles I of England",
         "description": ""
       }
     },

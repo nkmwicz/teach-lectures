@@ -13,7 +13,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/9/99/James_II_by_Peter_Lely.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/b/bf/William_and_Mary.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/b/bf/William_and_Mary.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/04/Chateau_de_Versailles_1668_Pierre_Patel.jpg"
   ],
   "slides": [
     {
@@ -575,7 +576,7 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chateau_de_Versailles_1668_Pierre_Patel.jpg",
         "alt": "Portrait of Louis XIV",
         "description": ""
       }

@@ -4,7 +4,11 @@
     "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/c/c9/RichelieuRochelle.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/5c/Champaigne_portrait_richelieu_eb.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cardinal_Mazarin_by_Pierre_Mignard_%28Mus%C3%A9e_Cond%C3%A9%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/After_Rubens_-_Anne_of_Austria%2C_Queen_of_France_-_Versailles_MV_3410.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/22/Episode_of_the_Fronde_at_the_Faubourg_Saint-Antoine_by_the_Walls_of_the_Bastille.png",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg"
   ],
   "slides": [
     {
@@ -336,7 +340,7 @@
       ]
     },
     {
-      "number": 6,
+      "number": 6.1,
       "slide": true,
       "split": true,
       "title": "The French System:",
@@ -360,8 +364,98 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/After_Rubens_-_Anne_of_Austria%2C_Queen_of_France_-_Versailles_MV_3410.jpg",
+        "alt": "Portrait of Anne of Austria",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "The Fronde (or Revolt): 1648-1653",
+      "text": [
+        {
+          "text": "Anne of Austria, regent (r. 1643-1651)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jules Mazarin (1602-1666)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Rebellion of Parlementaires and Great Nobles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis XIV declares his majority (1651)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cardinal_Mazarin_by_Pierre_Mignard_%28Mus%C3%A9e_Cond%C3%A9%29.jpg",
+        "alt": "Portrait of Jules Mazarin",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "The Fronde (or Revolt): 1648-1653",
+      "text": [
+        {
+          "text": "Anne of Austria, regent (r. 1643-1651)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jules Mazarin (1602-1666)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Rebellion of Parlementaires and Great Nobles",
+          "color": "lightgray"
+        },
+        {
+          "text": "Louis XIV declares his majority (1651)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Episode_of_the_Fronde_at_the_Faubourg_Saint-Antoine_by_the_Walls_of_the_Bastille.png",
+        "alt": "Painting of the Battle of the Faubourg Saint-Antoine",
+        "description": "The Battle of the Faubourg Saint-Antoine"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "The Fronde (or Revolt): 1648-1653",
+      "text": [
+        {
+          "text": "Anne of Austria, regent (r. 1643-1651)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jules Mazarin (1602-1666)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Rebellion of Parlementaires and Great Nobles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis XIV declares his majority (1651)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "alt": "Portrait of Louis XIV",
         "description": ""
       }
     },

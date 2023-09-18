@@ -1,7 +1,10 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/6e/Charles_Howard%2C_11th_Duke_of_Norfolk_by_Thomas_Gainsborough.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/5/52/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c9/RichelieuRochelle.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Champaigne_portrait_richelieu_eb.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg"
   ],
   "slides": [
     {
@@ -207,14 +210,66 @@
           "color": "darkslategray"
         },
         {
-          "text": "2nd Wars of Religion in France",
+          "text": "2nd Wars of Religion in France (1620-1629)",
           "color": "darkslategray"
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg",
+        "alt": "Portrait of Louis XIII",
         "description": ""
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "More Struggles",
+      "text": [
+        {
+          "text": "Louis XIII (r. 1610-1643)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Armand-Jean du Plessis, Cardinal Richelieu (1585-1642)",
+          "color": "lightgray"
+        },
+        {
+          "text": "2nd Wars of Religion in France (1620-1629)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Champaigne_portrait_richelieu_eb.jpg",
+        "alt": "Portrait of Cardinal Richelieu",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "The French System:",
+      "subTitle": "More Struggles",
+      "text": [
+        {
+          "text": "Louis XIII (r. 1610-1643)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Armand-Jean du Plessis, Cardinal Richelieu (1585-1642)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd Wars of Religion in France (1620-1629)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/RichelieuRochelle.jpg",
+        "alt": "Painting of Richelieu at Siege of La Rochelle",
+        "description": "Richelieu at Siege of La Rochelle"
       }
     },
     {

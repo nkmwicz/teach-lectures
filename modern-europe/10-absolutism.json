@@ -10,7 +10,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/2/22/Episode_of_the_Fronde_at_the_Faubourg_Saint-Antoine_by_the_Walls_of_the_Bastille.png",
     "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/James_II_by_Peter_Lely.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/bf/William_and_Mary.jpg"
   ],
   "slides": [
     {
@@ -912,7 +915,7 @@
       }
     },
     {
-      "number": 13,
+      "number": 13.1,
       "slide": true,
       "split": true,
       "title": "The Glorious Revolution (1688)",
@@ -931,8 +934,58 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+        "alt": "Portrait of Charles II",
+        "description": ""
+      }
+    },
+    {
+      "number": 13.2,
+      "slide": true,
+      "split": true,
+      "title": "The Glorious Revolution (1688)",
+      "text": [
+        {
+          "text": "Charles II (r. 1660-1685)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "James II (r. 1685-1688)",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Revolution: William and Mary (r.1689-1702)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/James_II_by_Peter_Lely.jpg",
+        "alt": "Portrait of James II",
+        "description": ""
+      }
+    },
+    {
+      "number": 13.3,
+      "slide": true,
+      "split": true,
+      "title": "The Glorious Revolution (1688)",
+      "text": [
+        {
+          "text": "Charles II (r. 1660-1685)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "James II (r. 1685-1688)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Revolution: William and Mary (r.1689-1702)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/William_and_Mary.jpg",
+        "alt": "Portrait of William and Mary",
         "description": ""
       }
     },

@@ -460,13 +460,43 @@
       }
     },
     {
-      "number": 7,
+      "number": 7.1,
       "slide": true,
       "split": true,
       "title": "Absolutism of Louis XIV (r. 1643-1715)",
       "text": [
         {
-          "text": "Louis XIV declares personal rule (1661)"
+          "text": "Louis XIV declares personal rule (1661)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Expansion of the Intendants and Taxation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Centralization of the Military",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expanded role of the royal court: Versailles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "alt": "Portrait of Louis XIV",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Absolutism of Louis XIV (r. 1643-1715)",
+      "text": [
+        {
+          "text": "Louis XIV declares personal rule (1661)",
+          "color": "darkslategray"
         },
         {
           "text": "Expansion of the Intendants and Taxation",
@@ -482,8 +512,66 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "alt": "Portrait of Louis XIV",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "Absolutism of Louis XIV (r. 1643-1715)",
+      "text": [
+        {
+          "text": "Louis XIV declares personal rule (1661)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansion of the Intendants and Taxation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Centralization of the Military",
+          "color": "lightgray"
+        },
+        {
+          "text": "Expanded role of the royal court: Versailles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "alt": "Portrait of Louis XIV",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "split": true,
+      "title": "Absolutism of Louis XIV (r. 1643-1715)",
+      "text": [
+        {
+          "text": "Louis XIV declares personal rule (1661)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansion of the Intendants and Taxation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Centralization of the Military",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expanded role of the royal court: Versailles",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg",
+        "alt": "Portrait of Louis XIV",
         "description": ""
       }
     },

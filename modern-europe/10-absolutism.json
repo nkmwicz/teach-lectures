@@ -12,7 +12,7 @@
       "subTitle": "The French System vs The English System"
     },
     {
-      "number": 2,
+      "number": 2.1,
       "slide": true,
       "centered": true,
       "title": "Absolutism",
@@ -32,6 +32,58 @@
             {
               "text": "Composite States",
               "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism",
+      "text": [
+        {
+          "text": "The System Before Absolutism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "End of the Wars of Religion",
+          "color": "lightgray"
+        },
+        {
+          "text": "A Fundamental Problem:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Composite States",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism",
+      "text": [
+        {
+          "text": "The System Before Absolutism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "End of the Wars of Religion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Fundamental Problem:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Composite States",
+              "color": "lightgray"
             }
           ]
         }

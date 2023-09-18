@@ -124,6 +124,74 @@
       ]
     },
     {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism, Part II",
+      "text": [
+        {
+          "text": "Absolutism: What was it not?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Absolutism: What was it?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where was it?",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "France",
+              "color": "darkslategray"
+            },
+            {
+              "text": "spain",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Holy Roman Empire",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "Absolutism, Part II",
+      "text": [
+        {
+          "text": "Absolutism: What was it not?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Absolutism: What was it?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where was it?",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "France",
+              "color": "lightgray"
+            },
+            {
+              "text": "spain",
+              "color": "lightgray"
+            },
+            {
+              "text": "Holy Roman Empire",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "number": 4,
       "slide": true,
       "split": true,

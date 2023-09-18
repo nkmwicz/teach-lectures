@@ -774,7 +774,7 @@
       }
     },
     {
-      "number": 11,
+      "number": 11.1,
       "slide": true,
       "centered": true,
       "title": "English Revolution (1642-1651)",
@@ -794,10 +794,51 @@
       ]
     },
     {
-      "number": 12,
+      "number": 11.2,
+      "slide": true,
+      "centered": true,
+      "title": "English Revolution (1642-1651)",
+      "text": [
+        {
+          "text": "Parliament Recalled (1640)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "King's army & Parliament's army",
+          "color": "lightgray"
+        },
+        {
+          "text": "Fighting Begin in 1642",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "centered": true,
+      "title": "English Revolution (1642-1651)",
+      "text": [
+        {
+          "text": "Parliament Recalled (1640)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "King's army & Parliament's army",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fighting Begin in 1642",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 12.1,
       "slide": true,
       "split": true,
       "title": "Interregnum (1649-1660)",
+      "subTitle": "The Rise of Oliver Cromwell",
       "text": [
         {
           "text": "Oliver Cromwell (1599-1658)",
@@ -813,9 +854,61 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg",
+        "alt": "Portrait of Oliver Cromwell",
+        "description": "Oliver Cromwell"
+      }
+    },
+    {
+      "number": 12.2,
+      "slide": true,
+      "split": true,
+      "title": "Interregnum (1649-1660)",
+      "subTitle": "The Rise of Oliver Cromwell",
+      "text": [
+        {
+          "text": "Oliver Cromwell (1599-1658)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles I captured and executed (1649)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Institute of Government (1653)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg",
+        "alt": "Portrait of Oliver Cromwell",
+        "description": "Oliver Cromwell"
+      }
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "split": true,
+      "title": "Interregnum (1649-1660)",
+      "subTitle": "The Rise of Oliver Cromwell",
+      "text": [
+        {
+          "text": "Oliver Cromwell (1599-1658)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Charles I captured and executed (1649)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Institute of Government (1653)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg",
+        "alt": "Portrait of Oliver Cromwell",
+        "description": "Oliver Cromwell"
       }
     },
     {

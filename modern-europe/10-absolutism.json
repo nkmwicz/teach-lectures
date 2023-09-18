@@ -93,7 +93,7 @@
       ]
     },
     {
-      "number": 3,
+      "number": 3.1,
       "slide": true,
       "centered": true,
       "title": "Absolutism, Part II",
@@ -138,11 +138,11 @@
         },
         {
           "text": "Absolutism: What was it?",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Where was it?",
-          "color": "lightgray",
+          "color": "darkslategray",
           "children": [
             {
               "text": "France",

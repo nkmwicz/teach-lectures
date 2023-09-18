@@ -273,7 +273,7 @@
       }
     },
     {
-      "number": 5,
+      "number": 5.1,
       "slide": true,
       "centered": true,
       "title": "The French System:",
@@ -290,6 +290,48 @@
         {
           "text": "Great Nobles and the Army",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "The French System:",
+      "subTitle": "Centralizing Patronage",
+      "text": [
+        {
+          "text": "Cultural Patronage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Intendants",
+          "color": "lightgray"
+        },
+        {
+          "text": "Great Nobles and the Army",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "The French System:",
+      "subTitle": "Centralizing Patronage",
+      "text": [
+        {
+          "text": "Cultural Patronage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Intendants",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Nobles and the Army",
+          "color": "lightgray"
         }
       ]
     },

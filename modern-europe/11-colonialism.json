@@ -1,11 +1,252 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "Colonial Expansion"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "Colonial Expansion",
+      "subTitle": "& Mercantilism"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "European Colonies: 1625",
+      "text": [
+        {
+          "text": "Spain",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Central America",
+              "color": "lightgray"
+            },
+            {
+              "text": "Peru",
+              "color": "lightgray"
+            },
+            {
+              "text": "Philippines",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Portugal",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Coast of Brazil",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Trading ports in Africa and Indian Ocean",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "France",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Quebec (Population=85)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "England",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Jamestown and Plymouth",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "European Colonies: 1625",
+      "text": [
+        {
+          "text": "Spain",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Central America",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peru",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Philippines",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Portugal",
+          "color": "lightgray",
+          "childern": [
+            {
+              "text": "Coast of Brazil",
+              "color": "lightgray"
+            },
+            {
+              "text": "Trading ports in Africa and Indian Ocean",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "France",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Quebec (Population=85)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "England",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Jamestown and Plymouth",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "European Colonies: 1625",
+      "text": [
+        {
+          "text": "Spain",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Central America",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peru",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Philippines",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Portugal",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Coast of Brazil",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Trading ports in Africa and Indian Ocean",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "France",
+          "color": "lightgray",
+          "childern": [
+            {
+              "text": "Quebec (Population=85)",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "England",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Jamestown and Plymouth",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "centered": true,
+      "title": "European Colonies: 1625",
+      "text": [
+        {
+          "text": "Spain",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Central America",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peru",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Philippines",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Portugal",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Coast of Brazil",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Trading ports in Africa and Indian Ocean",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "France",
+          "color": "darkslategray",
+          "childern": [
+            {
+              "text": "Quebec (Population=85)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "England",
+          "color": "lightgray",
+          "childern": [
+            {
+              "text": "Jamestown and Plymouth",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

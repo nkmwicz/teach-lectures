@@ -35,7 +35,7 @@
         {
           "text": "Portugal",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Coast of Brazil",
               "color": "darkslategray"
@@ -49,7 +49,7 @@
         {
           "text": "France",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Quebec (Population=85)",
               "color": "darkslategray"
@@ -59,7 +59,7 @@
         {
           "text": "England",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Jamestown and Plymouth",
               "color": "darkslategray"
@@ -95,7 +95,7 @@
         {
           "text": "Portugal",
           "color": "lightgray",
-          "childern": [
+          "children": [
             {
               "text": "Coast of Brazil",
               "color": "lightgray"
@@ -109,7 +109,7 @@
         {
           "text": "France",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Quebec (Population=85)",
               "color": "darkslategray"
@@ -119,7 +119,7 @@
         {
           "text": "England",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Jamestown and Plymouth",
               "color": "darkslategray"
@@ -155,7 +155,7 @@
         {
           "text": "Portugal",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Coast of Brazil",
               "color": "darkslategray"
@@ -169,7 +169,7 @@
         {
           "text": "France",
           "color": "lightgray",
-          "childern": [
+          "children": [
             {
               "text": "Quebec (Population=85)",
               "color": "lightgray"
@@ -179,7 +179,7 @@
         {
           "text": "England",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Jamestown and Plymouth",
               "color": "darkslategray"
@@ -215,7 +215,7 @@
         {
           "text": "Portugal",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Coast of Brazil",
               "color": "darkslategray"
@@ -229,7 +229,7 @@
         {
           "text": "France",
           "color": "darkslategray",
-          "childern": [
+          "children": [
             {
               "text": "Quebec (Population=85)",
               "color": "darkslategray"
@@ -239,7 +239,7 @@
         {
           "text": "England",
           "color": "lightgray",
-          "childern": [
+          "children": [
             {
               "text": "Jamestown and Plymouth",
               "color": "lightgray"

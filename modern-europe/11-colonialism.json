@@ -312,7 +312,7 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.3,
       "slide": true,
       "split": true,
       "title": "Still Seeking the East",
@@ -320,7 +320,7 @@
       "text": [
         {
           "text": "Jamestown (1607)",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Plymouth Colony (1620)",
@@ -328,7 +328,7 @@
         },
         {
           "text": "New France (1608)",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "New Netherlands (1614)",
@@ -342,7 +342,7 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.4,
       "slide": true,
       "split": true,
       "title": "Still Seeking the East",
@@ -350,7 +350,7 @@
       "text": [
         {
           "text": "Jamestown (1607)",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Plymouth Colony (1620)",
@@ -362,7 +362,7 @@
         },
         {
           "text": "New Netherlands (1614)",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ],
       "image": {

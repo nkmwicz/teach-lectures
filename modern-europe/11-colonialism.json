@@ -1,5 +1,8 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/69/Location_of_jamestown_virginia.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plymouth_Colony_map.svg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -247,6 +250,126 @@
           ]
         }
       ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Still Seeking the East",
+      "subTitle": "Part I: Small changes",
+      "text": [
+        {
+          "text": "Jamestown (1607)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Plymouth Colony (1620)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New France (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New Netherlands (1614)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Location_of_jamestown_virginia.jpg",
+        "alt": "Map of the Location of Jamestown in Virginia",
+        "description": "Jamestown in Virginia"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Still Seeking the East",
+      "subTitle": "Part I: Small changes",
+      "text": [
+        {
+          "text": "Jamestown (1607)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Plymouth Colony (1620)",
+          "color": "lightgray"
+        },
+        {
+          "text": "New France (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New Netherlands (1614)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plymouth_Colony_map.svg",
+        "alt": "Map of Plymouth Colony",
+        "description": ""
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Still Seeking the East",
+      "subTitle": "Part I: Small changes",
+      "text": [
+        {
+          "text": "Jamestown (1607)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Plymouth Colony (1620)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New France (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New Netherlands (1614)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/1664AmeriqueNord.jpg",
+        "alt": "Map of North American French, English and Dutch Colonies in 1664",
+        "description": "French, English and Dutch Colonies in 1664"
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Still Seeking the East",
+      "subTitle": "Part I: Small changes",
+      "text": [
+        {
+          "text": "Jamestown (1607)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Plymouth Colony (1620)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New France (1608)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New Netherlands (1614)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/1664AmeriqueNord.jpg",
+        "alt": "Map of North American French, English and Dutch Colonies in 1664",
+        "description": "French, English and Dutch Colonies in 1664"
+      }
     }
   ]
 }

@@ -370,6 +370,276 @@
         "alt": "Map of North American French, English and Dutch Colonies in 1664",
         "description": "French, English and Dutch Colonies in 1664"
       }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "split": true,
+      "title": "First Major Change",
+      "subTitle": "Dutch East India Company (VOC), 1602",
+      "text": [
+        {
+          "text": "Dutch in Indian Ocean",
+          "color": "lightgray"
+        },
+        {
+          "text": "Dutch East India Company (VOC), 1602",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jakarta/Batavia (1619)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i0.wp.com/transportgeography.org/wp-content/uploads/VOC_Trade_Network2.png?fit=3904%2C2404&ssl=1",
+        "alt": "Map of Dutch East Indies",
+        "description": "Map of Dutch East Indies"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "First Major Change",
+      "subTitle": "Dutch East India Company (VOC), 1602",
+      "text": [
+        {
+          "text": "Dutch in Indian Ocean",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dutch East India Company (VOC), 1602",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jakarta/Batavia (1619)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i0.wp.com/transportgeography.org/wp-content/uploads/VOC_Trade_Network2.png?fit=3904%2C2404&ssl=1",
+        "alt": "Map of Dutch East Indies",
+        "description": "Map of Dutch East Indies"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "First Major Change",
+      "subTitle": "Dutch East India Company (VOC), 1602",
+      "text": [
+        {
+          "text": "Dutch in Indian Ocean",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dutch East India Company (VOC), 1602",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jakarta/Batavia (1619)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://i0.wp.com/transportgeography.org/wp-content/uploads/VOC_Trade_Network2.png?fit=3904%2C2404&ssl=1",
+        "alt": "Map of Dutch East Indies",
+        "description": "Map of Dutch East Indies"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations and Impacts",
+      "text": [
+        {
+          "text": "Motivation: Union of Spain and Portugal (1580-1668)",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Union of Spain and Portugal (1580-1668)",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Motivations:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Rivalry/War with Spain (1580-1609, 1621-1648)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "childre": [
+            {
+              "text": "From Partnerships to Dutch Dominance",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Dependence on Slave Labor",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations and Impacts",
+      "text": [
+        {
+          "text": "Motivation: Union of Spain and Portugal (1580-1668)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Union of Spain and Portugal (1580-1668)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Motivations:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Rivalry/War with Spain (1580-1609, 1621-1648)",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "childre": [
+            {
+              "text": "From Partnerships to Dutch Dominance",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Dependence on Slave Labor",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations and Impacts",
+      "text": [
+        {
+          "text": "Motivation: Union of Spain and Portugal (1580-1668)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Union of Spain and Portugal (1580-1668)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Motivations:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Rivalry/War with Spain (1580-1609, 1621-1648)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "lightgray",
+          "childre": [
+            {
+              "text": "From Partnerships to Dutch Dominance",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Dependence on Slave Labor",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations and Impacts",
+      "text": [
+        {
+          "text": "Motivation: Union of Spain and Portugal (1580-1668)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Union of Spain and Portugal (1580-1668)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Motivations:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Rivalry/War with Spain (1580-1609, 1621-1648)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "darkslategray",
+          "childre": [
+            {
+              "text": "From Partnerships to Dutch Dominance",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Impact:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Dependence on Slave Labor",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

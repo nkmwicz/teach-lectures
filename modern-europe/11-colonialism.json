@@ -1,7 +1,12 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/69/Location_of_jamestown_virginia.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plymouth_Colony_map.svg"
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Plymouth_Colony_map.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/06/Dutch_Brazil_1630-1654_map.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/98/Caribbean_general_map.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a2/Two_20kr_gold_coins.png",
+    "https://upload.wikimedia.org/wikipedia/commons/7/78/Monopoly_board_on_white_bg.jpg",
+    "https://cdn.wallpapersafari.com/11/47/6vesyB.jpg"
   ],
   "slides": [
     {
@@ -640,6 +645,313 @@
           ]
         }
       ]
+    },
+    {
+      "number": 6.1,
+      "split": true,
+      "slide": true,
+      "title": "The Early Carribbean",
+      "text": [
+        {
+          "text": "Northeastern South America",
+          "color": "lightgray"
+        },
+        {
+          "text": "Thirty Years' War (1618-1648)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dutch, Brazil (1630-40), Suriname",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Saint Domingue (1659) & English Jamaica (1655)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Guyanas.svg",
+        "alt": "Map of European Colonies in Northeaster South America",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.2,
+      "split": true,
+      "slide": true,
+      "title": "The Early Carribbean",
+      "text": [
+        {
+          "text": "Northeastern South America",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Thirty Years' War (1618-1648)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Dutch, Brazil (1630-40), Suriname",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Saint Domingue (1659) & English Jamaica (1655)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Guyanas.svg",
+        "alt": "Map of European Colonies in Northeaster South America",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.3,
+      "split": true,
+      "slide": true,
+      "title": "The Early Carribbean",
+      "text": [
+        {
+          "text": "Northeastern South America",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Thirty Years' War (1618-1648)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dutch, Brazil (1630-40), Suriname",
+          "color": "lightgray"
+        },
+        {
+          "text": "French Saint Domingue (1659) & English Jamaica (1655)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dutch_Brazil_1630-1654_map.svg",
+        "alt": "Map of Dutch Brazil",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.4,
+      "split": true,
+      "slide": true,
+      "title": "The Early Carribbean",
+      "text": [
+        {
+          "text": "Northeastern South America",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Thirty Years' War (1618-1648)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dutch, Brazil (1630-40), Suriname",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Saint Domingue (1659) & English Jamaica (1655)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Caribbean_general_map.png",
+        "alt": "Map of Carribbean Islands",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Changes to the Economy",
+      "text": [
+        {
+          "text": "Early Economy",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "labor: Indentured Servants",
+              "color": "lightgray"
+            },
+            {
+              "text": "tobacco & cotton",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Economy in late-17th and 18th centuries",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "labor: Enslaved Africans",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Sugar, Cacao, Coffee, Sugar",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Early Economy",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "labor: Indentured Servants",
+              "color": "darkslategray"
+            },
+            {
+              "text": "tobacco & cotton",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Economy in late-17th and 18th centuries",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "labor: Enslaved Africans",
+              "color": "lightgray"
+            },
+            {
+              "text": "Sugar, Cacao, Coffee, Sugar",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Mercantilism",
+      "subTitle": "Developed to Support War Efforts",
+      "text": [
+        {
+          "text": "Wealth is Finite: Silver, Gold",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jean-Baptiste Colbert (1619-1683)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Monopolies: Rights and Privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Trade Bubbles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Two_20kr_gold_coins.png",
+        "alt": "Image of Gold Coins",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Mercantilism",
+      "subTitle": "Developed to Support War Efforts",
+      "text": [
+        {
+          "text": "Wealth is Finite: Silver, Gold",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Baptiste Colbert (1619-1683)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Monopolies: Rights and Privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Trade Bubbles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Colbert1666.jpg",
+        "alt": "Portrait of Jean-Baptiste de Colbert",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "Mercantilism",
+      "subTitle": "Developed to Support War Efforts",
+      "text": [
+        {
+          "text": "Wealth is Finite: Silver, Gold",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Baptiste Colbert (1619-1683)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Monopolies: Rights and Privileges",
+          "color": "lightgray"
+        },
+        {
+          "text": "Trade Bubbles",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monopoly_board_on_white_bg.jpg",
+        "alt": "Image of the game Monopoly.",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "Mercantilism",
+      "subTitle": "Developed to Support War Efforts",
+      "text": [
+        {
+          "text": "Wealth is Finite: Silver, Gold",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Baptiste Colbert (1619-1683)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Monopolies: Rights and Privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Trade Bubbles",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.wallpapersafari.com/11/47/6vesyB.jpg",
+        "alt": "Image of Bubbles",
+        "description": ""
+      }
     }
   ]
 }

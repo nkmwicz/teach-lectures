@@ -1,11 +1,22 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "The Atlantic Slave Economy"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "The Atlantic Slave Economy"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "European Colonies in 1725",
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG",
+        "alt": "Map of European Colonies in 1700",
+        "description": ""
+      }
+    }
+  ]
 }

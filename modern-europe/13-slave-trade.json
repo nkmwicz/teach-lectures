@@ -12,7 +12,7 @@
       "slide": true,
       "centered": true,
       "title": "European Colonies in 1725",
-      "image": {
+      "images": {
         "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG",
         "alt": "Map of European Colonies in 1700",
         "description": ""
@@ -69,7 +69,16 @@
       "title": "Agency of Enslaved People?",
       "text": [
         {
-          "text": "Agency of Enslaved People"
+          "text": "Agency of Enslaved People",
+          "color": "lightgray"
+        },
+        {
+          "text": "Strageties of resistance",
+          "color": "darkslategray"
+        },
+        {
+          "text": "mixed-race children",
+          "color": "darkslategray"
         }
       ]
     }

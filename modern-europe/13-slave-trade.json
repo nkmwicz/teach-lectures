@@ -12,11 +12,13 @@
       "slide": true,
       "centered": true,
       "title": "European Colonies in 1725",
-      "images": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG",
-        "alt": "Map of European Colonies in 1700",
-        "description": ""
-      }
+      "images": [
+        {
+          "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG",
+          "alt": "Map of European Colonies in 1700",
+          "description": ""
+        }
+      ]
     },
     {
       "number": 3,
@@ -53,12 +55,18 @@
           "color": "lightgray"
         },
         {
-          "text": "Code Noire in Theory?",
+          "text": "Code Noire (1685) in Theory?",
           "color": "darkslategray"
         },
         {
-          "text": "Code Noire in Practice?",
-          "color": "darkslategray"
+          "text": "Code Noire (1685) in Practice?",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicholas Le Jeune (1788)",
+              "color": "darkslategray"
+            }
+          ]
         }
       ]
     },

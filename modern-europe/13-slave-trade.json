@@ -1,5 +1,8 @@
 {
-  "images": [],
+  "images": [
+    "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economy-map1700.png",
+    "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG"
+  ],
   "slides": [
     {
       "number": 1,
@@ -21,14 +24,14 @@
       ]
     },
     {
-      "number": 3,
+      "number": 3.1,
       "slide": true,
       "centered": true,
       "title": "Early European Slavery",
       "text": [
         {
           "text": "Portuguese Slave Trade & Brazil",
-          "color": "lightgray"
+          "color": "lightgrey"
         },
         {
           "text": "Slavery in Africa",
@@ -45,6 +48,78 @@
       ]
     },
     {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "Early European Slavery",
+      "text": [
+        {
+          "text": "Portuguese Slave Trade & Brazil",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery in Africa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Expansions of Slavery from Caribbean",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on Africa",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "Early European Slavery",
+      "text": [
+        {
+          "text": "Portuguese Slave Trade & Brazil",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansions of Slavery from Caribbean",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Impact on Africa",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "centered": true,
+      "title": "Early European Slavery",
+      "text": [
+        {
+          "text": "Portuguese Slave Trade & Brazil",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansions of Slavery from Caribbean",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on Africa",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
       "number": 4,
       "slide": true,
       "centered": true,
@@ -52,7 +127,7 @@
       "text": [
         {
           "text": "Where did most enslaved Africans go?",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Code Noire (1685) in Theory?",
@@ -78,7 +153,7 @@
       "text": [
         {
           "text": "Agency of Enslaved People",
-          "color": "lightgray"
+          "color": "darkslategray"
         },
         {
           "text": "Strageties of resistance",
@@ -89,6 +164,97 @@
           "color": "darkslategray"
         }
       ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Sugar and the Atlantic Slave Economy",
+      "text": [
+        {
+          "text": "More than the Triangular Trade",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sugar and Slavery, fundamental to 18c economy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Economies dependent on Slave Societies",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Broader Dependance on Slave Economy",
+      "images": [
+        {
+          "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economy-map1700.png",
+          "alt": "Map of movement of goods in the eighteenth century Atlantic",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "Econ. Growth in non-slave societies",
+      "text": [
+        {
+          "text": "Increase in Shipping Tonnage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bordeaux: 1720 => 1785",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nantes : 1727 => 1790",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in Port economies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "split": true,
+      "title": "Split in Economies",
+      "text": [
+        {
+          "text": "Growth in Textiles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on the countryside",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Caux",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vannetais",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economy-map1700.png",
+    "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economymap.png",
     "https://practicestorage.blob.core.windows.net/practice/teaching_docs/1700_CE_world_map.PNG"
   ],
   "slides": [
@@ -350,7 +350,7 @@
       "title": "Broader Dependance on Slave Economy",
       "images": [
         {
-          "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economy-map1700.png",
+          "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/slave-economymap.png",
           "alt": "Map of movement of goods in the eighteenth century Atlantic",
           "description": ""
         }

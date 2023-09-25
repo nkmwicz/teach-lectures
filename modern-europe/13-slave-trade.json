@@ -17,6 +17,61 @@
         "alt": "Map of European Colonies in 1700",
         "description": ""
       }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "Early European Slavery",
+      "text": [
+        {
+          "text": "Portuguese Slave Trade & Brazil",
+          "color": "lightgray"
+        },
+        {
+          "text": "Slavery in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansions of Slavery from Caribbean",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on Africa",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Slavery in Caribbean",
+      "text": [
+        {
+          "text": "Where did most enslaved Africans go?",
+          "color": "lightgray"
+        },
+        {
+          "text": "Code Noire in Theory?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire in Practice?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Agency of Enslaved People?",
+      "text": [
+        {
+          "text": "Agency of Enslaved People"
+        }
+      ]
     }
   ]
 }

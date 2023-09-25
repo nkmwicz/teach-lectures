@@ -120,14 +120,14 @@
       ]
     },
     {
-      "number": 4,
+      "number": 4.1,
       "slide": true,
       "centered": true,
       "title": "Slavery in Caribbean",
       "text": [
         {
           "text": "Where did most enslaved Africans go?",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Code Noire (1685) in Theory?",
@@ -146,7 +146,125 @@
       ]
     },
     {
-      "number": 5,
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "Slavery in Caribbean",
+      "text": [
+        {
+          "text": "Where did most enslaved Africans go?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire (1685) in Theory?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Code Noire (1685) in Practice?",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicholas Le Jeune (1788)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "Slavery in Caribbean",
+      "text": [
+        {
+          "text": "Where did most enslaved Africans go?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire (1685) in Theory?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire (1685) in Practice?",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Nicholas Le Jeune (1788)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "centered": true,
+      "title": "Slavery in Caribbean",
+      "text": [
+        {
+          "text": "Where did most enslaved Africans go?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire (1685) in Theory?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Code Noire (1685) in Practice?",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicholas Le Jeune (1788)",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Agency of Enslaved People?",
+      "text": [
+        {
+          "text": "Agency of Enslaved People",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Strageties of resistance",
+          "color": "darkslategray"
+        },
+        {
+          "text": "mixed-race children",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Agency of Enslaved People?",
+      "text": [
+        {
+          "text": "Agency of Enslaved People",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Strageties of resistance",
+          "color": "lightgrey"
+        },
+        {
+          "text": "mixed-race children",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
       "slide": true,
       "centered": true,
       "title": "Agency of Enslaved People?",
@@ -161,12 +279,52 @@
         },
         {
           "text": "mixed-race children",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "centered": true,
+      "title": "Sugar and the Atlantic Slave Economy",
+      "text": [
+        {
+          "text": "More than the Triangular Trade",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Sugar and Slavery, fundamental to 18c economy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Economies dependent on Slave Societies",
           "color": "darkslategray"
         }
       ]
     },
     {
-      "number": 6,
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "Sugar and the Atlantic Slave Economy",
+      "text": [
+        {
+          "text": "More than the Triangular Trade",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sugar and Slavery, fundamental to 18c economy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Economies dependent on Slave Societies",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
       "slide": true,
       "centered": true,
       "title": "Sugar and the Atlantic Slave Economy",
@@ -181,7 +339,7 @@
         },
         {
           "text": "Economies dependent on Slave Societies",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },
@@ -199,14 +357,14 @@
       ]
     },
     {
-      "number": 8,
+      "number": 8.1,
       "slide": true,
       "split": true,
       "title": "Econ. Growth in non-slave societies",
       "text": [
         {
           "text": "Increase in Shipping Tonnage",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Bordeaux: 1720 => 1785",
@@ -228,7 +386,181 @@
       }
     },
     {
-      "number": 9,
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Econ. Growth in non-slave societies",
+      "text": [
+        {
+          "text": "Increase in Shipping Tonnage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bordeaux: 1720 => 1785",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Nantes : 1727 => 1790",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in Port economies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "Econ. Growth in non-slave societies",
+      "text": [
+        {
+          "text": "Increase in Shipping Tonnage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bordeaux: 1720 => 1785",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nantes : 1727 => 1790",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Growth in Port economies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "Econ. Growth in non-slave societies",
+      "text": [
+        {
+          "text": "Increase in Shipping Tonnage",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bordeaux: 1720 => 1785",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nantes : 1727 => 1790",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in Port economies",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Split in Economies",
+      "text": [
+        {
+          "text": "Growth in Textiles",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Impact on the countryside",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Caux",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vannetais",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "Split in Economies",
+      "text": [
+        {
+          "text": "Growth in Textiles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on the countryside",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Caux",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vannetais",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "Split in Economies",
+      "text": [
+        {
+          "text": "Growth in Textiles",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Impact on the countryside",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Caux",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Vannetais",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/teaching_docs/french-growth-decline-18c.png",
+        "alt": "Map of French economic growth along access to Atlantic trade",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.4,
       "slide": true,
       "split": true,
       "title": "Split in Economies",
@@ -247,7 +579,7 @@
         },
         {
           "text": "Vannetais",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "image": {

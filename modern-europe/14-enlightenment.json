@@ -121,6 +121,116 @@
       "rightText": "New discourses (ideas, theories, criticism, rumors, etc.) that challenged the current political system."
     },
     {
+      "number": 3.1,
+      "slide": true,
+      "title": "Renaissance Science",
+      "subTitle": "At Court",
+      "centered": true,
+      "text": [
+        {
+          "text": "Rediscovered Classics and Mathematics",
+          "children": [
+            {
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "lightgray"
+            }
+          ],
+          "color": "lightgray"
+        },
+        {
+          "text": "Alchemy",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "transforming nature: lead to gold",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Experimentation",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Astrology",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicolaus Copernicus (1543)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Johannas Kepler (1609)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Galileo Galilei (1610)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Renaissance Science",
+      "subTitle": "At Court",
+      "centered": true,
+      "text": [
+        {
+          "text": "Rediscovered Classics and Mathematics",
+          "children": [
+            {
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "darkslategray"
+            }
+          ],
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alchemy",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "transforming nature: lead to gold",
+              "color": "lightgray"
+            },
+            {
+              "text": "Experimentation",
+              "color": "lightgray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Astrology",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicolaus Copernicus (1543)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Johannas Kepler (1609)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Galileo Galilei (1610)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "number": 3,
       "slide": true,
       "title": "Renaissance Science",
@@ -157,19 +267,19 @@
         },
         {
           "text": "Astrology",
-          "color": "darkslategray",
+          "color": "lightgray",
           "children": [
             {
               "text": "Nicolaus Copernicus (1543)",
-              "color": "darkslategray"
+              "color": "lightgray"
             },
             {
               "text": "Johannas Kepler (1609)",
-              "color": "darkslategray"
+              "color": "lightgray"
             },
             {
               "text": "Galileo Galilei (1610)",
-              "color": "darkslategray"
+              "color": "lightgray"
             }
           ]
         }

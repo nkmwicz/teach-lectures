@@ -127,13 +127,15 @@
           "text": "Rediscovered Classics and Mathematics",
           "children": [
             {
-              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus"
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "darkslategray"
             }
           ],
           "color": "darkslategray"
         },
         {
           "text": "Alchemy",
+          "color": "darkslategray",
           "children": [
             {
               "text": "transforming nature: lead to gold",

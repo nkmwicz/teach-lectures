@@ -631,7 +631,7 @@
     {
       "number": 7.1,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes of Enlightenment?",
       "subTitle": "New Patterns of Sociability",
       "text": [
@@ -656,7 +656,7 @@
     {
       "number": 7.2,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes of Enlightenment?",
       "subTitle": "New Patterns of Sociability",
       "text": [
@@ -681,7 +681,7 @@
     {
       "number": 7.3,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes of Enlightenment?",
       "subTitle": "New Patterns of Sociability",
       "text": [
@@ -706,7 +706,7 @@
     {
       "number": 7.4,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes of Enlightenment?",
       "subTitle": "New Patterns of Sociability",
       "text": [

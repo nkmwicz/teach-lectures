@@ -592,10 +592,12 @@
       "subTitle": "Invention of Race",
       "text": [
         {
-          "text": "Montesquieu"
+          "text": "Montesquieu",
+          "color": "lightgray"
         },
         {
-          "text": "David Hume (1753)"
+          "text": "David Hume (1753)",
+          "color": "darkslategray"
         }
       ],
       "image": {
@@ -612,10 +614,12 @@
       "subTitle": "Invention of Race",
       "text": [
         {
-          "text": "Montesquieu"
+          "text": "Montesquieu",
+          "color": "darkslategray"
         },
         {
-          "text": "David Hume (1753)"
+          "text": "David Hume (1753)",
+          "color": "lightgray"
         }
       ],
       "image": {

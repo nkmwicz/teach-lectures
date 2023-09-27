@@ -119,7 +119,7 @@
       "number": 3,
       "slide": true,
       "title": "Renaissance Science",
-      "subTitle": "Part I",
+      "subTitle": "At Court",
       "centered": true,
       "text": [
         {
@@ -142,6 +142,10 @@
             },
             {
               "text": "Experimentation",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
               "color": "darkslategray"
             }
           ]

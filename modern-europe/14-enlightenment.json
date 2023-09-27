@@ -5,7 +5,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/d/de/Locke_treatises_of_government_page.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/57/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg"
   ],
   "slides": [
     {
@@ -413,9 +414,14 @@
     {
       "number": 6.1,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
       "text": [
+        {
+          "text": "Coffee & Sugar",
+          "color": "lightgray"
+        },
         {
           "text": "Growing Wealth",
           "color": "darkslategray"
@@ -423,21 +429,250 @@
         {
           "text": "Growing Cities",
           "color": "darkslategray"
-        },
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
+      "text": [
         {
           "text": "Coffee & Sugar",
           "color": "darkslategray"
         },
         {
-          "text": "New Types of Sociability Outside the Court",
+          "text": "Growing Wealth",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing Cities",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
+      "text": [
+        {
+          "text": "Coffee & Sugar",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Wealth",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Cities",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "Enlightenment",
+      "subTitle": "Invention of Race",
+      "text": [
+        {
+          "text": "Montesquieu"
+        },
+        {
+          "text": "David Hume (1753)"
         }
       ],
       "image": {
-        "image": "https://www.quotationof.com/images/john-green-4.jpg",
-        "alt": "Image of John Green.",
-        "description": "John Green."
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg",
+        "alt": "Image of Montesquieu.",
+        "description": ""
       }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Enlightenment",
+      "subTitle": "Invention of Race",
+      "text": [
+        {
+          "text": "Montesquieu"
+        },
+        {
+          "text": "David Hume (1753)"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg",
+        "alt": "Image of Hume.",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "lightgray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "lightgray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "lightgray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "split": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "lightgray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Causes Celebres",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "lightgray"
+        },
+        {
+          "text": "Causes Celebres",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Causes Celebres",
+          "color": "lightgray"
+        }
+      ]
     }
   ]
 }

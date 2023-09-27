@@ -309,8 +309,8 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Locke_treatises_of_government_page.jpg",
-        "alt": "Image of John Locke's Treatises of Government.",
+        "image": "",
+        "alt": "No Image",
         "description": ""
       }
     },
@@ -338,8 +338,8 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Locke_treatises_of_government_page.jpg",
-        "alt": "Image of John Locke's Treatises of Government.",
+        "image": "",
+        "alt": "No Image",
         "description": ""
       }
     },
@@ -743,7 +743,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Causes Celebres",
+          "text": "Causes Celèbres",
           "color": "darkslategray"
         }
       ]
@@ -763,7 +763,7 @@
           "color": "lightgray"
         },
         {
-          "text": "Causes Celebres",
+          "text": "Causes Celèbres",
           "color": "darkslategray"
         }
       ]
@@ -783,7 +783,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Causes Celebres",
+          "text": "Causes Celèbres",
           "color": "lightgray"
         }
       ]

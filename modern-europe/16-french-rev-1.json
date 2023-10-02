@@ -846,7 +846,79 @@
       }
     },
     {
-      "number": 10,
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.2,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.3,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.4,
       "slide": true,
       "centered": true,
       "title": "Failed Consensus (1790-1791)",
@@ -865,7 +937,7 @@
         },
         {
           "text": "April 1792, War against Prussia and Austria",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

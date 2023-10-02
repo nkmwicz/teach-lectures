@@ -746,15 +746,15 @@
           "color": "lightgrey"
         },
         {
-          "text": "Civil Constitution of the Clergy (1790)",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Declarations of Rights of Man and Citizen",
+          "text": "Declarations of Rights of Man and Citizen (1789)",
           "color": "darkslategray"
         },
         {
           "text": "Women's March, October 1789",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
           "color": "darkslategray"
         }
       ],
@@ -775,16 +775,16 @@
           "color": "darkslategray"
         },
         {
-          "text": "Civil Constitution of the Clergy (1790)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Declarations of Rights of Man and Citizen",
+          "text": "Declarations of Rights of Man and Citizen (1789)",
           "color": "darkslategray"
         },
         {
           "text": "Women's March, October 1789",
           "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -804,15 +804,15 @@
           "color": "darkslategray"
         },
         {
-          "text": "Civil Constitution of the Clergy (1790)",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Declarations of Rights of Man and Citizen",
+          "text": "Declarations of Rights of Man and Citizen (1789)",
           "color": "lightgrey"
         },
         {
           "text": "Women's March, October 1789",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
           "color": "darkslategray"
         }
       ],
@@ -833,16 +833,16 @@
           "color": "darkslategray"
         },
         {
-          "text": "Civil Constitution of the Clergy (1790)",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Declarations of Rights of Man and Citizen",
+          "text": "Declarations of Rights of Man and Citizen (1789)",
           "color": "darkslategray"
         },
         {
           "text": "Women's March, October 1789",
           "color": "lightgrey"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "darkslategray"
         }
       ],
       "image": {

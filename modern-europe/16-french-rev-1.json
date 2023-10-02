@@ -632,7 +632,79 @@
       }
     },
     {
-      "number": 8,
+      "number": 8.1,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "lightgrey"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Storming of the Bastille",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "lightgrey"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Storming of the Bastille",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Storming of the Bastille",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.4,
       "slide": true,
       "title": "New Conceptions of State and Society",
       "centered": true,
@@ -651,7 +723,7 @@
         },
         {
           "text": "Storming of the Bastille",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

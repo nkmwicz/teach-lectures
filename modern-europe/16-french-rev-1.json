@@ -501,7 +501,7 @@
     {
       "number": 6.1,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "The Estates General",
       "subTitle": "Meets in May 1789 at Versailles",
       "text": [
@@ -522,7 +522,7 @@
     {
       "number": 6.2,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "The Estates General",
       "subTitle": "Meets in May 1789 at Versailles",
       "text": [
@@ -543,7 +543,7 @@
     {
       "number": 6.3,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "The Estates General",
       "subTitle": "Meets in May 1789 at Versailles",
       "text": [

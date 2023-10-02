@@ -316,7 +316,79 @@
       ]
     },
     {
-      "number": 4,
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
       "slide": true,
       "centered": true,
       "title": "A French Crisis in 1780s",
@@ -335,7 +407,7 @@
         },
         {
           "text": "Try tax reform with Parlement, Fails (1788)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

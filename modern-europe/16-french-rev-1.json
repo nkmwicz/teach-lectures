@@ -100,25 +100,26 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.1,
       "slide": true,
       "centered": true,
       "title": "The American Revolution (1776-1783)",
       "text": [
         {
           "text": "Benign Negligence ends in 1763",
-          "color": "darkslategray",
+          "color": "lightgrey",
           "children": [
             {
               "text": "More troops to defend the colonies",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
-              "text": "Cycle: English create new laws, a minority of the Colonists revolt"
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "lightgrey"
             }
           ]
         },
@@ -153,6 +154,168 @@
       ]
     },
     {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Support",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "darkslategray"
+            },
+            {
+              "text": "money",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French Support",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "darkslategray"
+            },
+            {
+              "text": "money",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Support",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "lightgrey"
+            },
+            {
+              "text": "money",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "number": 4,
       "slide": true,
       "centered": true,
@@ -171,7 +334,8 @@
           "color": "darkslategray"
         },
         {
-          "text": "Try tax reform with Parlement, Fails (1788)"
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
         }
       ]
     },

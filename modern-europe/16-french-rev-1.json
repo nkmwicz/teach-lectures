@@ -1075,7 +1075,7 @@
       "text": [
         {
           "text": "Trial & Execution of Louis XVI (Jan. 1793)",
-          "color": "lightgrey"
+          "color": "darkslategray"
         },
         {
           "text": "Foreign Invasions",
@@ -1088,7 +1088,7 @@
       ],
       "image": {
         "image": "",
-        "alt": "No",
+        "alt": "No Image",
         "description": ""
       }
     },

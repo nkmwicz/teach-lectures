@@ -557,10 +557,59 @@
       ]
     },
     {
-      "number": 7,
+      "number": 7.1,
       "slide": true,
       "split": true,
-      "centered": true,
+      "title": "The Tennis Court Oath",
+      "text": [
+        {
+          "text": "A Misunderstanding",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Tennis Court Oath: Constitutional Monarchy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+        "alt": "Painting of Tennis Court Oath",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "The Tennis Court Oath",
+      "text": [
+        {
+          "text": "A Misunderstanding",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Tennis Court Oath: Constitutional Monarchy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+        "alt": "Painting of Tennis Court Oath",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
       "title": "The Tennis Court Oath",
       "text": [
         {
@@ -573,7 +622,7 @@
         },
         {
           "text": "Significance",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "image": {

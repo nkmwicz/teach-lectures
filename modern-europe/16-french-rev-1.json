@@ -3,7 +3,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
     "https://upload.wikimedia.org/wikipedia/commons/b/bb/FrenchChurchOathConcordat.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Execution_of_Louis_XVI.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/17/Vendee-militaire_2.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg"
   ],
   "slides": [
     {
@@ -942,7 +945,79 @@
       ]
     },
     {
-      "number": 11,
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.4,
       "slide": true,
       "centered": true,
       "title": "The Radical Revolution (1792-1794)",
@@ -961,12 +1036,12 @@
         },
         {
           "text": "Universal Male suffrage",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },
     {
-      "number": 12,
+      "number": 12.1,
       "slide": true,
       "split": true,
       "title": "The Reign of Terror (1793-1794)",
@@ -974,7 +1049,7 @@
       "text": [
         {
           "text": "Trial & Execution of Louis XVI (Jan. 1793)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Foreign Invasions",
@@ -984,18 +1059,75 @@
           "text": "Civil War: The Vendée (1793-1794)",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Execution_of_Louis_XVI.jpg",
+        "alt": "Painting of the execution of Louis XVI.",
+        "description": ""
+      }
     },
     {
-      "number": 13,
+      "number": 12.2,
       "slide": true,
       "split": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Trial & Execution of Louis XVI (Jan. 1793)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Foreign Invasions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Civil War: The Vendée (1793-1794)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "No",
+        "description": ""
+      }
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "split": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Trial & Execution of Louis XVI (Jan. 1793)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Foreign Invasions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil War: The Vendée (1793-1794)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vendee-militaire_2.svg",
+        "alt": "Map of the campaigns in the Vendee.",
+        "description": ""
+      }
+    },
+    {
+      "number": 13.1,
+      "slide": true,
+      "centered": true,
       "title": "The Reign of Terror (1793-1794)",
       "subTitle": "Part II",
       "text": [
         {
           "text": "The Committee of Public Safety & Maximilien Robespierre",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Military Reforms: Levée en masse & shock tactics",
@@ -1014,8 +1146,113 @@
               "color": "darkslategray"
             },
             {
-              "text": "The National Assembly (1793-1794)",
+              "text": "Cult of Reason & Cult of Supreme Being",
               "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "lightgrey"
             }
           ]
         }
@@ -1029,7 +1266,7 @@
       "text": [
         {
           "text": "Robespierre to the Guillatine, July 1794",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Begin drafting New constitution, July 1794",
@@ -1037,8 +1274,29 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg",
+        "alt": "Painting of the execution of Robepierre",
+        "description": ""
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "The end of the Terror",
+      "text": [
+        {
+          "text": "Robespierre to the Guillatine, July 1794",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Begin drafting New constitution, July 1794",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg",
+        "alt": "Painting of the execution of Robepierre",
         "description": ""
       }
     }

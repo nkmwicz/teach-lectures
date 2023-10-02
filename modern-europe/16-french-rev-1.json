@@ -1,6 +1,7 @@
 {
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg"
   ],
   "slides": [
     {
@@ -11,9 +12,31 @@
       "subTitle": "The American Revolution to the Directory"
     },
     {
-      "number": 2,
+      "number": 2.1,
       "slide": true,
-      "title": "The Seven Years' War (1754-1763)",
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "French and English contest the Ohio River Valley",
+          "color": "lightgrey"
+        },
+        {
+          "text": "George Washington and Fort Duquesne (1754)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
       "subTitle": "AKA, The Seven Years' War (1756-1763)",
       "split": true,
       "text": [
@@ -23,11 +46,25 @@
         },
         {
           "text": "George Washington and Fort Duquesne (1754)",
-          "color": "darkslategray"
-        },
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
         {
           "text": "The French and Indian War (1754-1763)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Outcome: English Victory & near Bankruptcy",
@@ -35,8 +72,30 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "The French and Indian War (1754-1763)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Outcome: English Victory & near Bankruptcy",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
         "description": ""
       }
     },

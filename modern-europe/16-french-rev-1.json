@@ -412,7 +412,7 @@
       ]
     },
     {
-      "number": 5,
+      "number": 5.1,
       "slide": true,
       "centered": true,
       "title": "The Estates General",
@@ -420,15 +420,15 @@
       "text": [
         {
           "text": "Plans: Vast Institutional Reform",
-          "color": "darkslategray",
+          "color": "lightgrey",
           "children": [
             {
               "text": "Cahier des Doléances",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "Decision would be binding",
-              "color": "darkslategray"
+              "color": "lightgrey"
             }
           ]
         },
@@ -453,7 +453,90 @@
       ]
     },
     {
-      "number": 6,
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Called in Jan. 1789",
+      "text": [
+        {
+          "text": "Plans: Vast Institutional Reform",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Cahier des Doléances",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Decision would be binding",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Problems:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Politicized the whole country",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Last Estates General, 1614",
+              "color": "lightgrey"
+            },
+            {
+              "text": "What is the Third Estate? by Abbé Emmanuel Joseph Sieyès",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "The Estates General",
+      "subTitle": "Meets in May 1789 at Versailles",
+      "text": [
+        {
+          "text": "How to Vote",
+          "color": "lightgrey"
+        },
+        {
+          "text": "A Failed compromise by Louis XVI",
+          "color": "darkslategray"
+        },
+        {
+          "text": "3rd estate: the National Assembly (June 17, 1789)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "The Estates General",
+      "subTitle": "Meets in May 1789 at Versailles",
+      "text": [
+        {
+          "text": "How to Vote",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Failed compromise by Louis XVI",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3rd estate: the National Assembly (June 17, 1789)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
       "slide": true,
       "split": true,
       "title": "The Estates General",
@@ -469,7 +552,7 @@
         },
         {
           "text": "3rd estate: the National Assembly (June 17, 1789)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

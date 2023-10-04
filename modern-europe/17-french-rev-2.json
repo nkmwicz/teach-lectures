@@ -2,7 +2,8 @@
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/5e/Napoleon_in_Coronation_Robes_by_Fran%C3%A7ois_G%C3%A9rard.jpg",
-    "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg"
+    "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+    "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png"
   ],
   "slides": [
     {
@@ -203,14 +204,14 @@
       ]
     },
     {
-      "number": 3,
+      "number": 3.1,
       "slide": true,
       "title": "Enter Napoleon Bonaparte (1769-1821)",
       "split": true,
       "text": [
         {
           "text": "Corsican",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Toulon Campaign (Aug. - Dec. 1793)",
@@ -232,14 +233,101 @@
       }
     },
     {
-      "number": 4,
+      "number": 3.2,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.1,
       "slide": true,
       "title": "The Rise of Napolon (1797-1799)",
       "centered": true,
       "text": [
         {
           "text": "Egyptian Campaign (1798-1799)",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Problems at Home",
@@ -268,7 +356,199 @@
       ]
     },
     {
-      "number": 5,
+      "number": 4.2,
+      "slide": true,
+      "title": "The Rise of Napolon (1797-1799)",
+      "centered": true,
+      "text": [
+        {
+          "text": "Egyptian Campaign (1798-1799)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Problems at Home",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Resumption of War",
+              "color": "lightgray"
+            },
+            {
+              "text": "Economic Crisis: Inflation",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Coup d'Etat (1799)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Emmanuel-Joseph Sieyès & Napoleon Bonaparte",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "The Rise of Napolon (1797-1799)",
+      "centered": true,
+      "text": [
+        {
+          "text": "Egyptian Campaign (1798-1799)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Problems at Home",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Resumption of War",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Economic Crisis: Inflation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Coup d'Etat (1799)",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Emmanuel-Joseph Sieyès & Napoleon Bonaparte",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "lightgray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "lightgray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.4,
       "slide": true,
       "centered": true,
       "title": "Napoleon & the Consulate (1799-1804)",
@@ -303,7 +583,7 @@
         },
         {
           "text": "Welcomes back the Church and the Nobles",
-          "color": "darkslategray"
+          "color": "lightgray"
         }
       ]
     },
@@ -315,7 +595,7 @@
       "text": [
         {
           "text": "Napoleon crowns himself",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "Napoleonic Successes",
@@ -348,36 +628,7 @@
         },
         {
           "text": "Napoleonic Successes",
-          "color": "darkslategray"
-        },
-        {
-          "text": "The Peninsular War (1808-1814)",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Great Britain and Russia",
-          "color": "darkslategray"
-        }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Napoleon_in_Coronation_Robes_by_Fran%C3%A7ois_G%C3%A9rard.jpg",
-        "alt": "Painting of Emperor Napoleon in full regalia",
-        "description": ""
-      }
-    },
-    {
-      "number": 6.2,
-      "slide": true,
-      "split": true,
-      "title": "Emperor Napoleon (r. 1804-1815)",
-      "text": [
-        {
-          "text": "Napoleon crowns himself",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Napoleonic Successes",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "The Peninsular War (1808-1814)",
@@ -395,9 +646,91 @@
       }
     },
     {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+        "alt": "Map of Napoleonic Europe in 1812",
+        "description": "Napoleonic Europe in 1812"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+        "alt": "Map of Napoleonic Europe in 1812",
+        "description": "Napoleonic Europe in 1812"
+      }
+    },
+    {
       "number": 7,
       "slide": true,
-      "centered": true
+      "centered": true,
+      "title": "French Invasion of Russaia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
     }
   ]
 }

@@ -704,10 +704,97 @@
       }
     },
     {
-      "number": 7,
+      "number": 7.1,
       "slide": true,
       "split": true,
-      "title": "French Invasion of Russaia (1812)",
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "lightgray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
       "text": [
         {
           "text": "Napoleon's Grand Army (600,000)",
@@ -722,8 +809,8 @@
           "color": "darkslategray"
         },
         {
-          "text": "Napoleon's Retreat",
-          "color": "darkslategray"
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "lightgray"
         }
       ],
       "image": {
@@ -731,6 +818,182 @@
         "alt": "Map of Napoleon's invasion of Russia in 1812",
         "description": "Napoleon's invasion of Russia in 1812"
       }
+    },
+    {
+      "number": 8.1,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "lightgray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.4,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Battle of Waterloo (1815): not just Napoleon vs Wellington",
+              "color": "lightgray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

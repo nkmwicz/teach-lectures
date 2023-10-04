@@ -3,7 +3,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/5/5e/Napoleon_in_Coronation_Robes_by_Fran%C3%A7ois_G%C3%A9rard.jpg",
     "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
-    "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png"
+    "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+    "https://en.wikipedia.org/wiki/Congress_of_Vienna#/media/File:Europe_1815_map_en.png"
   ],
   "slides": [
     {
@@ -994,6 +995,122 @@
           ]
         }
       ]
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution: the Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Congress_of_Vienna#/media/File:Europe_1815_map_en.png",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution: the Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "lightgray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Congress_of_Vienna#/media/File:Europe_1815_map_en.png",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution: the Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "lightgray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Congress_of_Vienna#/media/File:Europe_1815_map_en.png",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.4,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution: the Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Congress_of_Vienna#/media/File:Europe_1815_map_en.png",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
     }
   ]
 }

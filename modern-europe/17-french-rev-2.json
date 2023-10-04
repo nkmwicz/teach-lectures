@@ -15,36 +15,6 @@
       "subTitle": "Part II: The Directory & Napoleon"
     },
     {
-      "number": 2,
-      "slide": true,
-      "centered": true,
-      "title": "The Directory (1795-1799)",
-      "text": [
-        {
-          "text": "New Legislative body: property-based elections",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Compulsory Military Service",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Resolves economic crisis",
-          "color": "darkslategray",
-          "children": [
-            {
-              "text": "By 1799, financial system stabilized",
-              "color": "darkslategray"
-            }
-          ]
-        },
-        {
-          "text": "Suppressed popular violence: only high revolution",
-          "color": "darkslategray"
-        }
-      ]
-    },
-    {
       "number": 2.1,
       "slide": true,
       "centered": true,

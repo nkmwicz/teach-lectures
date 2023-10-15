@@ -1,12 +1,1307 @@
 {
   "images": [
-
+    "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/bb/FrenchChurchOathConcordat.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Execution_of_Louis_XVI.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/17/Vendee-militaire_2.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "French Revolution",
-    "intro": true,
-    "subTitle": "Part I: to Napoleon"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "French Revolution, Part I:",
+      "intro": true,
+      "subTitle": "The American Revolution to the Directory"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "French and English contest the Ohio River Valley",
+          "color": "lightgrey"
+        },
+        {
+          "text": "George Washington and Fort Duquesne (1754)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "French and English contest the Ohio River Valley",
+          "color": "darkslategray"
+        },
+        {
+          "text": "George Washington and Fort Duquesne (1754)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "The French and Indian War (1754-1763)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Outcome: English Victory & near Bankruptcy",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "title": "The French & Indian War (1754-1763)",
+      "subTitle": "AKA, The Seven Years' War (1756-1763)",
+      "split": true,
+      "text": [
+        {
+          "text": "The French and Indian War (1754-1763)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Outcome: English Victory & near Bankruptcy",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/French_and_indian_war_map.svg",
+        "alt": "Map of British and English territory in 1750s",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Support",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "darkslategray"
+            },
+            {
+              "text": "money",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Support",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "darkslategray"
+            },
+            {
+              "text": "money",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French Support",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "darkslategray"
+            },
+            {
+              "text": "money",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "centered": true,
+      "title": "The American Revolution (1776-1783)",
+      "text": [
+        {
+          "text": "Benign Negligence ends in 1763",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "More troops to defend the colonies",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Taxes to pay for the war: Stamp Act (1765), Tea Act (1773)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cycle: English create new laws, a minority of the Colonists revolt",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Indirect Representation",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "No taxation without representation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Colonies agree to Rebel",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Support",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "military advisors: Marquis de Lafayette",
+              "color": "lightgrey"
+            },
+            {
+              "text": "money",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "centered": true,
+      "title": "A French Crisis in 1780s",
+      "text": [
+        {
+          "text": "Bankruptcy in France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Tax reform and the Assembly of Notables (1787)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Marquis de Lafayette calls for an Estates General",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Try tax reform with Parlement, Fails (1788)",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Called in Jan. 1789",
+      "text": [
+        {
+          "text": "Plans: Vast Institutional Reform",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Cahier des Doléances",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Decision would be binding",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Problems:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Politicized the whole country",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Last Estates General, 1614",
+              "color": "darkslategray"
+            },
+            {
+              "text": "What is the Third Estate? by Abbé Emmanuel Joseph Sieyès",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Called in Jan. 1789",
+      "text": [
+        {
+          "text": "Plans: Vast Institutional Reform",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Cahier des Doléances",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Decision would be binding",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Problems:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Politicized the whole country",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Last Estates General, 1614",
+              "color": "lightgrey"
+            },
+            {
+              "text": "What is the Third Estate? by Abbé Emmanuel Joseph Sieyès",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Meets in May 1789 at Versailles",
+      "text": [
+        {
+          "text": "How to Vote",
+          "color": "lightgrey"
+        },
+        {
+          "text": "A Failed compromise by Louis XVI",
+          "color": "darkslategray"
+        },
+        {
+          "text": "3rd estate: the National Assembly (June 17, 1789)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Meets in May 1789 at Versailles",
+      "text": [
+        {
+          "text": "How to Vote",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Failed compromise by Louis XVI",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3rd estate: the National Assembly (June 17, 1789)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Estates General",
+      "subTitle": "Meets in May 1789 at Versailles",
+      "text": [
+        {
+          "text": "How to Vote",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Failed compromise by Louis XVI",
+          "color": "darkslategray"
+        },
+        {
+          "text": "3rd estate: the National Assembly (June 17, 1789)",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "The Tennis Court Oath",
+      "subTitle": "20 June 1789",
+      "text": [
+        {
+          "text": "A Misunderstanding",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Tennis Court Oath: Constitutional Monarchy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+        "alt": "Painting of Tennis Court Oath",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "The Tennis Court Oath",
+      "subTitle": "20 June 1789",
+      "text": [
+        {
+          "text": "A Misunderstanding",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Tennis Court Oath: Constitutional Monarchy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+        "alt": "Painting of Tennis Court Oath",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "The Tennis Court Oath",
+      "subTitle": "20 June 1789",
+      "text": [
+        {
+          "text": "A Misunderstanding",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Tennis Court Oath: Constitutional Monarchy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Significance",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Le_Serment_du_Jeu_de_paume.jpg",
+        "alt": "Painting of Tennis Court Oath",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "lightgrey"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Storming of the Bastille, 14 July 1789",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "lightgrey"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Storming of the Bastille, 14 July 1789",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Storming of the Bastille, 14 July 1789",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "title": "New Conceptions of State and Society",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Nation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Revolution vs Popular Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "High Tensions in Paris",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Storming of the Bastille, 14 July 1789",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "New Conceptions of State and Society",
+      "text": [
+        {
+          "text": "Aug. 4, 1789: National Assembly eliminates social privileges",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Declarations of Rights of Man and Citizen (1789)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Women's March, October 1789",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "No Image",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "New Conceptions of State and Society",
+      "text": [
+        {
+          "text": "Aug. 4, 1789: National Assembly eliminates social privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Declarations of Rights of Man and Citizen (1789)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Women's March, October 1789",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/FrenchChurchOathConcordat.jpg",
+        "alt": "Members of the clergy taking the oath to the civil constitution.",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "New Conceptions of State and Society",
+      "text": [
+        {
+          "text": "Aug. 4, 1789: National Assembly eliminates social privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Declarations of Rights of Man and Citizen (1789)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Women's March, October 1789",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg",
+        "alt": "Painting of the Declaration of the Rights of Man and Citizen",
+        "description": ""
+      }
+    },
+    {
+      "number": 9.4,
+      "slide": true,
+      "split": true,
+      "title": "New Conceptions of State and Society",
+      "text": [
+        {
+          "text": "Aug. 4, 1789: National Assembly eliminates social privileges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Declarations of Rights of Man and Citizen (1789)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Women's March, October 1789",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil Constitution of the Clergy (1790)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_Versailles%2C_%C3%A0_Versailles_5_octobre_1789_-_Restoration.jpg",
+        "alt": "Members of the clergy taking the oath to the civil constitution.",
+        "description": ""
+      }
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.2,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.3,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 10.4,
+      "slide": true,
+      "centered": true,
+      "title": "Failed Consensus (1790-1791)",
+      "text": [
+        {
+          "text": "Noble Emigrés",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flight to Varennes (June 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constitutional Monarchy Declared: Legislative Assembly (Oct. 1791)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "April 1792, War against Prussia and Austria",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 11.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Radical Revolution (1792-1794)",
+      "text": [
+        {
+          "text": "Universal Revolution & Military Setbacks",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bunswick Manefesto (July 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The National Convention (Sept. 1792)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Universal Male suffrage",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 12.1,
+      "slide": true,
+      "split": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Trial & Execution of Louis XVI (Jan. 1793)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Foreign Invasions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil War: The Vendée (1793-1794)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Execution_of_Louis_XVI.jpg",
+        "alt": "Painting of the execution of Louis XVI.",
+        "description": ""
+      }
+    },
+    {
+      "number": 12.2,
+      "slide": true,
+      "split": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Trial & Execution of Louis XVI (Jan. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Foreign Invasions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Civil War: The Vendée (1793-1794)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "No Image",
+        "description": ""
+      }
+    },
+    {
+      "number": 12.3,
+      "slide": true,
+      "split": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Trial & Execution of Louis XVI (Jan. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Foreign Invasions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Civil War: The Vendée (1793-1794)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vendee-militaire_2.svg",
+        "alt": "Map of the campaigns in the Vendee.",
+        "description": ""
+      }
+    },
+    {
+      "number": 13.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Reign of Terror (1793-1794)",
+      "subTitle": "Part II",
+      "text": [
+        {
+          "text": "The Committee of Public Safety & Maximilien Robespierre",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Reforms: Levée en masse & shock tactics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1794: Military Success",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary Changes:",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Republican Calendar (1793-1805)",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Cult of Reason & Cult of Supreme Being",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "The end of the Terror",
+      "text": [
+        {
+          "text": "Robespierre to the Guillatine, July 1794",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Begin drafting New constitution, July 1794",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg",
+        "alt": "Painting of the execution of Robepierre",
+        "description": ""
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "split": true,
+      "title": "The end of the Terror",
+      "text": [
+        {
+          "text": "Robespierre to the Guillatine, July 1794",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Begin drafting New constitution, July 1794",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Execution_de_Robespierre_full.jpg",
+        "alt": "Painting of the execution of Robepierre",
+        "description": ""
+      }
+    }
+  ]
 }

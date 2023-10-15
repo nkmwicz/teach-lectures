@@ -1,12 +1,1090 @@
 {
   "images": [
-
+    "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5e/Napoleon_in_Coronation_Robes_by_Fran%C3%A7ois_G%C3%A9rard.jpg",
+    "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+    "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+    "https://upload.wikimedia.org/wikipedia/commons/0/05/Map_congress_of_vienna.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "French Revolution",
-    "intro": true,
-    "subTitle": "Part II: Napoleon"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "French Revolution",
+      "intro": true,
+      "subTitle": "Part II: The Directory & Napoleon"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Directory (1795-1799)",
+      "text": [
+        {
+          "text": "New Government",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Property-Based Elections",
+              "color": "lightgray"
+            },
+            {
+              "text": "Legislature chose 5 Directors",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Compulsory Military Service",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Resolves economic crisis",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "By 1799, financial system stabilized",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Suppressed popular violence: only high revolution",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Directory (1795-1799)",
+      "text": [
+        {
+          "text": "New Government",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Property-Based Elections",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Legislature chose 5 Directors",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Compulsory Military Service",
+          "color": "lightgray"
+        },
+        {
+          "text": "Resolves economic crisis",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "By 1799, financial system stabilized",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Suppressed popular violence: only high revolution",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Directory (1795-1799)",
+      "text": [
+        {
+          "text": "New Government",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Property-Based Elections",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Legislature chose 5 Directors",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Compulsory Military Service",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Resolves economic crisis",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "By 1799, financial system stabilized",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Suppressed popular violence: only high revolution",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Directory (1795-1799)",
+      "text": [
+        {
+          "text": "New Government",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Property-Based Elections",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Legislature chose 5 Directors",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Compulsory Military Service",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Resolves economic crisis",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "By 1799, financial system stabilized",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Suppressed popular violence: only high revolution",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "lightgray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "title": "Enter Napoleon Bonaparte (1769-1821)",
+      "split": true,
+      "text": [
+        {
+          "text": "Corsican",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Toulon Campaign (Aug. - Dec. 1793)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Campaign (1795-1797)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Treaty of Campo Formio (1797)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg",
+        "alt": "Painting of Napoleon Bonapart during the Italian Campaign ",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "The Rise of Napolon (1797-1799)",
+      "centered": true,
+      "text": [
+        {
+          "text": "Egyptian Campaign (1798-1799)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Problems at Home",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Resumption of War",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Economic Crisis: Inflation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Coup d'Etat (1799)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Emmanuel-Joseph Sieyès & Napoleon Bonaparte",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "The Rise of Napolon (1797-1799)",
+      "centered": true,
+      "text": [
+        {
+          "text": "Egyptian Campaign (1798-1799)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Problems at Home",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Resumption of War",
+              "color": "lightgray"
+            },
+            {
+              "text": "Economic Crisis: Inflation",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Coup d'Etat (1799)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Emmanuel-Joseph Sieyès & Napoleon Bonaparte",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "The Rise of Napolon (1797-1799)",
+      "centered": true,
+      "text": [
+        {
+          "text": "Egyptian Campaign (1798-1799)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Problems at Home",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Resumption of War",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Economic Crisis: Inflation",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Coup d'Etat (1799)",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Emmanuel-Joseph Sieyès & Napoleon Bonaparte",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "lightgray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "lightgray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "centered": true,
+      "title": "Napoleon & the Consulate (1799-1804)",
+      "text": [
+        {
+          "text": "three legislatures, three consuls",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon = First Consul",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "War with another Coalition",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Marengo (1800) in Italy",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Peace of Amiens (1801)",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Napoleonic Law Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Welcomes back the Church and the Nobles",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "lightgray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Napoleon_in_Coronation_Robes_by_Fran%C3%A7ois_G%C3%A9rard.jpg",
+        "alt": "Painting of Emperor Napoleon in full regalia",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+        "alt": "Map of Napoleonic Europe in 1812",
+        "description": "Napoleonic Europe in 1812"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+        "alt": "Map of Napoleonic Europe in 1812",
+        "description": "Napoleonic Europe in 1812"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
+      "title": "Emperor Napoleon (r. 1804-1815)",
+      "text": [
+        {
+          "text": "Napoleon crowns himself",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Successes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Peninsular War (1808-1814)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Great Britain and Russia",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/66/366-050-BB8A9A3F/extent-Napoleon-I-First-Empire.jpg",
+        "alt": "Map of Napoleonic Europe in 1812",
+        "description": "Napoleonic Europe in 1812"
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "lightgray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "split": true,
+      "title": "French Invasion of Russia (1812)",
+      "text": [
+        {
+          "text": "Napoleon's Grand Army (600,000)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Russian Scorched-Earth Policy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle of Borodino (Sept. 1812)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleon's Retreat (60-70,000 return)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://images.saymedia-content.com/.image/t_share/MTc2NDYyOTg4NDc0NTI0ODg1/napoleons-invasion-of-russia-1812.png",
+        "alt": "Map of Napoleon's invasion of Russia in 1812",
+        "description": "Napoleon's invasion of Russia in 1812"
+      }
+    },
+    {
+      "number": 8.1,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo (1815): not just Napoleon vs Wellington",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "lightgray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo (1815): not just Napoleon vs Wellington",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Battle of Waterloo (1815): not just Napoleon vs Wellington",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8.4,
+      "title": "France Loses",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Wars of German Liberation (1813)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Battle for France",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Napoleon Surrenders (1814)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Exiled to Elba",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Louis XVIII (r. 1814-1824)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Hundred Days",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Battle of Waterloo (1815): not just Napoleon vs Wellington",
+              "color": "lightgray"
+            },
+            {
+              "text": "Napoleon vs Anglo-German-Dutch Army",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution:",
+      "subTitle": "The Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Map_congress_of_vienna.jpg",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution:",
+      "subTitle": "The Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "lightgray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Map_congress_of_vienna.jpg",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution:",
+      "subTitle": "The Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "lightgray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Map_congress_of_vienna.jpg",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    },
+    {
+      "number": 9.4,
+      "slide": true,
+      "split": true,
+      "title": "Impact of French Revolution:",
+      "subTitle": "The Birth of Modernity",
+      "text": [
+        {
+          "text": "Congress of Vienna (1814-1815)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Politics and Liberalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Napoleonic Legal Code",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Map_congress_of_vienna.jpg",
+        "alt": "Map of European borders in 1815",
+        "description": "European borders, 1815"
+      }
+    }
+  ]
 }

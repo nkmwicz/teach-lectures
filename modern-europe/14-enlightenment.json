@@ -1,6 +1,12 @@
 {
   "images": [
-    "https://assets.sutori.com/user-uploads/image/045a51d6-95c5-4f6f-8549-eb28d1ef6fcb/b9c2d83c13e47109c0cb0680dc7871b8.gif", "https://www.quotationof.com/images/john-green-3.jpg"
+    "https://assets.sutori.com/user-uploads/image/045a51d6-95c5-4f6f-8549-eb28d1ef6fcb/b9c2d83c13e47109c0cb0680dc7871b8.gif",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/de/Locke_treatises_of_government_page.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg"
   ],
   "slides": [
     {
@@ -25,7 +31,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Where and how did did the Enlightenment happen?",
+          "text": "Where and how did the Enlightenment happen?",
           "color": "darkslategray"
         },
         {
@@ -50,7 +56,7 @@
           "color": "lightgray"
         },
         {
-          "text": "Where and how did did the Enlightenment happen?",
+          "text": "Where and how did the Enlightenment happen?",
           "color": "darkslategray"
         },
         {
@@ -79,7 +85,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Where and how did did the Enlightenment happen?",
+          "text": "Where and how did the Enlightenment happen?",
           "color": "lightgray"
         },
         {
@@ -104,7 +110,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Where and how did did the Enlightenment happen?",
+          "text": "Where and how did the Enlightenment happen?",
           "color": "darkslategray"
         },
         {
@@ -117,57 +123,294 @@
     {
       "number": 3.1,
       "slide": true,
-      "split": true,
-      "title": "Causes of Enlightenment?",
+      "title": "Renaissance Science",
+      "subTitle": "At Court",
+      "centered": true,
       "text": [
         {
-          "text": "What did John Green say?.",
+          "text": "Rediscovered Classics and Mathematics",
+          "children": [
+            {
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "lightgray"
+            }
+          ],
           "color": "lightgray"
         },
         {
-          "text": "Growing Wealth",
+          "text": "Alchemy",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "transforming nature: lead to gold",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Experimentation",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Astrology",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicolaus Copernicus (1543)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Johannas Kepler (1609)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Galileo Galilei (1610)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Renaissance Science",
+      "subTitle": "At Court",
+      "centered": true,
+      "text": [
+        {
+          "text": "Rediscovered Classics and Mathematics",
+          "children": [
+            {
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "darkslategray"
+            }
+          ],
           "color": "darkslategray"
         },
         {
-          "text": "Growing Cities",
+          "text": "Alchemy",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "transforming nature: lead to gold",
+              "color": "lightgray"
+            },
+            {
+              "text": "Experimentation",
+              "color": "lightgray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Astrology",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Nicolaus Copernicus (1543)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Johannas Kepler (1609)",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Galileo Galilei (1610)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "title": "Renaissance Science",
+      "subTitle": "At Court",
+      "centered": true,
+      "text": [
+        {
+          "text": "Rediscovered Classics and Mathematics",
+          "children": [
+            {
+              "text": "Pythagoras, Plato, Archimedes, Hermes Trismegistus",
+              "color": "darkslategray"
+            }
+          ],
           "color": "darkslategray"
         },
         {
-          "text": "Coffee & Sugar",
+          "text": "Alchemy",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "transforming nature: lead to gold",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Experimentation",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Francis Bacon (1561-1626) and empiricism",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Astrology",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Nicolaus Copernicus (1543)",
+              "color": "lightgray"
+            },
+            {
+              "text": "Johannas Kepler (1609)",
+              "color": "lightgray"
+            },
+            {
+              "text": "Galileo Galilei (1610)",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "split": true,
+      "title": "17th-Century Science",
+      "text": [
+        {
+          "text": "Royal Academies",
+          "color": "lightgray"
+        },
+        {
+          "text": "Republic of Letters",
           "color": "darkslategray"
         },
         {
-          "text": "New Types of Sociability Outside the Court",
+          "text": "Isaac Newton (1687)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Locke (1690)",
           "color": "darkslategray"
         }
       ],
       "image": {
-        "image": "https://www.quotationof.com/images/john-green-3.jpg",
-        "alt": "Image of John Green.",
-        "description": "John Green."
+        "image": "",
+        "alt": "No Image",
+        "description": ""
       }
     },
     {
-      "number": 4.1,
+      "number": 4,
       "slide": true,
       "split": true,
-      "title": "The Traditional History of the Enlightenment: Ideas",
+      "title": "17th-Century Science",
       "text": [
         {
-          "text": "Application of Sci. Rev. to Society",
+          "text": "Royal Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Republic of Letters",
           "color": "lightgray"
         },
         {
-          "text": "Philosophes",
+          "text": "Isaac Newton (1687)",
           "color": "darkslategray"
         },
         {
-          "text": "Secular Reasoning",
+          "text": "John Locke (1690)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "No Image",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "17th-Century Science",
+      "text": [
+        {
+          "text": "Royal Academies",
           "color": "darkslategray"
         },
+        {
+          "text": "Republic of Letters",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Isaac Newton (1687)",
+          "color": "lightgray"
+        },
+        {
+          "text": "John Locke (1690)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Prinicipia-title.png",
+        "alt": "Image of Newton's Mathematical Principles of Natural Philosophy.",
+        "description": "Newton's Mathematical Principles of Natural Philosophy"
+      }
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "split": true,
+      "title": "17th-Century Science",
+      "text": [
+        {
+          "text": "Royal Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Republic of Letters",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Isaac Newton (1687)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Locke (1690)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Locke_treatises_of_government_page.jpg",
+        "alt": "Image of John Locke's Treatises of Government.",
+        "description": "John Locke's Treatises on Government."
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "The Enlightenment",
+      "subTitle": "The Philosophes",
+      "text": [
         {
           "text": "Charles Louis de Montesquieu (1689-1755)",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "François-Marie Arouet (Voltaire) (1694-1778)",
@@ -183,10 +426,367 @@
         }
       ],
       "image": {
-        "image": "https://www.quotationof.com/images/john-green-3.jpg",
-        "alt": "Image of John Green.",
-        "description": "John Green."
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg",
+        "alt": "Image of Montesquieu.",
+        "description": ""
       }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "The Enlightenment",
+      "subTitle": "The Philosophes",
+      "text": [
+        {
+          "text": "Charles Louis de Montesquieu (1689-1755)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "François-Marie Arouet (Voltaire) (1694-1778)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Denis Diderot (1713-1784)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Jacques Rousseau (1712-1778)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5.jpg",
+        "alt": "Image of Voltaire.",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "split": true,
+      "title": "The Enlightenment",
+      "subTitle": "The Philosophes",
+      "text": [
+        {
+          "text": "Charles Louis de Montesquieu (1689-1755)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "François-Marie Arouet (Voltaire) (1694-1778)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Denis Diderot (1713-1784)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jean-Jacques Rousseau (1712-1778)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+        "alt": "Image of Denis Diderot's Encyclopedie.",
+        "description": "Denis Diderot's Encyclopedie"
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "split": true,
+      "title": "The Enlightenment",
+      "subTitle": "The Philosophes",
+      "text": [
+        {
+          "text": "Charles Louis de Montesquieu (1689-1755)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "François-Marie Arouet (Voltaire) (1694-1778)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Denis Diderot (1713-1784)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jean-Jacques Rousseau (1712-1778)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+        "alt": "Image of Jean-Jacques Rousseau.",
+        "description": ""
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
+      "text": [
+        {
+          "text": "Coffee & Sugar",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing Wealth",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Cities",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
+      "text": [
+        {
+          "text": "Coffee & Sugar",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Wealth",
+          "color": "lightgray"
+        },
+        {
+          "text": "Growing Cities",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "The economy",
+      "text": [
+        {
+          "text": "Coffee & Sugar",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Wealth",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growing Cities",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "split": true,
+      "title": "Enlightenment",
+      "subTitle": "Invention of Race",
+      "text": [
+        {
+          "text": "Montesquieu",
+          "color": "lightgray"
+        },
+        {
+          "text": "David Hume (1753)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg",
+        "alt": "Image of Montesquieu.",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "split": true,
+      "title": "Enlightenment",
+      "subTitle": "Invention of Race",
+      "text": [
+        {
+          "text": "Montesquieu",
+          "color": "darkslategray"
+        },
+        {
+          "text": "David Hume (1753)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg",
+        "alt": "Image of Hume.",
+        "description": ""
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "lightgray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "lightgray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "lightgray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "centered": true,
+      "title": "Causes of Enlightenment?",
+      "subTitle": "New Patterns of Sociability",
+      "text": [
+        {
+          "text": "Royal and Regional Academies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salons and Salonnières",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Masonic Lodges",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coffeehouses",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "lightgray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Causes Celèbres",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "lightgray"
+        },
+        {
+          "text": "Causes Celèbres",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Public Sphere",
+      "text": [
+        {
+          "text": "Printing Explodes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grub Street authors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Causes Celèbres",
+          "color": "lightgray"
+        }
+      ]
     }
   ]
 }

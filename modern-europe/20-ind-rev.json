@@ -1,5 +1,8 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -49,7 +52,7 @@
       "rightText": "A transformation in society due to new technologies surrounding textiles, coal fired steam engines, and factories."
     },
     {
-      "number": 3,
+      "number": 3.2,
       "slide": true,
       "splitText": true,
       "title": "The Industrial Revolution, 1760s-1860s",
@@ -70,7 +73,7 @@
       "rightText": "United Kingdom"
     },
     {
-      "number": 3,
+      "number": 3.3,
       "slide": true,
       "splitText": true,
       "title": "The Industrial Revolution, 1760s-1860s",
@@ -85,10 +88,200 @@
         },
         {
           "text": "Why did it start?",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "rightText": "Coal & Wages"
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Changes in Agriculture",
+      "subTitle": "17th & 18th centuries",
+      "split": true,
+      "text": [
+        {
+          "text": "Capital-Intense Agriculture",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Enclosure of the Commons",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Tenancy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Contract Lengths",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
+        "alt": "Three field system and the commons",
+        "description": "Three field system and the Commons"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "Changes in Agriculture",
+      "subTitle": "17th & 18th centuries",
+      "split": true,
+      "text": [
+        {
+          "text": "Capital-Intense Agriculture",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Enclosure of the Commons",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Shrinking Tenancy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Contract Lengths",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
+        "alt": "Three field system and the commons",
+        "description": "Three field system and the Commons"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "Changes in Agriculture",
+      "subTitle": "17th & 18th centuries",
+      "split": true,
+      "text": [
+        {
+          "text": "Capital-Intense Agriculture",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Enclosure of the Commons",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Tenancy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Shrinking Contract Lengths",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
+        "alt": "Three field system and the commons",
+        "description": "Three field system and the Commons"
+      }
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "title": "Changes in Agriculture",
+      "subTitle": "17th & 18th centuries",
+      "split": true,
+      "text": [
+        {
+          "text": "Capital-Intense Agriculture",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Enclosure of the Commons",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Tenancy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Shrinking Contract Lengths",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
+        "alt": "Three field system and the commons",
+        "description": "Three field system and the Commons"
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Outcome of Agricultural Changes",
+      "text": [
+        {
+          "text": "Pushing agricultural workers out of the countryside.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "First Area of Mechanization:",
+      "subTitle": "Textiles",
+      "text": [
+        {
+          "text": "Spinning and the Putting out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flying Shuttle (1733)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spinning Jenny (1765)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Waterframe (1765)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "First Area of Mechanization:",
+      "subTitle": "Textiles",
+      "text": [
+        {
+          "text": "Spinning and the Putting out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flying Shuttle (1733)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spinning Jenny (1765)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Waterframe (1765)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg",
+        "alt": "Flying Shuttle",
+        "description": "Flying Shuttle"
+      }
     }
   ]
 }

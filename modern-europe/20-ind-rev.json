@@ -1,7 +1,9 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
-    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/Spinning_jenny.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/04/Waterframe.jpg"
   ],
   "slides": [
     {
@@ -228,13 +230,13 @@
     {
       "number": 6,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "First Area of Mechanization:",
       "subTitle": "Textiles",
       "text": [
         {
-          "text": "Spinning and the Putting out System",
-          "color": "darkslategray"
+          "text": "Putting out System",
+          "color": "lightgrey"
         },
         {
           "text": "Flying Shuttle (1733)",
@@ -245,7 +247,7 @@
           "color": "darkslategray"
         },
         {
-          "text": "Waterframe (1765)",
+          "text": "Waterframe (1769)",
           "color": "darkslategray"
         }
       ],
@@ -254,9 +256,69 @@
       }
     },
     {
-      "number": 6,
+      "number": 6.2,
       "slide": true,
-      "centered": true,
+      "split": true,
+      "title": "First Area of Mechanization:",
+      "subTitle": "Textiles",
+      "text": [
+        {
+          "text": "Spinning and the Putting out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flying Shuttle (1733)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Spinning Jenny (1765)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Waterframe (1769)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg",
+        "alt": "Flying Shuttle",
+        "description": "Flying Shuttle"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "First Area of Mechanization:",
+      "subTitle": "Textiles",
+      "text": [
+        {
+          "text": "Spinning and the Putting out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Flying Shuttle (1733)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Spinning Jenny (1765)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Waterframe (1769)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spinning_jenny.jpg",
+        "alt": "Spinning Jenny",
+        "description": "Spinning Jenny"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
       "title": "First Area of Mechanization:",
       "subTitle": "Textiles",
       "text": [
@@ -273,14 +335,14 @@
           "color": "darkslategray"
         },
         {
-          "text": "Waterframe (1765)",
-          "color": "darkslategray"
+          "text": "Waterframe (1769)",
+          "color": "lightgrey"
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg",
-        "alt": "Flying Shuttle",
-        "description": "Flying Shuttle"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Waterframe.jpg",
+        "alt": "Water Frame",
+        "description": "Water Frame"
       }
     }
   ]

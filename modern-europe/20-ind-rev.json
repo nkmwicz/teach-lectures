@@ -530,6 +530,131 @@
         "alt": "Illustration of an early train in 1825",
         "description": ""
       }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "title": "Major Changes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Urbanization",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "1850: 50% of population in cities",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Growing Middle Class",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "The Professional Classes: from doctors and lawyers to small and very large business owners",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Growing Working Class",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Generally unpropertied: 3/4 of deaths in Paris left nothing to heirs",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "title": "Major Changes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Urbanization",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "1850: 50% of population in cities",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Growing Middle Class",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "The Professional Classes: from doctors and lawyers to small and very large business owners",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Growing Working Class",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Generally unpropertied: 3/4 of deaths in Paris left nothing to heirs",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "title": "Major Changes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Urbanization",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "1850: 50% of population in cities",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Growing Middle Class",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "The Professional Classes: from doctors and lawyers to small and very large business owners",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Growing Working Class",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Generally unpropertied: 3/4 of deaths in Paris left nothing to heirs",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "Next Week:",
+      "text": [
+        {
+          "text": "New Work and Political Patterns"
+        }
+      ]
     }
   ]
 }

@@ -223,7 +223,7 @@
       "text": [
         {
           "text": "Pushing agricultural workers out of the countryside.",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },
@@ -252,7 +252,8 @@
         }
       ],
       "image": {
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/William-adolphe_bouguereau_the_spinner.jpg",
+        "alt": "Paintin of a spinner holding her raw yarn"
       }
     },
     {

@@ -28,6 +28,48 @@
       ]
     },
     {
+      "number": 3.1,
+      "slide": true,
+      "splitText": true,
+      "title": "The Industrial Revolution, 1760s-1860s",
+      "text": [
+        {
+          "text": "What was it?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Where did it start?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Why did it start?",
+          "color": "darkslategray"
+        }
+      ],
+      "rightText": "A transformation in society due to new technologies surrounding textiles, coal fired steam engines, and factories."
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "splitText": true,
+      "title": "The Industrial Revolution, 1760s-1860s",
+      "text": [
+        {
+          "text": "What was it?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where did it start?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Why did it start?",
+          "color": "darkslategray"
+        }
+      ],
+      "rightText": "United Kingdom"
+    },
+    {
       "number": 3,
       "slide": true,
       "splitText": true,
@@ -46,7 +88,7 @@
           "color": "darkslategray"
         }
       ],
-      "rightText": "Something"
+      "rightText": "Coal & Wages"
     }
   ]
 }

@@ -3,7 +3,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/f/f5/Three_Field_System.svg",
     "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fsch%C3%B6nau_-_muzeum_dama%C5%A1kov%C3%A9_a_smy%C4%8Dkov%C3%A9_tkaniny_7787.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/8/87/Spinning_jenny.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/0/04/Waterframe.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/0/04/Waterframe.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/16/Newcomen_atmospheric_engine_animation.gif"
   ],
   "slides": [
     {
@@ -344,6 +345,186 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Waterframe.jpg",
         "alt": "Water Frame",
         "description": "Water Frame"
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Textile Outcomes",
+      "text": [
+        {
+          "text": "Creation of centralized manufacturing: Factories",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Putting out system destroyed",
+          "color": "darkslategray"
+        },
+        {
+          "text": "More pressure on countryside",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Textile Outcomes",
+      "text": [
+        {
+          "text": "Creation of centralized manufacturing: Factories",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Putting out system destroyed",
+          "color": "lightgrey"
+        },
+        {
+          "text": "More pressure on countryside",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "centered": true,
+      "title": "Textile Outcomes",
+      "text": [
+        {
+          "text": "Creation of centralized manufacturing: Factories",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Putting out system destroyed",
+          "color": "lightgrey"
+        },
+        {
+          "text": "More pressure on countryside",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Coal & Steam",
+      "subTitle": "A Transportation Revolution",
+      "text": [
+        {
+          "text": "Newcomen Steam Engine (1712)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "James Watt Steam Engine (1765 / 1776)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Steamships (1816)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coal & Passenger Trains (1820 & 1830)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Newcomen_atmospheric_engine_animation.gif",
+        "alt": "Gif of Newcomane steam engine",
+        "description": ""
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Coal & Steam",
+      "subTitle": "A Transportation Revolution",
+      "text": [
+        {
+          "text": "Newcomen Steam Engine (1712)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "James Watt Steam Engine (1765 / 1776)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Steamships (1816)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coal & Passenger Trains (1820 & 1830)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Newcomen_atmospheric_engine_animation.gif",
+        "alt": "Watt Steam Engine",
+        "description": "Watt Steam engine"
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "Coal & Steam",
+      "subTitle": "A Transportation Revolution",
+      "text": [
+        {
+          "text": "Newcomen Steam Engine (1712)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "James Watt Steam Engine (1765 / 1776)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Steamships (1816)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Coal & Passenger Trains (1820 & 1830)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/SS_Great_Britain_by_Talbot.jpg",
+        "alt": "Photo of the SS Great Britain: a Steam Ship",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "Coal & Steam",
+      "subTitle": "A Transportation Revolution",
+      "text": [
+        {
+          "text": "Newcomen Steam Engine (1712)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "James Watt Steam Engine (1765 / 1776)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Steamships (1816)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Coal & Passenger Trains (1820 & 1830)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stockton_%26_Darlington_Railway_%28Brown_via_Getty_Images%29.jpg",
+        "alt": "Illustration of an early train in 1825",
+        "description": ""
       }
     }
   ]

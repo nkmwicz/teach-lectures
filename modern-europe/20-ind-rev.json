@@ -18,7 +18,47 @@
       "title": "The Industrial Revolution"
     },
     {
-      "number": 2,
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Industrial Revolution, 1760s-1860s",
+      "text": [
+        {
+          "text": "What do you think it was?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Where did it start?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Why did it start?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Industrial Revolution, 1760s-1860s",
+      "text": [
+        {
+          "text": "What do you think it was?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where did it start?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Why did it start?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
       "slide": true,
       "centered": true,
       "title": "The Industrial Revolution, 1760s-1860s",
@@ -33,7 +73,7 @@
         },
         {
           "text": "Why did it start?",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

@@ -9,7 +9,47 @@
       "subTitle": "Lifestyles & Economic Theories"
     },
     {
-      "number": 2,
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "Working-Class Lifestyles",
+      "text": [
+        {
+          "text": "Agricultural Work: Men & Women",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Mining",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Time, Work-Discipline",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "Working-Class Lifestyles",
+      "text": [
+        {
+          "text": "Agricultural Work: Men & Women",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mining",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Time, Work-Discipline",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
       "slide": true,
       "centered": true,
       "title": "Working-Class Lifestyles",
@@ -24,27 +64,34 @@
         },
         {
           "text": "Time, Work-Discipline",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Life in the cities",
+      "text": [
+        {
+          "text": "Women's Work & Men's Work",
           "color": "darkslategray"
         },
         {
-          "text": "Life in the cities",
-          "color": "darkslategray",
-          "children": [
-            {
-              "text": "Women's Work & Men's Work",
-              "color": "darkslategray"
-            },
-            {
-              "text": "Housing",
-              "color": "darkslategray"
-            },
-            {
-              "text": "Sanitation",
-              "color": "darkslategray"
-            }
-          ]
+          "text": "Housing",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sanitation",
+          "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
     },
     {
       "number": 3,
@@ -81,6 +128,103 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {}
   ]
 }

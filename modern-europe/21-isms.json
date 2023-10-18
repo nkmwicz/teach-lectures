@@ -503,6 +503,129 @@
           ]
         }
       ]
+    },
+    {
+      "number": 7.1,
+      "centered": true,
+      "title": "Origins of Socialism",
+      "text": [
+        {
+          "text": "Fundamental Problem:",
+          "color": " lightgrey",
+          "children": [
+            {
+              "text": "People Still going hungry, despite more food than ever.",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Argued that humans were inherently socially cooperative creatures",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Utopian Socialists",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Tried Creating New Alternative Societies ",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Karl Marx (1818-1883) & Frederich Engels (1820-1895)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Communist Manifesto (1848)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "centered": true,
+      "title": "Origins of Socialism",
+      "text": [
+        {
+          "text": "Fundamental Problem:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "People Still going hungry, despite more food than ever.",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Argued that humans were inherently socially cooperative creatures",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Utopian Socialists",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Tried Creating New Alternative Societies ",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Karl Marx (1818-1883) & Frederich Engels (1820-1895)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Communist Manifesto (1848)",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "centered": true,
+      "title": "Origins of Socialism",
+      "text": [
+        {
+          "text": "Fundamental Problem:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "People Still going hungry, despite more food than ever.",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Argued that humans were inherently socially cooperative creatures",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Utopian Socialists",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Tried Creating New Alternative Societies ",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Karl Marx (1818-1883) & Frederich Engels (1820-1895)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Communist Manifesto (1848)",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

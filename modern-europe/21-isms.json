@@ -321,6 +321,188 @@
         }
       ]
     },
-    {}
+    {
+      "number": 6.1,
+      "centered": true,
+      "title": "Liberal Legislation in 1830s",
+      "text": [
+        {
+          "text": "Reform Act (1832)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Reforms Electoral System: reduced property requirements",
+              "color": "lightgrey"
+            },
+            {
+              "text": "~200,000 => ~400,000 voters",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Working classes excluded",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Poor Law Amendment Act (1834)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Previous system: Out-relief",
+              "color": "darkslategray"
+            },
+            {
+              "text": "New System: Workhouse with bad conditions.",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Philosophy: Prevent Laziness",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Factory Act (1833)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "9-13 y.o. < 9 hr/day",
+              "color": "darkslategray"
+            },
+            {
+              "text": "13-18 y.o. < 12 hr/day",
+              "color": "darkslategray"
+            },
+            {
+              "text": "2 hrs education / day",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "centered": true,
+      "title": "Liberal Legislation in 1830s",
+      "text": [
+        {
+          "text": "Reform Act (1832)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Reforms Electoral System: reduced property requirements",
+              "color": "darkslategray"
+            },
+            {
+              "text": "~200,000 => ~400,000 voters",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Working classes excluded",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Poor Law Amendment Act (1834)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Previous system: Out-relief",
+              "color": "lightgrey"
+            },
+            {
+              "text": "New System: Workhouse with bad conditions.",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Philosophy: Prevent Laziness",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Factory Act (1833)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "9-13 y.o. < 9 hr/day",
+              "color": "darkslategray"
+            },
+            {
+              "text": "13-18 y.o. < 12 hr/day",
+              "color": "darkslategray"
+            },
+            {
+              "text": "2 hrs education / day",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "centered": true,
+      "title": "Liberal Legislation in 1830s",
+      "text": [
+        {
+          "text": "Reform Act (1832)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Reforms Electoral System: reduced property requirements",
+              "color": "darkslategray"
+            },
+            {
+              "text": "~200,000 => ~400,000 voters",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Working classes excluded",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Poor Law Amendment Act (1834)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Previous system: Out-relief",
+              "color": "darkslategray"
+            },
+            {
+              "text": "New System: Workhouse with bad conditions.",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Philosophy: Prevent Laziness",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Factory Act (1833)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "9-13 y.o. < 9 hr/day",
+              "color": "lightgrey"
+            },
+            {
+              "text": "13-18 y.o. < 12 hr/day",
+              "color": "lightgrey"
+            },
+            {
+              "text": "2 hrs education / day",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

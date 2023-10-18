@@ -1,6 +1,9 @@
 {
   "images": [
-    "https://visitvictorianengland.files.wordpress.com/2014/12/c8523-maid2bof2ball2bwork2b-2bliving2blondon.jpg"
+    "https://visitvictorianengland.files.wordpress.com/2014/12/c8523-maid2bof2ball2bwork2b-2bliving2blondon.jpg",
+    "https://prehistoryages.weebly.com/uploads/4/0/6/2/40621361/3998354_orig.jpg",
+    "https://media.immediate.co.uk/volatile/sites/7/2017/04/GettyImages-3293245-28c3f62.jpg",
+    "http://downloads.bbc.co.uk/rmhttp/schools/primaryhistory/images/victorian_britain/children_in_factories/v_children_in_darton.jpg"
   ],
   "slides": [
     {
@@ -85,22 +88,109 @@
           "color": "darkslategray"
         },
         {
-          "text": "Housing",
+          "text": "Children's Work",
           "color": "darkslategray"
         },
         {
-          "text": "Sanitation",
+          "text": "Housing & Sanitation",
           "color": "darkslategray"
         }
       ],
       "image": {
         "image": "https://visitvictorianengland.files.wordpress.com/2014/12/c8523-maid2bof2ball2bwork2b-2bliving2blondon.jpg",
         "alt": "19th century maid in London",
+        "description": "Female Domestic Service"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Life in the cities",
+      "text": [
+        {
+          "text": "Women's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Men's Work",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Children's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Housing & Sanitation",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://prehistoryages.weebly.com/uploads/4/0/6/2/40621361/3998354_orig.jpg",
+        "alt": "19th century maid in London",
         "description": "Maids"
       }
     },
     {
-      "number": 3,
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Life in the cities",
+      "text": [
+        {
+          "text": "Women's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Men's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Children's Work",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Housing & Sanitation",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "http://downloads.bbc.co.uk/rmhttp/schools/primaryhistory/images/victorian_britain/children_in_factories/v_children_in_darton.jpg",
+        "alt": "Drawing of children in Factories",
+        "description": "Children's factory work"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split": true,
+      "title": "Life in the cities",
+      "text": [
+        {
+          "text": "Women's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Men's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Children's Work",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Housing & Sanitation",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://media.immediate.co.uk/volatile/sites/7/2017/04/GettyImages-3293245-28c3f62.jpg",
+        "alt": "image of the slums in industrial London.",
+        "description": "London Slums"
+      }
+    },
+    {
+      "number": 4,
       "slide": true,
       "centered": true,
       "title": "Life Expectancies: Countryside vs Cities",
@@ -136,7 +226,7 @@
       ]
     },
     {
-      "number": 4.1,
+      "number": 5.1,
       "slide": true,
       "centered": true,
       "title": "Middle Class Philosophy",
@@ -160,7 +250,7 @@
       ]
     },
     {
-      "number": 4.2,
+      "number": 5.2,
       "slide": true,
       "centered": true,
       "title": "Middle Class Philosophy",
@@ -184,7 +274,7 @@
       ]
     },
     {
-      "number": 4.3,
+      "number": 5.3,
       "slide": true,
       "centered": true,
       "title": "Middle Class Philosophy",
@@ -208,7 +298,7 @@
       ]
     },
     {
-      "number": 4.4,
+      "number": 5.4,
       "slide": true,
       "centered": true,
       "title": "Middle Class Philosophy",

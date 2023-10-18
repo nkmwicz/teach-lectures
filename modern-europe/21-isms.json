@@ -1,5 +1,7 @@
 {
-  "images": [],
+  "images": [
+    "https://visitvictorianengland.files.wordpress.com/2014/12/c8523-maid2bof2ball2bwork2b-2bliving2blondon.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -75,7 +77,11 @@
       "title": "Life in the cities",
       "text": [
         {
-          "text": "Women's Work & Men's Work",
+          "text": "Women's Work",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Men's Work",
           "color": "darkslategray"
         },
         {
@@ -88,9 +94,9 @@
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://visitvictorianengland.files.wordpress.com/2014/12/c8523-maid2bof2ball2bwork2b-2bliving2blondon.jpg",
+        "alt": "19th century maid in London",
+        "description": "Maids"
       }
     },
     {

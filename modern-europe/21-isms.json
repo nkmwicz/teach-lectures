@@ -1,12 +1,86 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "The Age of Isms",
-    "intro": true,
-    "subTitle": "New Theories of the Economy"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Consequences of Industrialization",
+      "intro": true,
+      "subTitle": "Lifestyles & Economic Theories"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Working-Class Lifestyles",
+      "text": [
+        {
+          "text": "Agricultural Work: Men & Women",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mining",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Time, Work-Discipline",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Life in the cities",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Women's Work & Men's Work",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Housing",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Sanitation",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "Life Expectancies: Countryside vs Cities",
+      "text": [
+        {
+          "text": "Countryside",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Labrorer in Rottland: 38",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Middle Class Neighbor: 52",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Cities",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Manchester Laborer: 17",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Manchester Middle Class: 38",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

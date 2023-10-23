@@ -1,5 +1,7 @@
 {
-  "images": [],
+  "images": [
+    "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg"
+  ],
   "slides": [
     {
       "number": 1,
@@ -47,7 +49,7 @@
     {
       "number": 4,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Causes: Part I",
       "subTitle": "Congress of Vienna",
       "text": [
@@ -63,45 +65,84 @@
           "text": "Multi-Ethnic Empires",
           "color": "darkslategray"
         }
-      ],
-      "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
-      }
+      ]
     },
     {
       "number": 5,
       "slide": true,
       "split": true,
       "title": "Causes: Part II",
-      "subTitle": "Nationalism"
-    },
-    {
-      "number": 6,
-      "slide": true,
-      "split": true,
-      "title": "Causes: Part III",
-      "subTitle": "Political Activism",
+      "subTitle": "Nationalism",
       "text": [
         {
-          "text": "Nationalism",
+          "text": "German Confederation & Nationalism",
           "color": "darkslategray"
         },
         {
-          "text": "Nationalism",
+          "text": "Italian Nationalism",
           "color": "darkslategray"
         },
         {
-          "text": "Nationalism",
+          "text": "Austrian Empire",
           "color": "darkslategray"
         }
       ],
       "image": {
-        "image": "",
-        "alt": "",
-        "description": ""
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Map of Europe in 1815"
       }
-    }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part III",
+      "subTitle": "Political Activism",
+      "text": [
+        {
+          "text": "Growth in Reading public",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in political clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Demands for liberal freedoms: Press, demonstration, etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Much to complain about.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part IV",
+      "subTitle": "The Hungry Forties",
+      "text": [
+        {
+          "text": "Industrial City life in Europe",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Real wages dropping in in 1830s and 1840s.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Economic downturn in 1842",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bad Harvests in 1845 & 1846: Potatoes and Wheat",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {}
   ]
 }

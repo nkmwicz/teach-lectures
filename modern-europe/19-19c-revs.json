@@ -1,6 +1,14 @@
 {
   "images": [
-    "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg"
+    "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+    "https://www.worldeasyguides.com/wp-content/uploads/2012/08/Palermo-on-Map-of-Italy.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ritratto_di_S.M._Carlo_Alberto_di_Savoia.png",
+    "https://upload.wikimedia.org/wikipedia/commons/7/71/Sir_George_Hayter_%281792-1871%29_-_Frederick_William_IV%2C_King_of_Prussia_%281795-1861%29_-_RCIN_406221_-_Royal_Collection.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/86/Barricades_rue_Saint-Maur._Avant_l%27attaque%2C_25_juin_1848._Apr%C3%A8s_l%E2%80%99attaque%2C_26_juin_1848_%28Original%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/cd/Int%C3%A9rieur_de_la_salle_de_l%27Assembl%C3%A9e_nationale_1848.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9d/Guizot%2C_Fran%C3%A7ois_-_2.jpg"
   ],
   "slides": [
     {
@@ -18,10 +26,66 @@
       "text": [
         {
           "text": "What were they?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Where were they?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "1848 Revolutions",
+      "text": [
+        {
+          "text": "What were they?",
           "color": "darkslategray"
         },
         {
           "text": "Where were they?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "1848 Revolutions",
+      "text": [
+        {
+          "text": "Revolutions against Absolutist Monarchies",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Revolution for Constitutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolution for freedom of Press and Demonstration",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "1848 Revolutions",
+      "text": [
+        {
+          "text": "Revolutions against Absolutist Monarchies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolution for Constitutions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Revolution for freedom of Press and Demonstration",
           "color": "darkslategray"
         }
       ]
@@ -42,6 +106,48 @@
         },
         {
           "text": "Revolution for freedom of Press and Demonstration",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part I",
+      "subTitle": "Congress of Vienna",
+      "text": [
+        {
+          "text": "Weak French Monarchy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Absolutist Monarchies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Multi-Ethnic Empires",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part I",
+      "subTitle": "Congress of Vienna",
+      "text": [
+        {
+          "text": "Weak French Monarchy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Absolutist Monarchies",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Multi-Ethnic Empires",
           "color": "darkslategray"
         }
       ]
@@ -63,9 +169,61 @@
         },
         {
           "text": "Multi-Ethnic Empires",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Causes: Part II",
+      "subTitle": "Nationalism",
+      "text": [
+        {
+          "text": "German Confederation & Nationalism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Italian Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austrian Empire",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Map of Europe in 1815"
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Causes: Part II",
+      "subTitle": "Nationalism",
+      "text": [
+        {
+          "text": "German Confederation & Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Italian Nationalism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Austrian Empire",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Map of Europe in 1815"
+      }
     },
     {
       "number": 5,
@@ -84,7 +242,7 @@
         },
         {
           "text": "Austrian Empire",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -92,6 +250,81 @@
         "alt": "Map of Europe in 1815",
         "description": "Map of Europe in 1815"
       }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part III",
+      "subTitle": "Political Activism",
+      "text": [
+        {
+          "text": "Growth in Reading public",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Growth in political clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Demands for liberal freedoms: Press, demonstration, etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Much to complain about.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part III",
+      "subTitle": "Political Activism",
+      "text": [
+        {
+          "text": "Growth in Reading public",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in political clubs",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Demands for liberal freedoms: Press, demonstration, etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Much to complain about.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part III",
+      "subTitle": "Political Activism",
+      "text": [
+        {
+          "text": "Growth in Reading public",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Growth in political clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Demands for liberal freedoms: Press, demonstration, etc.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Much to complain about.",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
       "number": 6,
@@ -114,6 +347,81 @@
         },
         {
           "text": "Much to complain about.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part IV",
+      "subTitle": "The Hungry Forties",
+      "text": [
+        {
+          "text": "Industrial City life in Europe",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Real wages dropping in in 1830s and 1840s.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Economic downturn in 1842",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bad Harvests in 1845 & 1846: Potatoes and Wheat",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part IV",
+      "subTitle": "The Hungry Forties",
+      "text": [
+        {
+          "text": "Industrial City life in Europe",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Real wages dropping in in 1830s and 1840s.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Economic downturn in 1842",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bad Harvests in 1845 & 1846: Potatoes and Wheat",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Causes: Part IV",
+      "subTitle": "The Hungry Forties",
+      "text": [
+        {
+          "text": "Industrial City life in Europe",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Real wages dropping in in 1830s and 1840s.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Economic downturn in 1842",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Bad Harvests in 1845 & 1846: Potatoes and Wheat",
           "color": "darkslategray"
         }
       ]
@@ -139,10 +447,741 @@
         },
         {
           "text": "Bad Harvests in 1845 & 1846: Potatoes and Wheat",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "France in the Beginning",
+      "text": [
+        {
+          "text": "King Louis-Philippe I (r. 1830-1848)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Banquet against Chief Minister François Guizot (22 Feb. 1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd Republic (24 Feb. 1848-1852)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "June Days 1848",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "France in the Beginning",
+      "text": [
+        {
+          "text": "King Louis-Philippe I (r. 1830-1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banquet against Chief Minister François Guizot (22 Feb. 1848)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "2nd Republic (24 Feb. 1848-1852)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "June Days 1848",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Guizot%2C_Fran%C3%A7ois_-_2.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "France in the Beginning",
+      "text": [
+        {
+          "text": "King Louis-Philippe I (r. 1830-1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banquet against Chief Minister François Guizot (22 Feb. 1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd Republic (24 Feb. 1848-1852)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "June Days 1848",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Int%C3%A9rieur_de_la_salle_de_l%27Assembl%C3%A9e_nationale_1848.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "France in the Beginning",
+      "text": [
+        {
+          "text": "King Louis-Philippe I (r. 1830-1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Banquet against Chief Minister François Guizot (22 Feb. 1848)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd Republic (24 Feb. 1848-1852)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "June Days 1848",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Barricades_rue_Saint-Maur._Avant_l%27attaque%2C_25_juin_1848._Apr%C3%A8s_l%E2%80%99attaque%2C_26_juin_1848_%28Original%29.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolution:",
+      "subTitle": "France Fails",
+      "text": [
+        {
+          "text": "President Louis-Napoleon Bonaparte (Dec. 1848-1852)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "President for Life",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Emperor Napoleon III (r. 1852-1870)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolution:",
+      "subTitle": "France Fails",
+      "text": [
+        {
+          "text": "President Louis-Napoleon Bonaparte (Dec. 1848-1852)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "President for Life",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Emperor Napoleon III (r. 1852-1870)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolution:",
+      "subTitle": "France Fails",
+      "text": [
+        {
+          "text": "President Louis-Napoleon Bonaparte (Dec. 1848-1852)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "President for Life",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Emperor Napoleon III (r. 1852-1870)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/1841_portrait_painting_of_Louis_Philippe_I_%28King_of_the_French%29_by_Winterhalter.jpg",
+        "alt": "Painting of King Louis Philippe I",
+        "description": ""
+      }
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy in the beginning",
+      "text": [
+        {
+          "text": "Palermo, 12 January 1848",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Sought a Constitution and lower Taxes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constintutional Monarchies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy in the beginning",
+      "text": [
+        {
+          "text": "Palermo, 12 January 1848",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sought a Constitution and lower Taxes",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Constintutional Monarchies",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy in the beginning",
+      "text": [
+        {
+          "text": "Palermo, 12 January 1848",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sought a Constitution and lower Taxes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Constintutional Monarchies",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy Fails",
+      "text": [
+        {
+          "text": "Lombardy and Venetia declare independence",
+          "color": "lightgrey"
+        },
+        {
+          "text": "King Carlo-Alberto (Piedmont-Sardinia), in 1848",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austria Crushes the Italian Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis-Napoleon Bonaparte (1849)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 11.2,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy Fails",
+      "text": [
+        {
+          "text": "Lombardy and Venetia declare independence",
+          "color": "darkslategray"
+        },
+        {
+          "text": "King Carlo-Alberto (Piedmont-Sardinia), in 1848",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Austria Crushes the Italian Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis-Napoleon Bonaparte (1849)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ritratto_di_S.M._Carlo_Alberto_di_Savoia.png",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy Fails",
+      "text": [
+        {
+          "text": "Lombardy and Venetia declare independence",
+          "color": "darkslategray"
+        },
+        {
+          "text": "King Carlo-Alberto (Piedmont-Sardinia), in 1848",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austria Crushes the Italian Revolutions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Louis-Napoleon Bonaparte (1849)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ritratto_di_S.M._Carlo_Alberto_di_Savoia.png",
+        "alt": "Map of Europe in 1815",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 11.4,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Italy Fails",
+      "text": [
+        {
+          "text": "Lombardy and Venetia declare independence",
+          "color": "darkslategray"
+        },
+        {
+          "text": "King Carlo-Alberto (Piedmont-Sardinia), in 1848",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austria Crushes the Italian Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Louis-Napoleon Bonaparte (1849)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg",
+        "alt": "Painting of Louis-Napoleon Bonaparte",
+        "description": ""
+      }
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Germany Lands",
+      "text": [
+        {
+          "text": "King Friedrich Wilhelm IV (r. 1840-1861)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Grants Constitutional Monarchy and legislative assembly",
+          "color": "darkslategray"
+        },
+        {
+          "text": "German Confederation elects him King of unified Germany, March 1849",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A crown from the gutter",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sir_George_Hayter_%281792-1871%29_-_Frederick_William_IV%2C_King_of_Prussia_%281795-1861%29_-_RCIN_406221_-_Royal_Collection.jpg",
+        "alt": "King Friedrich Wilhelm IV",
+        "description": "King Friedrich Wilhelm IV"
+      }
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Germany Lands",
+      "text": [
+        {
+          "text": "King Friedrich Wilhelm IV (r. 1840-1861)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grants Constitutional Monarchy and legislative assembly",
+          "color": "lightgrey"
+        },
+        {
+          "text": "German Confederation elects him King of unified Germany, March 1849",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A crown from the gutter",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sir_George_Hayter_%281792-1871%29_-_Frederick_William_IV%2C_King_of_Prussia_%281795-1861%29_-_RCIN_406221_-_Royal_Collection.jpg",
+        "alt": "King Friedrich Wilhelm IV",
+        "description": "King Friedrich Wilhelm IV"
+      }
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Germany Lands",
+      "text": [
+        {
+          "text": "King Friedrich Wilhelm IV (r. 1840-1861)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grants Constitutional Monarchy and legislative assembly",
+          "color": "darkslategray"
+        },
+        {
+          "text": "German Confederation elects him King of unified Germany, March 1849",
+          "color": "lightgrey"
+        },
+        {
+          "text": "A crown from the gutter",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sir_George_Hayter_%281792-1871%29_-_Frederick_William_IV%2C_King_of_Prussia_%281795-1861%29_-_RCIN_406221_-_Royal_Collection.jpg",
+        "alt": "King Friedrich Wilhelm IV",
+        "description": "King Friedrich Wilhelm IV"
+      }
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Germany Lands",
+      "text": [
+        {
+          "text": "King Friedrich Wilhelm IV (r. 1840-1861)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Grants Constitutional Monarchy and legislative assembly",
+          "color": "darkslategray"
+        },
+        {
+          "text": "German Confederation elects him King of unified Germany, March 1849",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A crown from the gutter",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sir_George_Hayter_%281792-1871%29_-_Frederick_William_IV%2C_King_of_Prussia_%281795-1861%29_-_RCIN_406221_-_Royal_Collection.jpg",
+        "alt": "King Friedrich Wilhelm IV",
+        "description": "King Friedrich Wilhelm IV"
+      }
+    },
+    {
+      "number": 13.1,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Austria Fails",
+      "text": [
+        {
+          "text": "Nationalist Revolutions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Vienna, Prague, Lombardy, Venetia, Zagreb (Croatia)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary in-fighting",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Repression",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1848",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 13.2,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Austria Fails",
+      "text": [
+        {
+          "text": "Nationalist Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vienna, Prague, Lombardy, Venetia, Zagreb (Croatia)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Revolutionary in-fighting",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Repression",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1848",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 13.3,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Austria Fails",
+      "text": [
+        {
+          "text": "Nationalist Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vienna, Prague, Lombardy, Venetia, Zagreb (Croatia)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary in-fighting",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Military Repression",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1848",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 13.4,
+      "slide": true,
+      "split": true,
+      "title": "1848 Revolutions:",
+      "subTitle": "Austria Fails",
+      "text": [
+        {
+          "text": "Nationalist Revolutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Vienna, Prague, Lombardy, Venetia, Zagreb (Croatia)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolutionary in-fighting",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Military Repression",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.age-of-the-sage.org/history/1848/local/europe_1815_s.jpg",
+        "alt": "Map of Europe in 1848",
+        "description": "Europe in 1848ish"
+      }
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "centered": true,
+      "title": "Consequences",
+      "text": [
+        {
+          "text": "Newspapers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Poltiical Clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Class & Political Divisions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
           "color": "darkslategray"
         }
       ]
     },
-    {}
+    {
+      "number": 14,
+      "slide": true,
+      "centered": true,
+      "title": "Consequences",
+      "text": [
+        {
+          "text": "Newspapers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Poltiical Clubs",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Class & Political Divisions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "centered": true,
+      "title": "Consequences",
+      "text": [
+        {
+          "text": "Newspapers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Poltiical Clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Class & Political Divisions",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "slide": true,
+      "centered": true,
+      "title": "Consequences",
+      "text": [
+        {
+          "text": "Newspapers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Poltiical Clubs",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Class & Political Divisions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "lightgrey"
+        }
+      ]
+    }
   ]
 }

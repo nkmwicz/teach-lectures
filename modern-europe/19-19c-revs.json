@@ -1,12 +1,107 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "19th Century Revolutions",
-    "intro": true,
-    "subTitle": "Revolution Spreads"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "19th Century Revolutions",
+      "intro": true,
+      "subTitle": "1848 Revolutions"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "1848 Revolutions",
+      "text": [
+        {
+          "text": "What were they?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Where were they?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "1848 Revolutions",
+      "text": [
+        {
+          "text": "Revolutions against Absolutist Monarchies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolution for Constitutions",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Revolution for freedom of Press and Demonstration",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "split": true,
+      "title": "Causes: Part I",
+      "subTitle": "Congress of Vienna",
+      "text": [
+        {
+          "text": "Weak French Monarchy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Absolutist Monarchies",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Multi-Ethnic Empires",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Causes: Part II",
+      "subTitle": "Nationalism"
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "Causes: Part III",
+      "subTitle": "Political Activism",
+      "text": [
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Nationalism",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    }
+  ]
 }

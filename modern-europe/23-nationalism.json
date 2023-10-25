@@ -336,6 +336,96 @@
         "alt": "Photo of Parisian Commundards",
         "description": "Parisian Communards, 1871"
       }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Uniting Disparate Peoples",
+      "text": [
+        {
+          "text": "Italian Nationalism",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "language",
+              "color": "lightgray"
+            },
+            {
+              "text": "Return of the Roman Empire",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "German Kulturkampf",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austrian Dual Kingdom: Austria-Hungary (1867)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Uniting Disparate Peoples",
+      "text": [
+        {
+          "text": "Italian Nationalism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "language",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Return of the Roman Empire",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "German Kulturkampf",
+          "color": "lightgray"
+        },
+        {
+          "text": "Austrian Dual Kingdom: Austria-Hungary (1867)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Uniting Disparate Peoples",
+      "text": [
+        {
+          "text": "Italian Nationalism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "language",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Return of the Roman Empire",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "German Kulturkampf",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Austrian Dual Kingdom: Austria-Hungary (1867)",
+          "color": "lightgray"
+        }
+      ]
     }
   ]
 }

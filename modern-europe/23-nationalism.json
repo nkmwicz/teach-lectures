@@ -4,7 +4,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/d/dc/VictorEmmanuel2.jpg",
     "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
-    "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg"
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1871.jpg"
   ],
   "slides": [
     {
@@ -227,6 +228,64 @@
       "text": [
         {
           "text": "North German Confederation (1867)",
+          "color": "lightgray"
+        },
+        {
+          "text": "French-Prussian asymmetries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Surrender / 3rd Republic (Jan / March 1871)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Paris Commune (March-May 1871)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
+        "alt": "Map of europe in 1867",
+        "description": "Europe 1867"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "Franco-Prussian War (1870-1871)",
+      "text": [
+        {
+          "text": "North German Confederation (1867)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French-Prussian asymmetries",
+          "color": "lightgray"
+        },
+        {
+          "text": "French Surrender / 3rd Republic (Jan / March 1871)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Paris Commune (March-May 1871)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
+        "alt": "Map of europe in 1867",
+        "description": "Europe 1867"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "split": true,
+      "title": "Franco-Prussian War (1870-1871)",
+      "text": [
+        {
+          "text": "North German Confederation (1867)",
           "color": "darkslategray"
         },
         {
@@ -243,9 +302,38 @@
         }
       ],
       "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
-        "alt": "Map of europe in 1867",
-        "description": "Europe 1867"
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1871.jpg",
+        "alt": "Map of europe in 1871",
+        "description": "Europe 1871"
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "split": true,
+      "title": "Franco-Prussian War (1870-1871)",
+      "text": [
+        {
+          "text": "North German Confederation (1867)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French-Prussian asymmetries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Surrender / 3rd Republic (Jan / March 1871)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Paris Commune (March-May 1871)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://en.wikipedia.org/wiki/Paris_Commune#/media/File:Barricade18March1871.jpg",
+        "alt": "Photo of Parisian Commundards",
+        "description": "Parisian Communards, 1871"
       }
     }
   ]

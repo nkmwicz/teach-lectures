@@ -1,12 +1,222 @@
 {
   "images": [
-
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1860.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/dc/VictorEmmanuel2.jpg",
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Nationalism",
-    "intro": true,
-    "subTitle": "Uniting and Dividing People"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Nationalism, Part II",
+      "intro": true,
+      "subTitle": "Uniting and Dividing People"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Common history, culture, language",
+          "color": "lightgray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Italian Unification (1860, 1866, 1870)",
+      "text": [
+        {
+          "text": "King Victor Emmanuel II (1849-1878)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Alliance with Emperor Napoleon III (1859)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Giuseppe Garibaldi (1807-1882) from Sicily",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/VictorEmmanuel2.jpg",
+        "alt": "Victor Emmanuel II",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Italian Unification (1860, 1866, 1870)",
+      "text": [
+        {
+          "text": "King Victor Emmanuel II (1849-1878)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alliance with Emperor Napoleon III (1859)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Giuseppe Garibaldi (1807-1882) from Sicily",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1860.jpg",
+        "alt": "Map of europe in 1860",
+        "description": "Europe 1860"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Italian Unification (1860, 1866, 1870)",
+      "text": [
+        {
+          "text": "King Victor Emmanuel II (1849-1878)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alliance with Emperor Napoleon III (1859)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Giuseppe Garibaldi (1807-1882) from Sicily",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Garibaldi_%281866%29.jpg",
+        "alt": "Giuseppe Garibaldi",
+        "description": ""
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split": true,
+      "title": "Italian Unification (1860, 1866, 1870)",
+      "text": [
+        {
+          "text": "King Victor Emmanuel II (1849-1878)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Alliance with Emperor Napoleon III (1859)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Giuseppe Garibaldi (1807-1882) from Sicily",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "alt": "Giuseppe Garibaldi",
+        "description": ""
+      }
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "split": true,
+      "title": "German Unification (1863-1871)",
+      "text": [
+        {
+          "text": "Otto von Bissen (1815-1898)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1: Scheswig-Holstein (1863)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2: Austrian-Prussia War (1866)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "iamge": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
+        "alt": "Otto von Bismarck",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "German Unification (1863-1871)",
+      "text": [
+        {
+          "text": "Otto von Bissen (1815-1898)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1: Scheswig-Holstein (1863)",
+          "color": "lightgray"
+        },
+        {
+          "text": "2: Austrian-Prussia War (1866)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "iamge": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "alt": "Otto von Bismarck",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "German Unification (1863-1871)",
+      "text": [
+        {
+          "text": "Otto von Bissen (1815-1898)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1: Scheswig-Holstein (1863)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2: Austrian-Prussia War (1866)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "iamge": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "alt": "Otto von Bismarck",
+        "description": ""
+      }
+    }
+  ]
 }

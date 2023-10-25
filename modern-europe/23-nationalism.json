@@ -3,7 +3,8 @@
     "https://practicestorage.blob.core.windows.net/practice/maps/europe1860.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/d/dc/VictorEmmanuel2.jpg",
     "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg"
   ],
   "slides": [
     {
@@ -151,7 +152,7 @@
       "text": [
         {
           "text": "Otto von Bismarck (1815-1898)",
-          "color": "darkslategray"
+          "color": "lightgray"
         },
         {
           "text": "1: Scheswig-Holstein (1863)",
@@ -214,8 +215,8 @@
       ],
       "image": {
         "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
-        "alt": "Otto von Bismarck",
-        "description": ""
+        "alt": "Map of europe in 1863",
+        "description": "Europe, 1863"
       }
     },
     {
@@ -225,22 +226,26 @@
       "title": "Franco-Prussian War (1870-1871)",
       "text": [
         {
-          "text": "Otto von Bismarck (1815-1898)",
+          "text": "North German Confederation (1867)",
           "color": "darkslategray"
         },
         {
-          "text": "1: Scheswig-Holstein (1863)",
+          "text": "French-Prussian asymmetries",
           "color": "darkslategray"
         },
         {
-          "text": "2: Austrian-Prussia War (1866)",
+          "text": "French Surrender / 3rd Republic (Jan / March 1871)",
           "color": "lightgray"
+        },
+        {
+          "text": "Paris Commune (March-May 1871)",
+          "color": "darkslategray"
         }
       ],
       "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
-        "alt": "Otto von Bismarck",
-        "description": ""
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
+        "alt": "Map of europe in 1867",
+        "description": "Europe 1867"
       }
     }
   ]

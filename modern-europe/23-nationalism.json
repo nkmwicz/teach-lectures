@@ -175,7 +175,7 @@
       "title": "German Unification (1863-1871)",
       "text": [
         {
-          "text": "Otto von Bissen (1815-1898)",
+          "text": "Otto von Bismarck (1815-1898)",
           "color": "darkslategray"
         },
         {
@@ -200,7 +200,32 @@
       "title": "German Unification (1863-1871)",
       "text": [
         {
-          "text": "Otto von Bissen (1815-1898)",
+          "text": "Otto von Bismarck (1815-1898)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1: Scheswig-Holstein (1863)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2: Austrian-Prussia War (1866)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "alt": "Otto von Bismarck",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Franco-Prussian War (1870-1871)",
+      "text": [
+        {
+          "text": "Otto von Bismarck (1815-1898)",
           "color": "darkslategray"
         },
         {

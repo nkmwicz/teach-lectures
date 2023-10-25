@@ -47,6 +47,66 @@
       ]
     },
     {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "lightgray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
       "number": 3.1,
       "slide": true,
       "split": true,

@@ -5,7 +5,8 @@
     "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
     "https://practicestorage.blob.core.windows.net/practice/maps/europe1867.jpg",
-    "https://practicestorage.blob.core.windows.net/practice/maps/europe1871.jpg"
+    "https://practicestorage.blob.core.windows.net/practice/maps/europe1871.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f5/Barricade18March1871.jpg"
   ],
   "slides": [
     {
@@ -331,7 +332,7 @@
         }
       ],
       "image": {
-        "image": "https://en.wikipedia.org/wiki/Paris_Commune#/media/File:Barricade18March1871.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Barricade18March1871.jpg",
         "alt": "Photo of Parisian Commundards",
         "description": "Parisian Communards, 1871"
       }

@@ -150,7 +150,7 @@
       "title": "German Unification (1863-1871)",
       "text": [
         {
-          "text": "Otto von Bissen (1815-1898)",
+          "text": "Otto von Bismarck (1815-1898)",
           "color": "darkslategray"
         },
         {
@@ -163,7 +163,7 @@
         }
       ],
       "image": {
-        "iamge": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
         "alt": "Otto von Bismarck",
         "description": ""
       }
@@ -188,7 +188,7 @@
         }
       ],
       "image": {
-        "iamge": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
         "alt": "Otto von Bismarck",
         "description": ""
       }
@@ -213,7 +213,7 @@
         }
       ],
       "image": {
-        "iamge": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/europe1863.jpg",
         "alt": "Otto von Bismarck",
         "description": ""
       }

@@ -133,7 +133,7 @@
       "text": [
         {
           "text": "Money",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Power",
@@ -146,6 +146,81 @@
         {
           "text": "Ideology",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations for Imperialism",
+      "subTitle": "Not one can explain it alone.",
+      "text": [
+        {
+          "text": "Money",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Power",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Security",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ideology",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations for Imperialism",
+      "subTitle": "Not one can explain it alone.",
+      "text": [
+        {
+          "text": "Money",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Power",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Security",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ideology",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations for Imperialism",
+      "subTitle": "Not one can explain it alone.",
+      "text": [
+        {
+          "text": "Money",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Power",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Security",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ideology",
+          "color": "lightgrey"
         }
       ]
     },

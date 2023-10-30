@@ -20,15 +20,15 @@
       "text": [
         {
           "text": "Old Imperialism",
-          "color": "darkslategray",
+          "color": "lightgrey",
           "children": [
             {
               "text": "Settler Colonialism",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "replaced indigenous populations",
-              "color": "darkslategray"
+              "color": "lightgrey"
             }
           ]
         },
@@ -53,6 +53,62 @@
       ]
     },
     {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Old vs New Imperialism",
+      "text": [
+        {
+          "text": "Old Imperialism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Settler Colonialism",
+              "color": "darkslategray"
+            },
+            {
+              "text": "replaced indigenous populations",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "New Imperialism",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Ruled through Indigenous",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Few Settlers",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Severe inequality between metropole and colony",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "Infrmal Imperialism",
+      "text": [
+        {
+          "text": "Unequal Trade Agreements",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Imposed through Force",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
       "number": 3,
       "slide": true,
       "centered": true,
@@ -64,7 +120,7 @@
         },
         {
           "text": "Imposed through Force",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },
@@ -240,7 +296,7 @@
         },
         {
           "text": "Britain, Tea, & Opium: a Trade Defecit",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Opium in China",
@@ -274,7 +330,7 @@
         },
         {
           "text": "Opium in China",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Lin Zexu",
@@ -308,7 +364,7 @@
         },
         {
           "text": "Lin Zexu",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -363,7 +419,49 @@
       ]
     },
     {
-      "number": 9
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Part II",
+      "subTitle": "First War (1839-42), Second War (1856-1860)",
+      "text": [
+        {
+          "text": "Treaty of Nanjing (1842)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "China pays cost of war",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Hong Kong to Britain",
+              "color": "darkslategray"
+            },
+            {
+              "text": "4 new treaty ports open",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Treaty of Tianjin (1858)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Russia, France, Britain, USA treaties",
+              "color": "lightgrey"
+            },
+            {
+              "text": "English Ambassador",
+              "color": "darkslategray"
+            },
+            {
+              "text": "10 trade ports open",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

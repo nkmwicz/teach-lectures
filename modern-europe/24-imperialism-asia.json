@@ -196,6 +196,174 @@
         "alt": "Map of India in 1823",
         "description": ""
       }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Britain & China",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Qing China (1640-1911)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Britain, Tea, & Opium: a Trade Defecit",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Opium in China",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lin Zexu",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Britain & China",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Qing China (1640-1911)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Britain, Tea, & Opium: a Trade Defecit",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Opium in China",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lin Zexu",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Britain & China",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Qing China (1640-1911)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Britain, Tea, & Opium: a Trade Defecit",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Opium in China",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lin Zexu",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Britain & China",
+      "subTitle": "Part I",
+      "text": [
+        {
+          "text": "Qing China (1640-1911)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Britain, Tea, & Opium: a Trade Defecit",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Opium in China",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Lin Zexu",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
+      }
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "Opium Wars: Part II",
+      "subTitle": "First War (1839-42), Second War (1856-1860)",
+      "text": [
+        {
+          "text": "Treaty of Nanjing (1842)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "China pays cost of war",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Hong Kong to Britain",
+              "color": "darkslategray"
+            },
+            {
+              "text": "4 new treaty ports open",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Treaty of Tianjin (1858)",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Russia, France, Britain, USA treaties",
+              "color": "darkslategray"
+            },
+            {
+              "text": "English Ambassadors",
+              "color": "darkslategray"
+            },
+            {
+              "text": "10 trade ports open",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9
     }
   ]
 }

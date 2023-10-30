@@ -509,19 +509,19 @@
       "text": [
         {
           "text": "Treaty of Nanjing (1842)",
-          "color": "darkslategray",
+          "color": "lightgrey",
           "children": [
             {
               "text": "China pays cost of war",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "Hong Kong to Britain",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "4 new treaty ports open",
-              "color": "darkslategray"
+              "color": "lightgrey"
             }
           ]
         },
@@ -580,11 +580,11 @@
             },
             {
               "text": "English Ambassador",
-              "color": "darkslategray"
+              "color": "lightgrey"
             },
             {
               "text": "10 trade ports open",
-              "color": "darkslategray"
+              "color": "lightgrey"
             }
           ]
         }

@@ -1,12 +1,174 @@
 {
   "images": [
-
+    "https://i2.wp.com/www.mapsofindia.com/history/mughal-empire-map.jpg?w=819",
+    "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Imperialism",
-    "intro": true,
-    "subTitle": "Part I: India and Asia"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Imperialism",
+      "intro": true,
+      "subTitle": "Part I: India and Asia"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Old vs New Imperialism",
+      "text": [
+        {
+          "text": "Old Imperialism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Settler Colonialism",
+              "color": "darkslategray"
+            },
+            {
+              "text": "replaced indigenous populations",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "New Imperialism",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Ruled through Indigenous",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Few Settlers",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Severe inequality between metropole and colony",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "Infrmal Imperialism",
+      "text": [
+        {
+          "text": "Unequal Trade Agreements",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Imposed through Force",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Motivations for Imperialism",
+      "subTitle": "Not one can explain it alone.",
+      "text": [
+        {
+          "text": "Money",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Power",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Security",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ideology",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "India, part I",
+      "subTitle": "Collapse of Mughal India",
+      "text": [
+        {
+          "text": "Mughal Empire (1530-1707)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Mughal Collapse (1707-1730)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Early British Conquests (1750-1800)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i2.wp.com/www.mapsofindia.com/history/mughal-empire-map.jpg?w=819",
+        "alt": "Map of Mughal India from 1530 to 1707",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "India, part I",
+      "subTitle": "Collapse of Mughal India",
+      "text": [
+        {
+          "text": "Mughal Empire (1530-1707)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mughal Collapse (1707-1730)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Early British Conquests (1750-1800)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg",
+        "alt": "Map of  India in 1765",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "split": true,
+      "title": "India, part I",
+      "subTitle": "Collapse of Mughal India",
+      "text": [
+        {
+          "text": "Mughal Empire (1530-1707)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mughal Collapse (1707-1730)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Early British Conquests (1750-1800)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg",
+        "alt": "Map of  India in 1765",
+        "description": ""
+      }
+    }
+  ]
 }

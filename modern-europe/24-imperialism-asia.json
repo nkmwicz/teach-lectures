@@ -1,7 +1,8 @@
 {
   "images": [
     "https://i2.wp.com/www.mapsofindia.com/history/mughal-empire-map.jpg?w=819",
-    "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg"
+    "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg",
+    "https://warwick.ac.uk/fac/arts/history/students/modules/archive/hi297/eresources/india_in_1823.jpg"
   ],
   "slides": [
     {
@@ -167,6 +168,32 @@
       "image": {
         "image": "https://www.globalsecurity.org/military/world/india/images/map-1765.jpg",
         "alt": "Map of  India in 1765",
+        "description": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "British India, part II",
+      "subTitle": "India under British Rule",
+      "text": [
+        {
+          "text": "British East India Company (1800-1850)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sepoy Rebellion (1857) & Aftermath",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Benefits vs Costs",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://warwick.ac.uk/fac/arts/history/students/modules/archive/hi297/eresources/india_in_1823.jpg",
+        "alt": "Map of India in 1823",
         "description": ""
       }
     }

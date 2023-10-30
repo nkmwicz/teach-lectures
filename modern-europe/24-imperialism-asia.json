@@ -311,7 +311,7 @@
       "text": [
         {
           "text": "British East India Company (1800-1850)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Sepoy Rebellion (1857) & Aftermath",
@@ -320,6 +320,58 @@
         {
           "text": "Benefits vs Costs",
           "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://warwick.ac.uk/fac/arts/history/students/modules/archive/hi297/eresources/india_in_1823.jpg",
+        "alt": "Map of India in 1823",
+        "description": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "British India, part II",
+      "subTitle": "India under British Rule",
+      "text": [
+        {
+          "text": "British East India Company (1800-1850)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sepoy Rebellion (1857) & Aftermath",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Benefits vs Costs",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://warwick.ac.uk/fac/arts/history/students/modules/archive/hi297/eresources/india_in_1823.jpg",
+        "alt": "Map of India in 1823",
+        "description": ""
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "British India, part II",
+      "subTitle": "India under British Rule",
+      "text": [
+        {
+          "text": "British East India Company (1800-1850)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Sepoy Rebellion (1857) & Aftermath",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Benefits vs Costs",
+          "color": "lightgrey"
         }
       ],
       "image": {

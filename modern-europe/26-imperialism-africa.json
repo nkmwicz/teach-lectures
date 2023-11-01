@@ -13,7 +13,7 @@
       "subTitle": "Part II: Scramble for Africa"
     },
     {
-      "number": 3,
+      "number": 3.1,
       "slide": true,
       "split": true,
       "title": "Europe, Africa before the 1870s",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.2,
       "slide": true,
       "split": true,
       "title": "Europe, Africa before the 1870s",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.3,
       "slide": true,
       "split": true,
       "title": "Europe, Africa before the 1870s",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "number": 3,
+      "number": 3.4,
       "slide": true,
       "split": true,
       "title": "Europe, Africa before the 1870s",
@@ -268,13 +268,115 @@
       ]
     },
     {
-      "number": 6,
+      "number": 6.1,
       "slide": true,
       "split": true,
-      "title": "Outcome",
-      "text": [{}],
+      "title": "Outcome in Africa",
+      "text": [
+        {
+          "text": "Immediate conquests",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Artificial boundaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Center vs Periphery",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery",
+          "color": "darkslategray"
+        }
+      ],
       "image": {
-        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg"
+        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg",
+        "alt": "Map of Africa in early 1900s"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Outcome in Africa",
+      "text": [
+        {
+          "text": "Immediate conquests",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artificial boundaries",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Center vs Periphery",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg",
+        "alt": "Map of Africa in early 1900s"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "Outcome in Africa",
+      "text": [
+        {
+          "text": "Immediate conquests",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artificial boundaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Center vs Periphery",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Slavery",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg",
+        "alt": "Map of Africa in early 1900s"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "split": true,
+      "title": "Outcome in Africa",
+      "text": [
+        {
+          "text": "Immediate conquests",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Artificial boundaries",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Center vs Periphery",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slavery",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg",
+        "alt": "Map of Africa in early 1900s"
       }
     }
   ]

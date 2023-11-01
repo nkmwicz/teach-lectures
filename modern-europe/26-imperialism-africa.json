@@ -1,6 +1,7 @@
 {
   "images": [
-    "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg"
+    "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg"
   ],
   "slides": [
     {
@@ -128,6 +129,61 @@
         "image": "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
         "alt": "Map of Africa before the Scramble in 1870",
         "description": ""
+      }
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "split": true,
+      "title": "King Leopold II of Belgium (r. 1865-1909)",
+      "text": [
+        {
+          "text": "International African Association (1876)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Henry Morton Stanley & Treaties",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Image vs Reality",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "iamge": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg",
+        "alt": "Leopold II of Belgium",
+        "description": ""
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Berlin Conference (1884-1885)",
+      "text": [
+        {
+          "text": "Motivations for the Conference?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Otto von Bismarck and the Conference",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Principle of Effective Occupation",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "split": true,
+      "title": "Outcome",
+      "text": [{}],
+      "image": {
+        "image": "https://cdn.britannica.com/29/219829-050-16B4562D.jpg"
       }
     }
   ]

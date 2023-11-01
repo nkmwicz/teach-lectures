@@ -1,7 +1,8 @@
 {
   "images": [
     "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg",
+    "https://cdn.britannica.com/29/219829-050-16B4562D.jpg"
   ],
   "slides": [
     {
@@ -132,14 +133,14 @@
       }
     },
     {
-      "number": 4,
+      "number": 4.1,
       "slide": true,
       "split": true,
       "title": "King Leopold II of Belgium (r. 1865-1909)",
       "text": [
         {
           "text": "International African Association (1876)",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "Henry Morton Stanley & Treaties",
@@ -157,7 +158,97 @@
       }
     },
     {
-      "number": 5,
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "King Leopold II of Belgium (r. 1865-1909)",
+      "text": [
+        {
+          "text": "International African Association (1876)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Henry Morton Stanley & Treaties",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Image vs Reality",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "iamge": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg",
+        "alt": "Leopold II of Belgium",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "King Leopold II of Belgium (r. 1865-1909)",
+      "text": [
+        {
+          "text": "International African Association (1876)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Henry Morton Stanley & Treaties",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Image vs Reality",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "iamge": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg",
+        "alt": "Leopold II of Belgium",
+        "description": ""
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Berlin Conference (1884-1885)",
+      "text": [
+        {
+          "text": "Motivations for the Conference?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Otto von Bismarck and the Conference",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Principle of Effective Occupation",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Berlin Conference (1884-1885)",
+      "text": [
+        {
+          "text": "Motivations for the Conference?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Otto von Bismarck and the Conference",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Principle of Effective Occupation",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
       "slide": true,
       "centered": true,
       "title": "Berlin Conference (1884-1885)",
@@ -172,7 +263,7 @@
         },
         {
           "text": "Principle of Effective Occupation",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },

@@ -1,12 +1,134 @@
 {
   "images": [
-
+    "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Imperialism",
-    "intro": true,
-    "subTitle": "Part II: Africa"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Imperialism",
+      "intro": true,
+      "subTitle": "Part II: Scramble for Africa"
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Europe, Africa before the 1870s",
+      "subTitle": "French Algeria",
+      "text": [
+        {
+          "text": "Old European Settlements in Africa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Slave Trade Outlawed: early 1800s",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French conquest of Algeria: 1830-1847",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Algeria; 1847-1965",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
+        "alt": "Map of Africa before the Scramble in 1870",
+        "description": ""
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Europe, Africa before the 1870s",
+      "subTitle": "French Algeria",
+      "text": [
+        {
+          "text": "Old European Settlements in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slave Trade Outlawed: early 1800s",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French conquest of Algeria: 1830-1847",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Algeria; 1847-1965",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
+        "alt": "Map of Africa before the Scramble in 1870",
+        "description": ""
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Europe, Africa before the 1870s",
+      "subTitle": "French Algeria",
+      "text": [
+        {
+          "text": "Old European Settlements in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slave Trade Outlawed: early 1800s",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French conquest of Algeria: 1830-1847",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French Algeria; 1847-1965",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
+        "alt": "Map of Africa before the Scramble in 1870",
+        "description": ""
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "split": true,
+      "title": "Europe, Africa before the 1870s",
+      "subTitle": "French Algeria",
+      "text": [
+        {
+          "text": "Old European Settlements in Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slave Trade Outlawed: early 1800s",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French conquest of Algeria: 1830-1847",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Algeria; 1847-1965",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.gifex.com/images/0X0/2010-01-12-11698/Africa-before-the-colonial-partition-c-1870.jpg",
+        "alt": "Map of Africa before the Scramble in 1870",
+        "description": ""
+      }
+    }
+  ]
 }

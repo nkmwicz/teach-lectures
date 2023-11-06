@@ -1076,7 +1076,7 @@
       "year": 1914,
       "mapLabel": "The Balkans  After the First Balkan War",
       "mapCenter": [29.26, 57.84],
-      "zoom": 2,
+      "zoom": 3,
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
@@ -1091,7 +1091,7 @@
     {
       "number": 14,
       "title": "Total War on Home Front",
-      "split": true,
+      "slide": true,
       "centered": true,
       "text": [
         {

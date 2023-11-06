@@ -1075,8 +1075,8 @@
       ],
       "year": 1914,
       "mapLabel": "The Balkans  After the First Balkan War",
-      "mapCenter": [49.76, -2.45],
-      "zoom": 5,
+      "mapCenter": [29.26, 57.84],
+      "zoom": 2,
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",

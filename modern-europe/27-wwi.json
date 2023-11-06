@@ -1066,11 +1066,42 @@
       "text": [
         {
           "text": "Fighting in the Colonies",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         },
         {
           "text": "USA Enters war, 1917",
           "color": "darkslategrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [29.26, 57.84],
+      "zoom": 3,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russia": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple",
+        "British Raj": "purple",
+        "Italy": "darkblue"
+      }
+    },
+    {
+      "number": 13,
+      "slide": true,
+      "title": "A Global Conflict",
+      "split": true,
+      "map": "global",
+      "text": [
+        {
+          "text": "Fighting in the Colonies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "USA Enters war, 1917",
+          "color": "lightgrey"
         }
       ],
       "year": 1914,
@@ -1096,6 +1127,46 @@
       "text": [
         {
           "text": "Stresses on Societies",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Russian Revolution (1917)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Total War",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Total War on Home Front",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Stresses on Societies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Russian Revolution (1917)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Total War",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Total War on Home Front",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Stresses on Societies",
           "color": "darkslategrey"
         },
         {
@@ -1104,6 +1175,46 @@
         },
         {
           "text": "Total War",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "End of the War",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "German Spring Offensive (1918)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Americans Join Counterattack",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "End of the War (11 Nov. 1918)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "End of the War",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "German Spring Offensive (1918)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Americans Join Counterattack",
+          "color": "lightgrey"
+        },
+        {
+          "text": "End of the War (11 Nov. 1918)",
           "color": "darkslategrey"
         }
       ]
@@ -1124,7 +1235,127 @@
         },
         {
           "text": "End of the War (11 Nov. 1918)",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Paris Peace Conference (Versailles)",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "League of Nations",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Destory Empires",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Austria-Hungary",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ottoman Empire",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Self-Determination of Small States",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Finland, Latvia, Estonia, Lithuania, Poland, Czechoslovakia, Austria, Hungary, Yugoslavia",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "War Guilt Clause",
           "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Paris Peace Conference (Versailles)",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "League of Nations",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Destory Empires",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Austria-Hungary",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Ottoman Empire",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Self-Determination of Small States",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Finland, Latvia, Estonia, Lithuania, Poland, Czechoslovakia, Austria, Hungary, Yugoslavia",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "War Guilt Clause",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Paris Peace Conference (Versailles)",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "League of Nations",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Destory Empires",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Austria-Hungary",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ottoman Empire",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Self-Determination of Small States",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Finland, Latvia, Estonia, Lithuania, Poland, Czechoslovakia, Austria, Hungary, Yugoslavia",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "War Guilt Clause",
+          "color": "lightgrey"
         }
       ]
     },
@@ -1164,7 +1395,7 @@
         },
         {
           "text": "War Guilt Clause",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ]
     }

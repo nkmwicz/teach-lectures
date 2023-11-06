@@ -497,7 +497,7 @@
       ],
       "year": 1914,
       "mapLabel": "The Balkans  After the First Balkan War",
-      "mapCenter": [52.0, 10.0],
+      "mapCenter": [46.48, 10.82],
       "zoom": 5,
       "stateColors": {
         "Ottoman Empire": "yellow",
@@ -507,8 +507,8 @@
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"
       },
-      "popup": "Austro-Hungarian Empire",
-      "popupCoords": [47.6, 18.5]
+      "popup": "Germany",
+      "popupCoords": [51.6, 10.42]
     },
     {
       "number": 9.1,

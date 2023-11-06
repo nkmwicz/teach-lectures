@@ -1000,9 +1000,91 @@
     {
       "number": 12,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Trench Warfare",
-      "text": [{}]
+      "text": [
+        {
+          "text": "How did trenches look at first?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How did trenches develop?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "what was life in the trenches like?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "centered": true,
+      "title": "Trench Warfare",
+      "text": [
+        {
+          "text": "How did trenches look at first?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did trenches develop?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "what was life in the trenches like?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "centered": true,
+      "title": "Trench Warfare",
+      "text": [
+        {
+          "text": "How did trenches look at first?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did trenches develop?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "what was life in the trenches like?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "slide": true,
+      "title": "A Global Conflict",
+      "split": true,
+      "map": "global",
+      "text": [
+        {
+          "text": "Fightin in the Colonies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "USA Enters war, 1917",
+          "color": "darkslategrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [49.76, -2.45],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russia": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      }
     }
   ]
 }

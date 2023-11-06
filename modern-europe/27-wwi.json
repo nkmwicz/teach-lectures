@@ -1107,6 +1107,66 @@
           "color": "darkslategrey"
         }
       ]
+    },
+    {
+      "number": 15,
+      "title": "End of the War",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "German Spring Offensive (1918)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Americans Join Counterattack",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "End of the War (11 Nov. 1918)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Paris Peace Conference (Versailles)",
+      "slide": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "League of Nations",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Destory Empires",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Austria-Hungary",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ottoman Empire",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Self-Determination of Small States",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Finland, Latvia, Estonia, Lithuania, Poland, Czechoslovakia, Austria, Hungary, Yugoslavia",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "War Guilt Clause",
+          "color": "darkslategrey"
+        }
+      ]
     }
   ]
 }

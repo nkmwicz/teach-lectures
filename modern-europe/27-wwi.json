@@ -1085,8 +1085,28 @@
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple",
         "British Raj": "purple",
-        "Kingdom of Italy": "lightblue"
+        "Italy": "lightblue"
       }
+    },
+    {
+      "number": 14,
+      "title": "Total War on Home Front",
+      "split": true,
+      "centered": true,
+      "text": [
+        {
+          "text": "Stresses on Societies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Russian Revolution (1917)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Total War",
+          "color": "darkslategrey"
+        }
+      ]
     }
   ]
 }

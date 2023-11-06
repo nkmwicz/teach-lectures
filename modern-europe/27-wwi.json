@@ -1,671 +1,712 @@
 {
   "images": [
-    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg","https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg","https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg","https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg","https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg","https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png","https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg","https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg"
+    "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ad/Balkan_1912.svg",
+    "https://www.gutenberg.org/files/54082/54082-h/images/img-front.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png",
+    "https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true, 
-		"title": "The Great War"
-  },
-  {
-    "number": 2.1,
-    "slide": true, 
-		"title": "Major Questions",
-    "subTitle": "The Great War",
-    "centered": true,
-    "text": [
-      {
-        "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
-        "color": "darkslategrey"
-      }
-    ]
-  },
-  {
-    "number": 2.2,
-    "slide": true, 
-		"title": "Major Questions",
-    "subTitle": "The Great War",
-    "centered": true,
-    "text": [
-      {
-        "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
-        "color": "lightgrey"
-      }
-    ]
-  },
-  {
-    "number": 3.1,
-    "slide": true, 
-		"title": "Long-Term Causes",
-    "subTitle": "Nation-State Rivalries",
-    "split": true,
-    "text": [
-      {
-        "text": "Balance of Power Theory",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Britain Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "France Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Russia Vs. the Ottoman Empire",
-        "color": "darkslategrey"
-      }
-    ],
-    "image": {
-      
-    }
-  },
-  {
-    "number": 3.2,
-    "slide": true, 
-		"title": "Long-Term Causes",
-    "subTitle": "Nation-State Rivalries",
-    "split": true,
-    "text": [
-      {
-        "text": "Balance of Power Theory",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Britain Vs. Germany",
-        "color": "lightgrey"
-      },
-      {
-        "text": "France Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Russia Vs. the Ottoman Empire",
-        "color": "darkslategrey"
-      }
-    ],
-    "image": {
-      
-    }
-  },
-  {
-    "number": 3.3,
-    "slide": true, 
-		"title": "Long-Term Causes",
-    "subTitle": "Nation-State Rivalries",
-    "split": true,
-    "text": [
-      {
-        "text": "Balance of Power Theory",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Britain Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "France Vs. Germany",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Russia Vs. the Ottoman Empire",
-        "color": "darkslategrey"
-      }
-    ],
-    "image": {
-      
-    }
-  },
-  {
-    "number": 3.4,
-    "slide": true, 
-		"title": "Long-Term Causes",
-    "subTitle": "Nation-State Rivalries",
-    "split": true,
-    "text": [
-      {
-        "text": "Balance of Power Theory",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Britain Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "France Vs. Germany",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Russia Vs. the Ottoman Empire",
-        "color": "lightgrey"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
-    }
-  },
-  {
-    "number": 4.1,
-    "slide": true, 
-		"title": "Long-Term Causes:",
-    "subTitle": "Imperialism & Colonies",
-    "split": true,
-    "text": [
-      {
-        "text": "",
-        "color": "lightgrey"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
-    }
-  },
-  {
-    "number": 5.1,
-    "map": "global", 
-		"title": "Long-Term Causes:",
-    "subTitle": "Alliances",
-    "split": true,
-    "text": [
-      {
-        "text": "Triple Alliance (1882)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Triple Entente (1894-1907)",
-        "color": "darkslategrey"
-      }
-    ],
-    "year": 1900,
-    "mapLabel": "Europe in 1900",
-    "mapCenter": [52.0, 10.0],
-    "stateColors": {
-      "Germany": "blue",
-      "Austria Hungary": "blue",
-      "Italy": "blue"
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "The Great War"
     },
-    "zoom": 5
-  },
-  {
-    "number": 5.2,
-    "map": "global", 
-		"title": "Long-Term Causes:",
-    "subTitle": "Alliances",
-    "text": [
-      {
-        "text": "Triple Alliance (1882)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Triple Entente (1894-1907)",
-        "color": "lightgrey"
-      }
-    ],
-    "year": 1900,
-    "mapLabel": "Europe in 1900",
-    "mapCenter": [44.0, 20.0],
-    "zoom": 4,
-    "stateColors": {
-      "France": "green",
-      "Russian Empire": "green",
-      "United Kingdom of Great Britain and Ireland": "green"
-    }
-  },
-  {
-    "number": 6.1,
-    "slide": true, 
-		"title": "Long-Term Causes:",
-    "subTitle": "Nationalism",
-    "split": true,
-    "text": [
-      {
-        "text": "",
-        "color": "lightgrey"
-      }
-    ],
-    "image": {
-      "image": "",
-      "alt": "",
-      "description": ""
-    }
-  },
-  {
-    "number": 7.1,
-    "slide": true, 
-		"title": "Long-Term Causes:",
-    "subTitle": "Militarism",
-    "split": true,
-    "text": [
-      {
-        "text": "Napoleon and Karl von Clausewitz",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Military Universities and Decisive Warfare",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Schlieffen Plan",
-        "color": "darkslategrey"
-      }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg",
-      "alt": "image of Karl von Clausewitz",
-      "description": "Karl von Clausewitz"
-    }
-  },
-  {
-    "number": 7.2,
-    "slide": true, 
-		"title": "Long-Term Causes:",
-    "subTitle": "Militarism",
-    "split": true,
-    "text": [
-      {
-        "text": "Napoleon and Karl von Clausewitz",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Military Universities and Decisive Warfare",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Schlieffen Plan",
-        "color": "darkslategrey"
-      }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Berlin_Kriegsakademie_Fassade_Unter_den_Linden.jpg",
-      "alt": "Image of a military academy in Germy in 19th century",
-      "description": "A German military academy, Unter den Linden, in the 19th century"
-    }
-  },
-  {
-    "number": 7.3,
-    "slide": true, 
-		"title": "Long-Term Causes:",
-    "subTitle": "Militarism",
-    "split": true,
-    "text": [
-      {
-        "text": "Napoleon and Karl von Clausewitz",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Military Universities and Decisive Warfare",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Schlieffen Plan",
-        "color": "lightgrey"
-      }
-    ],
-    "image": {
-      "image": "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg",
-      "alt": "Map of the Schlieffen Plan",
-      "description": "The Schlieffen Plan"
-    }
-  },
-  {
-    "number": 8.1,
-    "split": true,
-    "map": "global", 
-		"title": "Immediate Causes:",
-    "subTitle": "Crisis in the Balkans in early 20th century",
-    "text": [
-      {
-        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Reaction of Great powers",
-        "color": "darkslategrey"
-      }
-    ],
-    "year": 1900,
-    "mapLabel": "The Balkans Before the First Balkan War",
-    "mapCenter": [44.0, 20.0],
-    "zoom": 6,
-    "stateColors": {
-      "Bulgaria": "green",
-      "Bosnia-Herzegovina": "purples",
-      "Romania": "red",
-      "Serbia": "pink",
-      "Montenegro": "lightblue",
-      "Greece": "blue"
-    }
-  },
-  {
-    "number": 8.2,
-    "split": true,
-    "map": "global", 
-		"title": "Immediate Causes:",
-    "subTitle": "Crisis in the Balkans in early 20th century",
-    "text": [
-      {
-        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Reaction of Great powers",
-        "color": "darkslategrey"
-      }
-    ],
-    "year": 1900,
-    "mapLabel": "The Balkans Before the First Balkan War",
-    "mapCenter": [44.0, 20.0],
-    "zoom": 6,
-    "stateColors": {
-      "Austria Hungary": "darkorange",
-      "Bosnia-Herzegovina": "purple",
-      "Serbia": "pink"
-    }
-  },
-  {
-    "number": 8.3,
-    "split": true,
-    "map": "global", 
-		"title": "Immediate Causes:",
-    "subTitle": "Crisis in the Balkans in early 20th century",
-    "text": [
-      {
-        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Reaction of Great powers",
-        "color": "darkslategrey"
-      }
-    ],
-    "year": 1914,
-    "mapLabel": "The Balkans After the First Balkan War",
-    "mapCenter": [44.0, 20.0],
-    "zoom": 6,
-    "stateColors": {
-      "Ottoman Empire": "yellow",
-      "Bulgaria": "green",
-      "Romania": "red",
-      "Serbia": "pink",
-      "Montenegro": "lightblue",
-      "Greece": "blue",
-      "Albania": "darkgreen"
-    }
-  },
-  {
-    "number": 8.4,
-    "split": true,
-    "map": "global", 
-		"title": "Immediate Causes:",
-    "subTitle": "Crisis in the Balkans in early 20th century",
-    "text": [
-      {
-        "text": "Balkan countries revolting against Ottoman Empire, especially Bulgaria (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
-        "color": "darkslategrey"  
-      },
-      {
-        "text": "Reaction of Great powers",
-        "color": "lightgrey"
-      }
-    ],
-    "year": 1914,
-    "mapLabel": "The Balkans  After the First Balkan War",
-    "mapCenter": [52.0, 10.0],
-    "zoom": 5,
-    "stateColors": {
-      "Ottoman Empire": "yellow",
-      "German Empire": "red",
-      "Russian Empire": "green",
-      "Austro-Hungarian Empire": "darkorange",
-      "France": "blue",
-      "United Kingdom of Great Britain and Ireland": "purple"
+    {
+      "number": 2.1,
+      "slide": true,
+      "title": "Major Questions",
+      "subTitle": "The Great War",
+      "centered": true,
+      "text": [
+        {
+          "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
+          "color": "darkslategrey"
+        }
+      ]
     },
-    "popup": "Austro-Hungarian Empire",
-    "popupCoords": [47.6, 18.5]
-  },
-  {
-    "number": 9.1,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
-    "text": [
-      {
-        "text": "Austria-Hungary a Multi-Ethnic State",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Slavic Nationalism Growing",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "The Black Hand (1901-1914)",
-        "color": "darkslategrey"
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Major Questions",
+      "subTitle": "The Great War",
+      "centered": true,
+      "text": [
+        {
+          "text": "Why? Just Why? Why did the assassination of the Archduke of Austria-Hungary by a Serbian lead to a war including France, Germany, Britain, Russia, and the Ottoman Empire?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Why did the outcome of this war lead to a communist revolution, fascism, genocide, and another world war that led to another communist revolution?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "title": "Long-Term Causes",
+      "subTitle": "Nation-State Rivalries",
+      "split": true,
+      "text": [
+        {
+          "text": "Balance of Power Theory",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Britain Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "France Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Russia Vs. the Ottoman Empire",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {}
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Long-Term Causes",
+      "subTitle": "Nation-State Rivalries",
+      "split": true,
+      "text": [
+        {
+          "text": "Balance of Power Theory",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Britain Vs. Germany",
+          "color": "lightgrey"
+        },
+        {
+          "text": "France Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Russia Vs. the Ottoman Empire",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {}
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "Long-Term Causes",
+      "subTitle": "Nation-State Rivalries",
+      "split": true,
+      "text": [
+        {
+          "text": "Balance of Power Theory",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Britain Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "France Vs. Germany",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Russia Vs. the Ottoman Empire",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {}
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "title": "Long-Term Causes",
+      "subTitle": "Nation-State Rivalries",
+      "split": true,
+      "text": [
+        {
+          "text": "Balance of Power Theory",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Britain Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "France Vs. Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Russia Vs. the Ottoman Empire",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
-      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
-      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
-    }
-  },
-  {
-    "number": 9.2,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
-    "text": [
-      {
-        "text": "Austria-Hungary a Multi-Ethnic State",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Slavic Nationalism Growing",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "The Black Hand (1901-1914)",
-        "color": "darkslategrey"
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Long-Term Causes:",
+      "subTitle": "Imperialism & Colonies",
+      "split": true,
+      "text": [
+        {
+          "text": "",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
-      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
-      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
-    }
-  },
-  {
-    "number": 9.3,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
-    "text": [
-      {
-        "text": "Austria-Hungary a Multi-Ethnic State",
-        "color": "darkslategrey"
+    },
+    {
+      "number": 5.1,
+      "map": "global",
+      "title": "Long-Term Causes:",
+      "subTitle": "Alliances",
+      "split": true,
+      "text": [
+        {
+          "text": "Triple Alliance (1882)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Triple Entente (1894-1907)",
+          "color": "darkslategrey"
+        }
+      ],
+      "year": 1900,
+      "mapLabel": "Europe in 1900",
+      "mapCenter": [52.0, 10.0],
+      "stateColors": {
+        "Germany": "blue",
+        "Austria Hungary": "blue",
+        "Italy": "blue"
       },
-      {
-        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Slavic Nationalism Growing",
-        "color": "lightgrey"
-      },
-      {
-        "text": "The Black Hand (1901-1914)",
-        "color": "darkslategrey"
+      "zoom": 5
+    },
+    {
+      "number": 5.2,
+      "map": "global",
+      "title": "Long-Term Causes:",
+      "subTitle": "Alliances",
+      "text": [
+        {
+          "text": "Triple Alliance (1882)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Triple Entente (1894-1907)",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1900,
+      "mapLabel": "Europe in 1900",
+      "mapCenter": [44.0, 20.0],
+      "zoom": 4,
+      "stateColors": {
+        "France": "green",
+        "Russian Empire": "green",
+        "United Kingdom of Great Britain and Ireland": "green"
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
-      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
-      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
-    }
-  },
-  {
-    "number": 9.4,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
-    "text": [
-      {
-        "text": "Austria-Hungary a Multi-Ethnic State",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Slavic Nationalism Growing",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "The Black Hand (1901-1914)",
-        "color": "lightgrey"
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "title": "Long-Term Causes:",
+      "subTitle": "Nationalism",
+      "split": true,
+      "text": [
+        {
+          "text": "",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "",
+        "alt": "",
+        "description": ""
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
-      "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
-      "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
-    }
-  },
-  {
-    "number": 8.1,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Assassination",
-    "text": [
-      {
-        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
-        "color": "lightgrey"
-      },
-      {
-        "text": "The German Blank Check",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
-        "color": "darkslategrey"
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "title": "Long-Term Causes:",
+      "subTitle": "Militarism",
+      "split": true,
+      "text": [
+        {
+          "text": "Napoleon and Karl von Clausewitz",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Military Universities and Decisive Warfare",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Schlieffen Plan",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg",
+        "alt": "image of Karl von Clausewitz",
+        "description": "Karl von Clausewitz"
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
-      "alt": "Image of assassination of Franz Ferdinand",
-      "description": "Image of assassination of Franz Ferdinand in Italian Paper"
-    }
-  },
-  {
-    "number": 8.2,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Assassination",
-    "text": [
-      {
-        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "The German Blank Check",
-        "color": "lightgrey"
-      },
-      {
-        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
-        "color": "darkslategrey"
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "title": "Long-Term Causes:",
+      "subTitle": "Militarism",
+      "split": true,
+      "text": [
+        {
+          "text": "Napoleon and Karl von Clausewitz",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Military Universities and Decisive Warfare",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Schlieffen Plan",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Berlin_Kriegsakademie_Fassade_Unter_den_Linden.jpg",
+        "alt": "Image of a military academy in Germy in 19th century",
+        "description": "A German military academy, Unter den Linden, in the 19th century"
       }
-    ],
-    "image": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png",
-      "alt": "Map of Europe in 1914",
-      "description": "Europe in 1914"
-    }
-  },
-  {
-    "number": 8.3,
-    "split": true,
-    "slide": true, 
-		"title": "Immediate Causes:",
-    "subTitle": "Assassination",
-    "text": [
-      {
-        "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "The German Blank Check",
-        "color": "darkslategrey"
-      },
-      {
-        "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
-        "color": "lightgrey"
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "Long-Term Causes:",
+      "subTitle": "Militarism",
+      "split": true,
+      "text": [
+        {
+          "text": "Napoleon and Karl von Clausewitz",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Military Universities and Decisive Warfare",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Schlieffen Plan",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-s2Y5GDy8T4c/T7MqKVT8DxI/AAAAAAAACPs/yqRtp8F3foE/s1600/cromac2.jpg",
+        "alt": "Map of the Schlieffen Plan",
+        "description": "The Schlieffen Plan"
       }
-    ],
-    "image": {
-      "image": "https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg",
-      "alt": "Image of Washington Times front page of Austria declaring war",
-      "description": "Europe in 1914"
+    },
+    {
+      "number": 8.1,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "darkslategrey"
+        }
+      ],
+      "year": 1900,
+      "mapLabel": "The Balkans Before the First Balkan War",
+      "mapCenter": [44.0, 20.0],
+      "zoom": 6,
+      "stateColors": {
+        "Bulgaria": "green",
+        "Bosnia-Herzegovina": "purples",
+        "Romania": "red",
+        "Serbia": "pink",
+        "Montenegro": "lightblue",
+        "Greece": "blue"
+      }
+    },
+    {
+      "number": 8.2,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "darkslategrey"
+        }
+      ],
+      "year": 1900,
+      "mapLabel": "The Balkans Before the First Balkan War",
+      "mapCenter": [44.0, 20.0],
+      "zoom": 6,
+      "stateColors": {
+        "Austria Hungary": "darkorange",
+        "Bosnia-Herzegovina": "purple",
+        "Serbia": "pink"
+      }
+    },
+    {
+      "number": 8.3,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "darkslategrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans After the First Balkan War",
+      "mapCenter": [44.0, 20.0],
+      "zoom": 6,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "Bulgaria": "green",
+        "Romania": "red",
+        "Serbia": "pink",
+        "Montenegro": "lightblue",
+        "Greece": "blue",
+        "Albania": "darkgreen"
+      }
+    },
+    {
+      "number": 8.4,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [52.0, 10.0],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russian Empire": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      },
+      "popup": "Austro-Hungarian Empire",
+      "popupCoords": [47.6, 18.5]
+    },
+    {
+      "number": 8.4,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [52.0, 10.0],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russian Empire": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      },
+      "popup": "Austro-Hungarian Empire",
+      "popupCoords": [47.6, 18.5]
+    },
+    {
+      "number": 9.1,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+      "text": [
+        {
+          "text": "Austria-Hungary a Multi-Ethnic State",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Slavic Nationalism Growing",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The Black Hand (1901-1914)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+        "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+        "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+      }
+    },
+    {
+      "number": 9.2,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+      "text": [
+        {
+          "text": "Austria-Hungary a Multi-Ethnic State",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Slavic Nationalism Growing",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The Black Hand (1901-1914)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+        "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+        "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+      }
+    },
+    {
+      "number": 9.3,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+      "text": [
+        {
+          "text": "Austria-Hungary a Multi-Ethnic State",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Slavic Nationalism Growing",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Black Hand (1901-1914)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+        "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+        "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+      }
+    },
+    {
+      "number": 9.4,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Slavic Nationalism, Austria-Hungary, and Serbia",
+      "text": [
+        {
+          "text": "Austria-Hungary a Multi-Ethnic State",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexed Bosnia and Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Slavic Nationalism Growing",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The Black Hand (1901-1914)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Austria_Hungary_ethnic.svg",
+        "alt": "Map of Austria-Hungarian Ethnic Distribution in 1914",
+        "description": "Map of Austria-Hungarian Ethnic Distribution in 1914"
+      }
+    },
+    {
+      "number": 8.1,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Assassination",
+      "text": [
+        {
+          "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The German Blank Check",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
+        "alt": "Image of assassination of Franz Ferdinand",
+        "description": "Image of assassination of Franz Ferdinand in Italian Paper"
+      }
+    },
+    {
+      "number": 8.2,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Assassination",
+      "text": [
+        {
+          "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The German Blank Check",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png",
+        "alt": "Map of Europe in 1914",
+        "description": "Europe in 1914"
+      }
+    },
+    {
+      "number": 8.3,
+      "split": true,
+      "slide": true,
+      "title": "Immediate Causes:",
+      "subTitle": "Assassination",
+      "text": [
+        {
+          "text": "Gravilo Princip assassinates Archduke Franz Ferdinand (28 June 1914)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The German Blank Check",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary declares war on Serbia (28 July 1914)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg",
+        "alt": "Image of Washington Times front page of Austria declaring war",
+        "description": "Europe in 1914"
+      }
     }
-  }
-]
+  ]
 }

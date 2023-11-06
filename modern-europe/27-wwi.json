@@ -223,7 +223,7 @@
       "zoom": 4,
       "stateColors": {
         "France": "green",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "United Kingdom of Great Britain and Ireland": "green"
       }
     },
@@ -463,7 +463,7 @@
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"
@@ -502,7 +502,7 @@
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"
@@ -541,7 +541,7 @@
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"
@@ -580,7 +580,7 @@
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"
@@ -619,7 +619,7 @@
       "stateColors": {
         "Ottoman Empire": "yellow",
         "German Empire": "red",
-        "Russian Empire": "darkgreen",
+        "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
         "United Kingdom of Great Britain and Ireland": "purple"

@@ -511,6 +511,123 @@
       "popupCoords": [51.6, 10.42]
     },
     {
+      "number": 8.4,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [47.88, 15.08],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russian Empire": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      },
+      "popup": "Russia",
+      "popupCoords": [53.67, 31.2]
+    },
+    {
+      "number": 8.4,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [48.53, 0.71],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russian Empire": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      },
+      "popup": "France",
+      "popupCoords": [47.4, 1.85]
+    },
+    {
+      "number": 8.4,
+      "split": true,
+      "map": "global",
+      "title": "Immediate Causes:",
+      "subTitle": "Crisis in the Balkans in early 20th century",
+      "text": [
+        {
+          "text": "Balkans revolt against Ottomans",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Austria-Hungary annexes Bosnia Herzegovina (1908)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "First Balkan War: Balkan States Vs. Ottoman (1912-1913)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Reaction of Great powers",
+          "color": "lightgrey"
+        }
+      ],
+      "year": 1914,
+      "mapLabel": "The Balkans  After the First Balkan War",
+      "mapCenter": [49.76, -2.45],
+      "zoom": 5,
+      "stateColors": {
+        "Ottoman Empire": "yellow",
+        "German Empire": "red",
+        "Russian Empire": "green",
+        "Austro-Hungarian Empire": "darkorange",
+        "France": "blue",
+        "United Kingdom of Great Britain and Ireland": "purple"
+      },
+      "popup": "United Kingdom",
+      "popupCoords": [52.91, -1.66]
+    },
+    {
       "number": 9.1,
       "split": true,
       "slide": true,

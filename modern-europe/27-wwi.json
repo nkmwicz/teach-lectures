@@ -1065,7 +1065,7 @@
       "map": "global",
       "text": [
         {
-          "text": "Fightin in the Colonies",
+          "text": "Fighting in the Colonies",
           "color": "darkslategrey"
         },
         {
@@ -1083,7 +1083,9 @@
         "Russia": "green",
         "Austro-Hungarian Empire": "darkorange",
         "France": "blue",
-        "United Kingdom of Great Britain and Ireland": "purple"
+        "United Kingdom of Great Britain and Ireland": "purple",
+        "British Raj": "purple",
+        "Kingdom of Italy": "lightblue"
       }
     }
   ]

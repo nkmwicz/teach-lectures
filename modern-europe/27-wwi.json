@@ -7,7 +7,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/f/fc/FR-WW1-1914.png",
     "https://chroniclingamerica.loc.gov/iiif/2/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914072801%2F0266.jp2/0,0,6840,8192/855,/0/default.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Clausewitz.jpg",
+    "https://cdn.shopify.com/s/files/1/0268/2549/0485/products/maps.com-world-war-i-in-europe-wall-map_2400x.jpg?v=1572562536"
   ],
   "slides": [
     {
@@ -920,6 +921,88 @@
           "color": "lightgrey"
         }
       ]
+    },
+    {
+      "number": 11.1,
+      "slide": true,
+      "split": true,
+      "title": "The Great War",
+      "text": [
+        {
+          "text": "The Western Front",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Schlieffen Plan Fails: Battle of Marne (Sept. 6-10)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Mobility on Eastern Front",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.shopify.com/s/files/1/0268/2549/0485/products/maps.com-world-war-i-in-europe-wall-map_2400x.jpg?v=1572562536",
+        "alt": "Map of Europe during World War I",
+        "description": ""
+      }
+    },
+    {
+      "number": 11.2,
+      "slide": true,
+      "split": true,
+      "title": "The Great War",
+      "text": [
+        {
+          "text": "The Western Front",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Schlieffen Plan Fails: Battle of Marne (Sept. 6-10)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Mobility on Eastern Front",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.shopify.com/s/files/1/0268/2549/0485/products/maps.com-world-war-i-in-europe-wall-map_2400x.jpg?v=1572562536",
+        "alt": "Map of Europe during World War I",
+        "description": ""
+      }
+    },
+    {
+      "number": 11.3,
+      "slide": true,
+      "split": true,
+      "title": "The Great War",
+      "text": [
+        {
+          "text": "The Western Front",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Schlieffen Plan Fails: Battle of Marne (Sept. 6-10)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Mobility on Eastern Front",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.shopify.com/s/files/1/0268/2549/0485/products/maps.com-world-war-i-in-europe-wall-map_2400x.jpg?v=1572562536",
+        "alt": "Map of Europe during World War I",
+        "description": ""
+      }
+    },
+    {
+      "number": 12,
+      "slide": true,
+      "split": true,
+      "title": "Trench Warfare",
+      "text": [{}]
     }
   ]
 }

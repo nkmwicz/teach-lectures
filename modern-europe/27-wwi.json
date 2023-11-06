@@ -824,6 +824,102 @@
         "alt": "Image of Washington Times front page of Austria declaring war",
         "description": "Europe in 1914"
       }
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "War Declarations",
+      "text": [
+        {
+          "text": "Russia mobilizes, July 29, 1914",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany declares war on Russia August 1, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Declares War on France August 3, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Great Britain declares war on August 4, 1914",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "War Declarations",
+      "text": [
+        {
+          "text": "Russia mobilizes, July 29, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany declares war on Russia August 1, 1914",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany Declares War on France August 3, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Great Britain declares war on August 4, 1914",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "War Declarations",
+      "text": [
+        {
+          "text": "Russia mobilizes, July 29, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany declares war on Russia August 1, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Declares War on France August 3, 1914",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Great Britain declares war on August 4, 1914",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "slide": true,
+      "centered": true,
+      "title": "War Declarations",
+      "text": [
+        {
+          "text": "Russia mobilizes, July 29, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany declares war on Russia August 1, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Declares War on France August 3, 1914",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Great Britain declares war on August 4, 1914",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

@@ -1,12 +1,408 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "Consequences of Wold War I",
-    "subtitle": "Revolution and a Changing Map"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "Consequences of Wold War I",
+      "subtitle": "Revolution and a Changing Map"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "The Setting for Revolution",
+      "text": [
+        {
+          "text": "What were the conditions in Russia before the Revolution?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Peasants and Land?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Who were the populists?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "The Setting for Revolution",
+      "text": [
+        {
+          "text": "What were the conditions in Russia before the Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Peasants and Land?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Who were the populists?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "The Setting for Revolution",
+      "text": [
+        {
+          "text": "What were the conditions in Russia before the Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Peasants and Land?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Who were the populists?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "center": true,
+      "title": "Russian Social Democratic Party",
+      "text": [
+        {
+          "text": "How did Marxist theory apply to Russia?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How did the Menshiviks want to proceed?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How about Vlademir Lenin and the Bolsheviks?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "center": true,
+      "title": "Russian Social Democratic Party",
+      "text": [
+        {
+          "text": "How did Marxist theory apply to Russia?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did the Menshiviks want to proceed?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How about Vlademir Lenin and the Bolsheviks?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "center": true,
+      "title": "Russian Social Democratic Party",
+      "text": [
+        {
+          "text": "How did Marxist theory apply to Russia?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did the Menshiviks want to proceed?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How about Vlademir Lenin and the Bolsheviks?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "center": true,
+      "title": "1905 Revolution",
+      "text": [
+        {
+          "text": "what caused the 1905 Revolution?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What was the result?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What limited the revolution?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "center": true,
+      "title": "1905 Revolution",
+      "text": [
+        {
+          "text": "what caused the 1905 Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the result?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What limited the revolution?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "center": true,
+      "title": "1905 Revolution",
+      "text": [
+        {
+          "text": "what caused the 1905 Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the result?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What limited the revolution?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "center": true,
+      "title": "1917 Revolution",
+      "text": [
+        {
+          "text": "What caused the February Revolution?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Problems between the Provisional Government and the Bolsheviks?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the October Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What happened to the Constituent assembly?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "center": true,
+      "title": "1917 Revolution",
+      "text": [
+        {
+          "text": "What caused the February Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Problems between the Provisional Government and the Bolsheviks?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What was the October Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What happened to the Constituent assembly?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "center": true,
+      "title": "1917 Revolution",
+      "text": [
+        {
+          "text": "What caused the February Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Problems between the Provisional Government and the Bolsheviks?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the October Revolution?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What happened to the Constituent assembly?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "center": true,
+      "title": "1917 Revolution",
+      "text": [
+        {
+          "text": "What caused the February Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Problems between the Provisional Government and the Bolsheviks?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the October Revolution?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What happened to the Constituent assembly?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "center": true,
+      "title": "Civil War",
+      "text": [
+        {
+          "text": "White Armies?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Red Armies?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Why communist victory?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "center": true,
+      "title": "Civil War",
+      "text": [
+        {
+          "text": "White Armies?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Red Armies?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Why communist victory?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "center": true,
+      "title": "Civil War",
+      "text": [
+        {
+          "text": "White Armies?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Red Armies?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Why communist victory?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "center": true,
+      "title": "Assessing the Revolution",
+      "text": [
+        {
+          "text": "Was the 1917 Revolution inevitable?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What was the fundamental problem communism faced in Russia?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did the revolution impact women?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "center": true,
+      "title": "Assessing the Revolution",
+      "text": [
+        {
+          "text": "Was the 1917 Revolution inevitable?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the fundamental problem communism faced in Russia?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How did the revolution impact women?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "center": true,
+      "title": "Assessing the Revolution",
+      "text": [
+        {
+          "text": "Was the 1917 Revolution inevitable?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What was the fundamental problem communism faced in Russia?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How did the revolution impact women?",
+          "color": "lightgrey"
+        }
+      ]
+    }
+  ]
 }

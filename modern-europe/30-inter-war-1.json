@@ -1,6 +1,7 @@
 {
   "images": [
-    "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg"
+    "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg"
   ],
   "slides": [
     {
@@ -467,7 +468,7 @@
       "text": [
         {
           "text": "Benito Mussolini",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         },
         {
           "text": "March on Rome (1922)",
@@ -477,7 +478,59 @@
           "text": "Eliminate opposition",
           "color": "darkslategrey"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+        "alt": "Benito Mussolini"
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "title": "The Rise of Fascism",
+      "split": true,
+      "text": [
+        {
+          "text": "Benito Mussolini",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "March on Rome (1922)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Eliminate opposition",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+        "alt": "Benito Mussolini"
+      }
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "title": "The Rise of Fascism",
+      "split": true,
+      "text": [
+        {
+          "text": "Benito Mussolini",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "March on Rome (1922)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Eliminate opposition",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+        "alt": "Benito Mussolini"
+      }
     }
   ]
 }

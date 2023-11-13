@@ -1,12 +1,483 @@
 {
   "images": [
-
+    "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "The Inter-War Period",
-    "subTitle": "Changes in Society"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "The Inter-War Period",
+      "subTitle": "Changes in Society"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Political Changes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Weimer Republic",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Democracy",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Political Changes",
+      "centered": true,
+      "text": [
+        {
+          "text": "Weimer Republic",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Democracy",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Economic Situation",
+      "text": [
+        {
+          "text": "French & British Loans",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "$10.35 billion [$184.334 billion in 2002] owed to USA by Britain, France, Italy, and Belgium.",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Weimer Republic & Hyperinflation",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "$6.6 billion owed to France & Britain",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Jan.1923: bread loaf = 250 marks",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Nov.1923: bread loaf = 200,000,000,000 marks",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Dawes Plan (1924)",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "reduced and rescheduled reparations payments",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "1929: $2.5 billion loan from USA",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Economic Situation",
+      "text": [
+        {
+          "text": "French & British Loans",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "$10.35 billion [$184.334 billion in 2002] owed to USA by Britain, France, Italy, and Belgium.",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Weimer Republic & Hyperinflation",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "$6.6 billion owed to France & Britain",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Jan.1923: bread loaf = 250 marks",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Nov.1923: bread loaf = 200,000,000,000 marks",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Dawes Plan (1924)",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "reduced and rescheduled reparations payments",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "1929: $2.5 billion loan from USA",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Economic Situation",
+      "text": [
+        {
+          "text": "French & British Loans",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "$10.35 billion [$184.334 billion in 2002] owed to USA by Britain, France, Italy, and Belgium.",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Weimer Republic & Hyperinflation",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "$6.6 billion owed to France & Britain",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Jan.1923: bread loaf = 250 marks",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Nov.1923: bread loaf = 200,000,000,000 marks",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Dawes Plan (1924)",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "reduced and rescheduled reparations payments",
+              "color": "lightgrey"
+            },
+            {
+              "text": "1929: $2.5 billion loan from USA",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in Society",
+      "text": [
+        {
+          "text": "Dead and wounded from the War",
+          "color": "lightgrey"
+        },
+        {
+          "text": "State obsession with birth rates",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Outlaw abortion and contraception",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "awards for large families",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Mass consumerism",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "shopping and new gadgets",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "new service industries",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "automobiles",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in Society",
+      "text": [
+        {
+          "text": "Dead and wounded from the War",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "State obsession with birth rates",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Outlaw abortion and contraception",
+              "color": "lightgrey"
+            },
+            {
+              "text": "awards for large families",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Mass consumerism",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "shopping and new gadgets",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "new service industries",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "automobiles",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in Society",
+      "text": [
+        {
+          "text": "Dead and wounded from the War",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "State obsession with birth rates",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Outlaw abortion and contraception",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "awards for large families",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Mass consumerism",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "shopping and new gadgets",
+              "color": "lightgrey"
+            },
+            {
+              "text": "new service industries",
+              "color": "lightgrey"
+            },
+            {
+              "text": "automobiles",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Changes in Society",
+      "subTitle": "The New Woman",
+      "text": [
+        {
+          "text": "Women and Work",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The New Woman",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Conservatives didn't like it",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg",
+        "alt": "5 women in 1920s dress."
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Changes in Society",
+      "subTitle": "The New Woman",
+      "text": [
+        {
+          "text": "Women and Work",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The New Woman",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conservatives didn't like it",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg",
+        "alt": "5 women in 1920s dress."
+      }
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "split": true,
+      "title": "Changes in Society",
+      "subTitle": "The New Woman",
+      "text": [
+        {
+          "text": "Women and Work",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "The New Woman",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Conservatives didn't like it",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://hancockhistoricalmuseum.org/wp-content/uploads/2021/03/Day-dresses.jpg",
+        "alt": "5 women in 1920s dress."
+      }
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "title": "The Great Depression",
+      "centered": true,
+      "split": [
+        {
+          "text": "Hidden Economic Problems",
+          "color": "lightgrey"
+        },
+        {
+          "text": "October 1929",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Social Impact",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "title": "The Great Depression",
+      "centered": true,
+      "split": [
+        {
+          "text": "Hidden Economic Problems",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "October 1929",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Social Impact",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "title": "The Great Depression",
+      "centered": true,
+      "split": [
+        {
+          "text": "Hidden Economic Problems",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "October 1929",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Social Impact",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "title": "The Rise of Fascism",
+      "split": true,
+      "text": [
+        {
+          "text": "Benito Mussolini",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "March on Rome (1922)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Eliminate opposition",
+          "color": "darkslategrey"
+        }
+      ]
+    }
+  ]
 }

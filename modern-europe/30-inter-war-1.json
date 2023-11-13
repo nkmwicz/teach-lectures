@@ -404,7 +404,7 @@
       "slide": true,
       "title": "The Great Depression",
       "centered": true,
-      "split": [
+      "text": [
         {
           "text": "Hidden Economic Problems",
           "color": "lightgrey"
@@ -424,7 +424,7 @@
       "slide": true,
       "title": "The Great Depression",
       "centered": true,
-      "split": [
+      "text": [
         {
           "text": "Hidden Economic Problems",
           "color": "darkslategrey"
@@ -444,7 +444,7 @@
       "slide": true,
       "title": "The Great Depression",
       "centered": true,
-      "split": [
+      "text": [
         {
           "text": "Hidden Economic Problems",
           "color": "darkslategrey"

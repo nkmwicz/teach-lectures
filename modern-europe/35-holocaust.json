@@ -1,11 +1,583 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "The Holocaust"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "The Holocaust"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Problems from the Depression",
+      "text": [
+        {
+          "text": "Social Changes?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What were politics like?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "centered": true,
+      "title": "Problems from the Depression",
+      "text": [
+        {
+          "text": "Social Changes?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What were politics like?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Rise of the Nazis",
+      "text": [
+        {
+          "text": "Who were they?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What did they want?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How popular were they?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Rise of the Nazis",
+      "text": [
+        {
+          "text": "Who were they?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What did they want?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How popular were they?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "centered": true,
+      "title": "The Rise of the Nazis",
+      "text": [
+        {
+          "text": "Who were they?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What did they want?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How popular were they?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "How did the Nazis come to power?",
+      "text": [
+        {
+          "text": "President Paul von Hindenburg",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Emergency Rule",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Treatment of Political Enemies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Response from the Public",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "How did the Nazis come to power?",
+      "text": [
+        {
+          "text": "President Paul von Hindenburg",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Emergency Rule",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Treatment of Political Enemies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Response from the Public",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "How did the Nazis come to power?",
+      "text": [
+        {
+          "text": "President Paul von Hindenburg",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Emergency Rule",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Treatment of Political Enemies",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Response from the Public",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "centered": true,
+      "title": "How did the Nazis come to power?",
+      "text": [
+        {
+          "text": "President Paul von Hindenburg",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Emergency Rule",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Treatment of Political Enemies",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Response from the Public",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Changes after Hindenburg's death",
+      "text": [
+        {
+          "text": "Hitler's Position?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Economy & Military?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nuremburg Laws?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nazism and Racial Struggle?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Changes after Hindenburg's death",
+      "text": [
+        {
+          "text": "Hitler's Position?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Economy & Military?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Nuremburg Laws?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nazism and Racial Struggle?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Changes after Hindenburg's death",
+      "text": [
+        {
+          "text": "Hitler's Position?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Economy & Military?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nuremburg Laws?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Nazism and Racial Struggle?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slide": true,
+      "centered": true,
+      "title": "Changes after Hindenburg's death",
+      "text": [
+        {
+          "text": "Hitler's Position?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Economy & Military?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nuremburg Laws?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Nazism and Racial Struggle?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Treatment of Jewish Population",
+      "text": [
+        {
+          "text": "Changes from 1933-1938",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany Annexes Austria, 12 March 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Kristallnacht, 9 Nov. 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Treatment of Jewish Population",
+      "text": [
+        {
+          "text": "Changes from 1933-1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Annexes Austria, 12 March 1938",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Kristallnacht, 9 Nov. 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Treatment of Jewish Population",
+      "text": [
+        {
+          "text": "Changes from 1933-1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Annexes Austria, 12 March 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Kristallnacht, 9 Nov. 1938",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Concentration Camps",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "centered": true,
+      "title": "Treatment of Jewish Population",
+      "text": [
+        {
+          "text": "Changes from 1933-1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Annexes Austria, 12 March 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Kristallnacht, 9 Nov. 1938",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "WWII, 1939-1945",
+      "text": [
+        {
+          "text": "Germany Invades Poland, 1 Sept. 1939",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany occupies Denmark, Apr 1940",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Invades France, May 1940, (conquerd by June)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Activities in Poland",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "WWII, 1939-1945",
+      "text": [
+        {
+          "text": "Germany Invades Poland, 1 Sept. 1939",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany occupies Denmark, Apr 1940",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany Invades France, May 1940, (conquerd by June)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Activities in Poland",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "WWII, 1939-1945",
+      "text": [
+        {
+          "text": "Germany Invades Poland, 1 Sept. 1939",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany occupies Denmark, Apr 1940",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Invades France, May 1940, (conquerd by June)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Activities in Poland",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "centered": true,
+      "title": "WWII, 1939-1945",
+      "text": [
+        {
+          "text": "Germany Invades Poland, 1 Sept. 1939",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany occupies Denmark, Apr 1940",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Invades France, May 1940, (conquerd by June)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Activities in Poland",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "June 1941, Invasion of Russia",
+      "text": [
+        {
+          "text": "Wermacht (German Army) in Russia",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ghettos",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Killing Squads",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps into Death Camps (Oct. 1941)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "June 1941, Invasion of Russia",
+      "text": [
+        {
+          "text": "Wermacht (German Army) in Russia",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ghettos",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Killing Squads",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Concentration Camps into Death Camps (Oct. 1941)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "June 1941, Invasion of Russia",
+      "text": [
+        {
+          "text": "Wermacht (German Army) in Russia",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ghettos",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Killing Squads",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps into Death Camps (Oct. 1941)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "centered": true,
+      "title": "June 1941, Invasion of Russia",
+      "text": [
+        {
+          "text": "Wermacht (German Army) in Russia",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ghettos",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Killing Squads",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Concentration Camps into Death Camps (Oct. 1941)",
+          "color": "lightgrey"
+        }
+      ]
+    }
+  ]
 }

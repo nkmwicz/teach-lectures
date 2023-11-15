@@ -519,11 +519,11 @@
         },
         {
           "text": "Ghettos",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         },
         {
           "text": "Killing Squads",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Concentration Camps into Death Camps (Oct. 1941)",
@@ -543,11 +543,11 @@
         },
         {
           "text": "Ghettos",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Killing Squads",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         },
         {
           "text": "Concentration Camps into Death Camps (Oct. 1941)",

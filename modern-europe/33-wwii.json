@@ -1,11 +1,625 @@
 {
   "images": [
-
+    "https://practicestorage.blob.core.windows.net/practice/maps/ger-aggression-1931-39.jpg",
+    "https://secretmuseum.net/wp-content/uploads/2019/10/ww2-map-of-europe-allies-and-axis-wwii-map-of-europe-worksheet-of-ww2-map-of-europe-allies-and-axis.jpg",
+    "https://practicestorage.blob.core.windows.net/practice/maps/ger-expansion-1940-41.jpg",
+    "https://practicestorage.blob.core.windows.net/practice/maps/allied-counterattack-1942-45.jpg"
   ],
-  "slides": [{
-    "number": 1,
-    "intro": true,
-    "slide": true,
-		"title": "World War II"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "intro": true,
+      "slide": true,
+      "title": "World War II"
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "title": "Rise of the Axis Powers",
+      "centered": true,
+      "text": [
+        {
+          "text": "1935: Hitler Rearms Germany",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1936: German-Italian Agreement",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: Anti-Commintern Pact (German and Japan)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1937: Japan Invades China",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Rise of the Axis Powers",
+      "centered": true,
+      "text": [
+        {
+          "text": "1935: Hitler Rearms Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: German-Italian Agreement",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1936: Anti-Commintern Pact (German and Japan)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1937: Japan Invades China",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "Rise of the Axis Powers",
+      "centered": true,
+      "text": [
+        {
+          "text": "1935: Hitler Rearms Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: German-Italian Agreement",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: Anti-Commintern Pact (German and Japan)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1937: Japan Invades China",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "title": "Rise of the Axis Powers",
+      "centered": true,
+      "text": [
+        {
+          "text": "1935: Hitler Rearms Germany",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: German-Italian Agreement",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1936: Anti-Commintern Pact (German and Japan)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1937: Japan Invades China",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Nazi Expansion",
+      "text": [
+        {
+          "text": "1939: German non-aggression pact with USSR",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1 Sept 1939: Germany invades Poland",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Sept 1939: Britain and France declare war on Germany",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-aggression-1931-39.jpg",
+        "alt": "Map of German Aggression from 1931 to 1939"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Nazi Expansion",
+      "text": [
+        {
+          "text": "1939: German non-aggression pact with USSR",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1 Sept 1939: Germany invades Poland",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3 Sept 1939: Britain and France declare war on Germany",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-aggression-1931-39.jpg",
+        "alt": "Map of German Aggression from 1931 to 1939"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Nazi Expansion",
+      "text": [
+        {
+          "text": "1939: German non-aggression pact with USSR",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1 Sept 1939: Germany invades Poland",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "3 Sept 1939: Britain and France declare war on Germany",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-aggression-1931-39.jpg",
+        "alt": "Map of German Aggression from 1931 to 1939"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "The War in Europe, 1939-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "Apr. 1940, Germany invades Denmark",
+          "color": "lightgrey"
+        },
+        {
+          "text": "May 1940, Germany invades France (conquered by June)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "June 1941, Germany invades USSR",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-expansion-1940-41.jpg",
+        "alt": "Map of German Expansion from 1939 to 1941"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "The War in Europe, 1939-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "Apr. 1940, Germany invades Denmark",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "May 1940, Germany invades France (conquered by June)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "June 1941, Germany invades USSR",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-expansion-1940-41.jpg",
+        "alt": "Map of German Expansion from 1939 to 1941"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "The War in Europe, 1939-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "Apr. 1940, Germany invades Denmark",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "May 1940, Germany invades France (conquered by June)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "June 1941, Germany invades USSR",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/ger-expansion-1940-41.jpg",
+        "alt": "Map of German Expansion from 1939 to 1941"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "title": "The War in Asia, 1931-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "1931: Japan invades Manchuria",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1937: Japan invades China",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1941: Japan attacks Pearl Harbor",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/japan-aggression1931-1941.png",
+        "alt": "Map of Japanese Sphere of Influence 1931-1941"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "The War in Asia, 1931-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "1931: Japan invades Manchuria",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1937: Japan invades China",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1941: Japan attacks Pearl Harbor",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/japan-aggression1931-1941.png",
+        "alt": "Map of Japanese Sphere of Influence 1931-1941"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "The War in Asia, 1931-1941",
+      "split": true,
+      "text": [
+        {
+          "text": "1931: Japan invades Manchuria",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1937: Japan invades China",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "1941: Japan attacks Pearl Harbor",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/japan-aggression1931-1941.png",
+        "alt": "Map of Japanese Sphere of Influence 1931-1941"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "title": "The Turning Point in Europe, 1942-1945",
+      "split": true,
+      "text": [
+        {
+          "text": "Grand Alliance: US, Britain, USSR",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ger. & Italy surrender in N. Africa",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Battle of Stalingrad (Nov. 1942-Feb. 1943)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://secretmuseum.net/wp-content/uploads/2019/10/ww2-map-of-europe-allies-and-axis-wwii-map-of-europe-worksheet-of-ww2-map-of-europe-allies-and-axis.jpg"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "title": "The Turning Point in Europe, 1942-1945",
+      "split": true,
+      "text": [
+        {
+          "text": "Grand Alliance: US, Britain, USSR",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ger. & Italy surrender in N. Africa",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Battle of Stalingrad (Nov. 1942-Feb. 1943)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://secretmuseum.net/wp-content/uploads/2019/10/ww2-map-of-europe-allies-and-axis-wwii-map-of-europe-worksheet-of-ww2-map-of-europe-allies-and-axis.jpg"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "title": "The Turning Point in Europe, 1942-1945",
+      "split": true,
+      "text": [
+        {
+          "text": "Grand Alliance: US, Britain, USSR",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ger. & Italy surrender in N. Africa",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Battle of Stalingrad (Nov. 1942-Feb. 1943)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://secretmuseum.net/wp-content/uploads/2019/10/ww2-map-of-europe-allies-and-axis-wwii-map-of-europe-worksheet-of-ww2-map-of-europe-allies-and-axis.jpg"
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "subTitle": "Part 2",
+      "split": true,
+      "text": [
+        {
+          "text": "Allies cross Mediterranean into Italy (Sept. 1943)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Allies land on the beaches of Normandy (June 1944)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "April 1945, USSR conquers Berlin",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Surrenders, 7 May 1945",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/allied-counterattack-1942-45.jpg"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "subTitle": "Part 2",
+      "split": true,
+      "text": [
+        {
+          "text": "Allies cross Mediterranean into Italy (Sept. 1943)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allies land on the beaches of Normandy (June 1944)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "April 1945, USSR conquers Berlin",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Surrenders, 7 May 1945",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/allied-counterattack-1942-45.jpg"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "subTitle": "Part 2",
+      "split": true,
+      "text": [
+        {
+          "text": "Allies cross Mediterranean into Italy (Sept. 1943)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allies land on the beaches of Normandy (June 1944)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "April 1945, USSR conquers Berlin",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Germany Surrenders, 7 May 1945",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/allied-counterattack-1942-45.jpg"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "subTitle": "Part 2",
+      "split": true,
+      "text": [
+        {
+          "text": "Allies cross Mediterranean into Italy (Sept. 1943)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allies land on the beaches of Normandy (June 1944)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "April 1945, USSR conquers Berlin",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Germany Surrenders, 7 May 1945",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/allied-counterattack-1942-45.jpg"
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "centered": true,
+      "text": [
+        {
+          "text": "Battle of Midway Island, June 1942",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Island hopping campaign, 1943-1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Atomic bombs dropped on Hiroshima and Nagasaki, 9 & 14 Aug. 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japan surrenders 14 Aug. 1945",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "centered": true,
+      "text": [
+        {
+          "text": "Battle of Midway Island, June 1942",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Island hopping campaign, 1943-1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Atomic bombs dropped on Hiroshima and Nagasaki, 9 & 14 Aug. 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japan surrenders 14 Aug. 1945",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "centered": true,
+      "text": [
+        {
+          "text": "Battle of Midway Island, June 1942",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Island hopping campaign, 1943-1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Atomic bombs dropped on Hiroshima and Nagasaki, 9 & 14 Aug. 1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Japan surrenders 14 Aug. 1945",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "title": "The War in the Pacific, 1942-1945",
+      "centered": true,
+      "text": [
+        {
+          "text": "Battle of Midway Island, June 1942",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Island hopping campaign, 1943-1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Atomic bombs dropped on Hiroshima and Nagasaki, 9 & 14 Aug. 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japan surrenders 14 Aug. 1945",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slide": true,
+      "centered": true,
+      "title": "Aftermath of WWII",
+      "text": [
+        {
+          "text": "21 million soldiers dead"
+        },
+        {
+          "text": "40 million civilians dead "
+        },
+        {
+          "text": "Partition and Occupation of Germany"
+        },
+        {
+          "text": "Occupation of Japan"
+        }
+      ]
+    }
+  ]
 }

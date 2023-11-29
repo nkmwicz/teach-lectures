@@ -16,114 +16,82 @@
     {
       "number": 2,
       "slide": true,
-      "title": "Dealing with Post Axis Powers",
-      "split": true,
+      "title": "USSR Overcommits",
+      "centered": true,
       "text": [
         {
-          "text": "German Expansion: 1943",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Borders at War's End: 1945",
+          "text": "Leonid Brezhnev",
           "color": "darkslategrey"
         },
         {
-          "text": "Japanese Imperialism: 1945",
+          "text": "Brezhnev Doctrine",
           "color": "darkslategrey"
         },
         {
-          "text": "Allied Occupation of Japan: 1947",
+          "text": "Afghanistan (1979-1989)",
           "color": "darkslategrey"
         }
-      ],
-      "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1943.png",
-        "alt": "Map of Europe in 1943 under German Occupation"
-      }
+      ]
     },
     {
-      "number": 2.2,
+      "number": 3,
       "slide": true,
-      "title": "Dealing with Post Axis Powers",
-      "split": true,
+      "title": "The Beginning of the End",
+      "centere": true,
       "text": [
         {
-          "text": "German Expansion: 1943",
+          "text": "Mikhail Gorbachev",
           "color": "darkslategrey"
         },
         {
-          "text": "Borders at War's End: 1945",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Japanese Imperialism: 1945",
+          "text": "Perestroika (restructuring)",
           "color": "darkslategrey"
         },
         {
-          "text": "Allied Occupation of Japan: 1947",
+          "text": "Glasnost (openness)",
           "color": "darkslategrey"
         }
-      ],
-      "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
-        "alt": "Map of Europe in 1945 under new borders"
-      }
+      ]
     },
     {
-      "number": 2.3,
+      "number": 4,
       "slide": true,
-      "title": "Dealing with Post Axis Powers",
-      "split": true,
+      "title": "Poland",
+      "centered": true,
       "text": [
         {
-          "text": "German Expansion: 1943",
+          "text": "What was the Problem?",
           "color": "darkslategrey"
         },
         {
-          "text": "Borders at War's End: 1945",
+          "text": "Solidarity Movement",
           "color": "darkslategrey"
         },
         {
-          "text": "Japanese Imperialism: 1945",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Allied Occupation of Japan: 1947",
+          "text": "End of the Brezhnev Doctrine",
           "color": "darkslategrey"
         }
-      ],
-      "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png",
-        "alt": "Map of Japanese Imperialism in 1945"
-      }
+      ]
     },
     {
-      "number": 2,
+      "number": 5,
       "slide": true,
-      "title": "Dealing with Post Axis Powers",
-      "split": true,
+      "title": "Collapse of the USSR",
+      "centered": true,
       "text": [
         {
-          "text": "German Expansion: 1943",
+          "text": "Why did the USSR Collapse?",
           "color": "darkslategrey"
         },
         {
-          "text": "Borders at War's End: 1945",
+          "text": "What happened to Russian Politics after collapse?",
           "color": "darkslategrey"
         },
         {
-          "text": "Japanese Imperialism: 1945",
+          "text": "what happened to Politics?",
           "color": "darkslategrey"
-        },
-        {
-          "text": "Allied Occupation of Japan: 1947",
-          "color": "lightgrey"
         }
-      ],
-      "image": {
-        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
-        "alt": "Map of Allied Occuptaion of Japan in 1947"
-      }
+      ]
     }
   ]
 }

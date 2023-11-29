@@ -1,12 +1,436 @@
 {
   "images": [
-
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1943.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Cold War",
-    "intro": true,
-    "subTitle": "Part I"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Cold War",
+      "intro": true,
+      "subTitle": "Part I"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1943.png",
+        "alt": "Map of Europe in 1943 under German Occupation"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png",
+        "alt": "Map of Japanese Imperialism in 1945"
+      }
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+        "alt": "Map of Allied Occuptaion of Japan in 1947"
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "title": "The First Challenges",
+      "split": true,
+      "text": [
+        {
+          "text": "Greek Civil War (1944-1949)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Berlin Airlift (1948-1949)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "title": "The First Challenges",
+      "split": true,
+      "text": [
+        {
+          "text": "Greek Civil War (1944-1949)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Berlin Airlift (1948-1949)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "USA Reaction",
+      "split": true,
+      "text": [
+        {
+          "text": "Policy of Containment, 1947",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Marshall Plan, 1948",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "NATO (North Atlantic Treaty Organization), 1949",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "USA Reaction",
+      "split": true,
+      "text": [
+        {
+          "text": "Policy of Containment, 1947",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Marshall Plan, 1948",
+          "color": "lightgrey"
+        },
+        {
+          "text": "NATO (North Atlantic Treaty Organization), 1949",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "USA Reaction",
+      "split": true,
+      "text": [
+        {
+          "text": "Policy of Containment, 1947",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Marshall Plan, 1948",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "NATO (North Atlantic Treaty Organization), 1949",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "title": "Rising Tensions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Warsaw Pact, 1955",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Wladyslaw Gomulka, Poland, 1955",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Imre Nagy, Hungary, 1955-56",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "US Spy Place shot down, 1960",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Berlin Wall, 1961",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Cuban Missile Crisis, 1962",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Fidel Castro, Cuba, 1959",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Bay of Pigs, 1961",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Soviet Missiles, 1962",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "Rising Tensions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Warsaw Pact, 1955",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Wladyslaw Gomulka, Poland, 1955",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Imre Nagy, Hungary, 1955-56",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "US Spy Place shot down, 1960",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Berlin Wall, 1961",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Cuban Missile Crisis, 1962",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Fidel Castro, Cuba, 1959",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Bay of Pigs, 1961",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Soviet Missiles, 1962",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "Rising Tensions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Warsaw Pact, 1955",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Wladyslaw Gomulka, Poland, 1955",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Imre Nagy, Hungary, 1955-56",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "US Spy Place shot down, 1960",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Berlin Wall, 1961",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Cuban Missile Crisis, 1962",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Fidel Castro, Cuba, 1959",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Bay of Pigs, 1961",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Soviet Missiles, 1962",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "title": "Rising Tensions",
+      "centered": true,
+      "text": [
+        {
+          "text": "Warsaw Pact, 1955",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Wladyslaw Gomulka, Poland, 1955",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Imre Nagy, Hungary, 1955-56",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "US Spy Place shot down, 1960",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Berlin Wall, 1961",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Cuban Missile Crisis, 1962",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Fidel Castro, Cuba, 1959",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Bay of Pigs, 1961",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Soviet Missiles, 1962",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 
+    }
+  ]
 }

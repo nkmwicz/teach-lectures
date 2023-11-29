@@ -1,12 +1,129 @@
 {
   "images": [
-
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1943.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Cold War",
-    "intro": true,
-    "subTitle": "Part II"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Cold War",
+      "intro": true,
+      "subTitle": "Part II"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1943.png",
+        "alt": "Map of Europe in 1943 under German Occupation"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-europe-1945.png",
+        "alt": "Map of Europe in 1945 under new borders"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png",
+        "alt": "Map of Japanese Imperialism in 1945"
+      }
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "title": "Dealing with Post Axis Powers",
+      "split": true,
+      "text": [
+        {
+          "text": "German Expansion: 1943",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Borders at War's End: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Japanese Imperialism: 1945",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Allied Occupation of Japan: 1947",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+        "alt": "Map of Allied Occuptaion of Japan in 1947"
+      }
+    }
+  ]
 }

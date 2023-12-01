@@ -14,7 +14,47 @@
       "subTitle": "Part II"
     },
     {
-      "number": 2,
+      "number": 2.1,
+      "slide": true,
+      "title": "USSR Overcommits",
+      "centered": true,
+      "text": [
+        {
+          "text": "Leonid Brezhnev (office, 1964-1982)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Brezhnev Doctrine",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Afghanistan (1979-1989)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "USSR Overcommits",
+      "centered": true,
+      "text": [
+        {
+          "text": "Leonid Brezhnev (office, 1964-1982)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Brezhnev Doctrine",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Afghanistan (1979-1989)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
       "slide": true,
       "title": "USSR Overcommits",
       "centered": true,
@@ -29,12 +69,52 @@
         },
         {
           "text": "Afghanistan (1979-1989)",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "title": "The Beginning of the End",
+      "centered": true,
+      "text": [
+        {
+          "text": "Mikhail Gorbachev (office, 1985-1991)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Perestroika (restructuring)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Glasnost (openness)",
           "color": "darkslategrey"
         }
       ]
     },
     {
-      "number": 3,
+      "number": 3.2,
+      "slide": true,
+      "title": "The Beginning of the End",
+      "centered": true,
+      "text": [
+        {
+          "text": "Mikhail Gorbachev (office, 1985-1991)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Perestroika (restructuring)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Glasnost (openness)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
       "slide": true,
       "title": "The Beginning of the End",
       "centered": true,
@@ -49,12 +129,52 @@
         },
         {
           "text": "Glasnost (openness)",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Poland",
+      "centered": true,
+      "text": [
+        {
+          "text": "What was the Problem?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Solidarity Movement",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "End of the Brezhnev Doctrine",
           "color": "darkslategrey"
         }
       ]
     },
     {
-      "number": 4,
+      "number": 4.2,
+      "slide": true,
+      "title": "Poland",
+      "centered": true,
+      "text": [
+        {
+          "text": "What was the Problem?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Solidarity Movement",
+          "color": "lightgrey"
+        },
+        {
+          "text": "End of the Brezhnev Doctrine",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
       "slide": true,
       "title": "Poland",
       "centered": true,
@@ -69,12 +189,52 @@
         },
         {
           "text": "End of the Brezhnev Doctrine",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "title": "Collapse of the USSR",
+      "centered": true,
+      "text": [
+        {
+          "text": "Why did the USSR Collapse?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "What happened to Russian Politics after collapse?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "what happened to Politics?",
           "color": "darkslategrey"
         }
       ]
     },
     {
-      "number": 5,
+      "number": 5.2,
+      "slide": true,
+      "title": "Collapse of the USSR",
+      "centered": true,
+      "text": [
+        {
+          "text": "Why did the USSR Collapse?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "What happened to Russian Politics after collapse?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "what happened to Politics?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
       "slide": true,
       "title": "Collapse of the USSR",
       "centered": true,
@@ -89,7 +249,7 @@
         },
         {
           "text": "what happened to Politics?",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ]
     }

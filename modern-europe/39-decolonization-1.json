@@ -628,6 +628,126 @@
         "alt": "Map of North and South Vietnam",
         "description": "Map of North and south Vietnam"
       }
+    },
+    {
+      "number": 8.1,
+      "title": "French Decolonization",
+      "subTitle": "Algeria",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "National Liberation Front (FLN)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "War of Independence, 1954-1962",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Military: Out of Control",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fifth Republic (1958), and Algerian Independence (1962)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/D%C3%A9partements_fran%C3%A7ais_d%27Alg%C3%A9rie_1934-1955_map-fr.svg",
+        "alt": "Map of Algeria as a French Department",
+        "description": "Map of Algeria as a French Department"
+      }
+    },
+    {
+      "number": 8.2,
+      "title": "French Decolonization",
+      "subTitle": "Algeria",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "National Liberation Front (FLN)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War of Independence, 1954-1962",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French Military: Out of Control",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fifth Republic (1958), and Algerian Independence (1962)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/D%C3%A9partements_fran%C3%A7ais_d%27Alg%C3%A9rie_1934-1955_map-fr.svg",
+        "alt": "Map of Algeria as a French Department",
+        "description": "Map of Algeria as a French Department"
+      }
+    },
+    {
+      "number": 8.3,
+      "title": "French Decolonization",
+      "subTitle": "Algeria",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "National Liberation Front (FLN)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "War of Independence, 1954-1962",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Military: Out of Control",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Fifth Republic (1958), and Algerian Independence (1962)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/D%C3%A9partements_fran%C3%A7ais_d%27Alg%C3%A9rie_1934-1955_map-fr.svg",
+        "alt": "Map of Algeria as a French Department",
+        "description": "Map of Algeria as a French Department"
+      }
+    },
+    {
+      "number": 8.4,
+      "title": "French Decolonization",
+      "subTitle": "Algeria",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "National Liberation Front (FLN)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "War of Independence, 1954-1962",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French Military: Out of Control",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fifth Republic (1958), and Algerian Independence (1962)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/D%C3%A9partements_fran%C3%A7ais_d%27Alg%C3%A9rie_1934-1955_map-fr.svg",
+        "alt": "Map of Algeria as a French Department",
+        "description": "Map of Algeria as a French Department"
+      }
     }
   ]
 }

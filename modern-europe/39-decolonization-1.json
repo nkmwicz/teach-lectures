@@ -510,7 +510,7 @@
       }
     },
     {
-      "number": 7,
+      "number": 7.1,
       "title": "French Decolonization",
       "subTitle": "Vietnam",
       "slide": true,
@@ -529,10 +529,105 @@
           "color": "darkslategray"
         },
         {
-          "text": "",
+          "text": "US support for South Vietnam, 1961-19",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png",
+        "alt": "Map of North and South Vietnam",
+        "description": "Map of North and south Vietnam"
+      }
+    },
+    {
+      "number": 7.2,
+      "title": "French Decolonization",
+      "subTitle": "Vietnam",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "French war of reconquest, 1946-1954",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ho Chi Minh (1890-1969)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Dien Bien Phu, 1954 & division",
+          "color": "darkslategray"
+        },
+        {
+          "text": "US support for South Vietnam, 1961-19",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png",
+        "alt": "Map of North and South Vietnam",
+        "description": "Map of North and south Vietnam"
+      }
+    },
+    {
+      "number": 7.3,
+      "title": "French Decolonization",
+      "subTitle": "Vietnam",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "French war of reconquest, 1946-1954",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ho Chi Minh (1890-1969)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dien Bien Phu, 1954 & division",
+          "color": "lightgrey"
+        },
+        {
+          "text": "US support for South Vietnam, 1961-19",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png",
+        "alt": "Map of North and South Vietnam",
+        "description": "Map of North and south Vietnam"
+      }
+    },
+    {
+      "number": 7.4,
+      "title": "French Decolonization",
+      "subTitle": "Vietnam",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "French war of reconquest, 1946-1954",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ho Chi Minh (1890-1969)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dien Bien Phu, 1954 & division",
+          "color": "darkslategray"
+        },
+        {
+          "text": "US support for South Vietnam, 1961-19",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png",
+        "alt": "Map of North and South Vietnam",
+        "description": "Map of North and south Vietnam"
+      }
     }
   ]
 }

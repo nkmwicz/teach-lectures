@@ -1,12 +1,266 @@
 {
   "images": [
-
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png"
   ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Decolonization",
-    "intro": true,
-    "subTitle": "Early Stages"
-  }]
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Decolonization",
+      "intro": true,
+      "subTitle": "Early Stages"
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Pressures for Decolonization after WWII",
+      "centered": true,
+      "text": [
+        {
+          "text": "The European Economy",
+          "color": "lightgrey"
+        },
+        {
+          "text": "European Military Capacity",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Social Pressures in Europe",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "Pressures for Decolonization after WWII",
+      "centered": true,
+      "text": [
+        {
+          "text": "The European Economy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "European Military Capacity",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Social Pressures in Europe",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "Pressures for Decolonization after WWII",
+      "centered": true,
+      "text": [
+        {
+          "text": "The European Economy",
+          "color": "darkslategray"
+        },
+        {
+          "text": "European Military Capacity",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Social Pressures in Europe",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "title": "Global Dynamic in Cold War",
+      "centered": true,
+      "text": [
+        {
+          "text": "1st World?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "2nd World?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "3rd World",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Global Dynamic in Cold War",
+      "centered": true,
+      "text": [
+        {
+          "text": "1st World?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd World?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "3rd World",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "Global Dynamic in Cold War",
+      "centered": true,
+      "text": [
+        {
+          "text": "1st World?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "2nd World?",
+          "color": "darkslategray"
+        },
+        {
+          "text": "3rd World",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Post-War Situation in East Asia",
+      "split": true,
+      "text": [
+        {
+          "text": "Remember the Japanese Sphere of Influence",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Korea Divided",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Vietnam back to France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Indonesia back to the Dutch",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png",
+        "alt": "Map of Japanese Imperialism in 1945"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "Post-War Situation in East Asia",
+      "split": true,
+      "text": [
+        {
+          "text": "Remember the Japanese Sphere of Influence",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Korea Divided",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Vietnam back to France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Indonesia back to the Dutch",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+        "alt": "Map of Allied Occuptaion of Japan in 1947"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "Post-War Situation in East Asia",
+      "split": true,
+      "text": [
+        {
+          "text": "Remember the Japanese Sphere of Influence",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Korea Divided",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Vietnam back to France",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Indonesia back to the Dutch",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+        "alt": "Map of Allied Occuptaion of Japan in 1947"
+      }
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "title": "Post-War Situation in East Asia",
+      "split": true,
+      "text": [
+        {
+          "text": "Remember the Japanese Sphere of Influence",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Korea Divided",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Vietnam back to France",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Indonesia back to the Dutch",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1947.png",
+        "alt": "Map of Allied Occuptaion of Japan in 1947"
+      }
+    },
+    {
+      "number": 5,
+      "title": "British Decolonization",
+      "subTitle": "India and Pakistan",
+      "slide": true,
+      "text": [
+        {
+          "text": "India and Pakistan",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Israel and Palestine",
+          "color": "darkslategray"
+        },
+        {
+          "text": "pattern",
+          "color": "darkslategray"
+        }
+      ]
+    }
+  ]
 }

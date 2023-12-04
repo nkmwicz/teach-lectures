@@ -1,6 +1,8 @@
 {
   "images": [
-    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png"
+    "https://practicestorage.blob.core.windows.net/practice/maps/map-e-asia-1945.png",
+    "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg"
   ],
   "slides": [
     {
@@ -243,21 +245,291 @@
       }
     },
     {
-      "number": 5,
+      "number": 5.1,
       "title": "British Decolonization",
       "subTitle": "India and Pakistan",
       "slide": true,
+      "split": true,
       "text": [
         {
-          "text": "India and Pakistan",
+          "text": "Indian National Congress & Mahatma Gandhi",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1946: British agree to Indian Independence",
           "color": "darkslategray"
         },
         {
-          "text": "Israel and Palestine",
+          "text": "Fighting between Hindus and Muslims",
           "color": "darkslategray"
         },
         {
-          "text": "pattern",
+          "text": "1947: India and Pakistan created",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+        "alt": "Map of the Partition of India",
+        "description": "The Partition of India, 1947"
+      }
+    },
+    {
+      "number": 5.2,
+      "title": "British Decolonization",
+      "subTitle": "India and Pakistan",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "Indian National Congress & Mahatma Gandhi",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1946: British agree to Indian Independence",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Fighting between Hindus and Muslims",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1947: India and Pakistan created",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+        "alt": "Map of the Partition of India",
+        "description": "The Partition of India, 1947"
+      }
+    },
+    {
+      "number": 5.3,
+      "title": "British Decolonization",
+      "subTitle": "India and Pakistan",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "Indian National Congress & Mahatma Gandhi",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1946: British agree to Indian Independence",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fighting between Hindus and Muslims",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1947: India and Pakistan created",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+        "alt": "Map of the Partition of India",
+        "description": "The Partition of India, 1947"
+      }
+    },
+    {
+      "number": 5.4,
+      "title": "British Decolonization",
+      "subTitle": "India and Pakistan",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "Indian National Congress & Mahatma Gandhi",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1946: British agree to Indian Independence",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Fighting between Hindus and Muslims",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1947: India and Pakistan created",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+        "alt": "Map of the Partition of India",
+        "description": "The Partition of India, 1947"
+      }
+    },
+    {
+      "number": 6.1,
+      "title": "British Decolonization",
+      "subTitle": "Israel and Palestine",
+      "split": true,
+      "text": [
+        {
+          "text": "Palestine as a British Mandate",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Balfour Declaration, 1917",
+          "color": "darkslategray"
+        },
+        {
+          "text": "UN partition plan, 1947",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War, 1947-1949",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg",
+        "alt": "Map of UN planned partition of Israel and Palestin, 1947",
+        "description": "Map of UN planned partition of Israel and Palestin, 1947"
+      }
+    },
+    {
+      "number": 6.2,
+      "title": "British Decolonization",
+      "subTitle": "Israel and Palestine",
+      "split": true,
+      "text": [
+        {
+          "text": "Palestine as a British Mandate",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Balfour Declaration, 1917",
+          "color": "lightgrey"
+        },
+        {
+          "text": "UN partition plan, 1947",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War, 1947-1949",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg",
+        "alt": "Map of UN planned partition of Israel and Palestin, 1947",
+        "description": "Map of UN planned partition of Israel and Palestin, 1947"
+      }
+    },
+    {
+      "number": 6.3,
+      "title": "British Decolonization",
+      "subTitle": "Israel and Palestine",
+      "split": true,
+      "text": [
+        {
+          "text": "Palestine as a British Mandate",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Balfour Declaration, 1917",
+          "color": "darkslategray"
+        },
+        {
+          "text": "UN partition plan, 1947",
+          "color": "lightgrey"
+        },
+        {
+          "text": "War, 1947-1949",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg",
+        "alt": "Map of UN planned partition of Israel and Palestin, 1947",
+        "description": "Map of UN planned partition of Israel and Palestin, 1947"
+      }
+    },
+    {
+      "number": 6.4,
+      "title": "British Decolonization",
+      "subTitle": "Israel and Palestine",
+      "split": true,
+      "text": [
+        {
+          "text": "Palestine as a British Mandate",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Balfour Declaration, 1917",
+          "color": "darkslategray"
+        },
+        {
+          "text": "UN partition plan, 1947",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War, 1947-1949",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg",
+        "alt": "Map of UN planned partition of Israel and Palestin, 1947",
+        "description": "Map of UN planned partition of Israel and Palestin, 1947"
+      }
+    },
+    {
+      "number": 6.4,
+      "title": "British Decolonization",
+      "subTitle": "Israel and Palestine",
+      "split": true,
+      "text": [
+        {
+          "text": "Palestine as a British Mandate",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Balfour Declaration, 1917",
+          "color": "darkslategray"
+        },
+        {
+          "text": "UN partition plan, 1947",
+          "color": "darkslategray"
+        },
+        {
+          "text": "War, 1947-1949",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Six_Day_War_Territories.svg",
+        "alt": "Map of Israel after 1949",
+        "description": "Map of Europe after 1949"
+      }
+    },
+    {
+      "number": 7,
+      "title": "French Decolonization",
+      "subTitle": "Vietnam",
+      "slide": true,
+      "split": true,
+      "text": [
+        {
+          "text": "French war of reconquest, 1946-1954",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ho Chi Minh (1890-1969)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dien Bien Phu, 1954 & division",
+          "color": "darkslategray"
+        },
+        {
+          "text": "",
           "color": "darkslategray"
         }
       ]

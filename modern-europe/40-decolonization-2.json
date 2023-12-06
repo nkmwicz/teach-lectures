@@ -1,12 +1,114 @@
 {
-  "images": [
-
-  ],
-  "slides": [{
-    "number": 1,
-    "slide": true,
-		"title": "Decolonization",
-    "intro": true,
-    "subTitle": "Uglier Stages"
-  }]
+  "images": [],
+  "slides": [
+    {
+      "number": 1,
+      "slide": true,
+      "title": "Decolonization Part II",
+      "intro": true,
+      "subTitle": "Uglier Stages"
+    },
+    {
+      "number": 2,
+      "slide": true,
+      "intro": true,
+      "title": "Decolonization: A History of Failure?",
+      "subTitle": "What did you think?"
+    },
+    {
+      "number": 3,
+      "slide": true,
+      "intro": true,
+      "title": "What is John Darwin not arguing?"
+    },
+    {
+      "number": 4,
+      "slide": true,
+      "intro": true,
+      "title": "What is John Darwin arguing?"
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Why was the process so messy?",
+      "text": [
+        {
+          "text": "What major assumptions about the world drove decolonization?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Were these assumptions correct?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Why was the process so messy?",
+      "text": [
+        {
+          "text": "What major assumptions about the world drove decolonization?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Were these assumptions correct?",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slide": true,
+      "intro": true,
+      "title": "Why did the Colonial powers move down this path?",
+      "subTitle": "Two main reasons?"
+    },
+    {
+      "number": 7,
+      "slide": true,
+      "intro": true,
+      "title": "What was the role of the USA and USSR?"
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Was a world of nations ready to be born in 1945 out of the decolonized world?",
+      "text": [
+        {
+          "text": "Why? or Why not/",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Think about th is class. How did nation-states develop in Europe?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Was a world of nations ready to be born in 1945 out of the decolonized world?",
+      "text": [
+        {
+          "text": "Why? or Why not/",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Think about th is class. How did nation-states develop in Europe?",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slide": true,
+      "intro": true,
+      "title": "Was Decolonization a failure?"
+    }
+  ]
 }

@@ -97,11 +97,11 @@
       "text": [
         {
           "text": "Why? or Why not/",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Think about th is class. How did nation-states develop in Europe?",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ]
     },
